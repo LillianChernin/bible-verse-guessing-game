@@ -1,4 +1,6 @@
 
+let currentRandomVerse = {};
+
 const books = ["genesis", "matthew", "mark", "luke", "john"];
 
 const randomBookSelector = () => {
@@ -6,15 +8,33 @@ const randomBookSelector = () => {
   return books[randomNum];
 }
 
-const randomVerseSelector = () => {
-
+const randomVerseSelector = (array) => {
+  let randomVerse = Math.floor(Math.random() * array.length);
+  return array[randomVerse];
 }
 
 
 const randomVerseGenerator = () => {
-
+  let randomBook = randomBookSelector();
+  if (randomBook === "genesis") {
+    return randomVerseSelector(genesisVerses);
+  } else if (randomBook === "matthew") {
+    return randomVerseSelector(matthewVerses);
+  } else if (randomBook === "mark") {
+    return randomVerseSelector(markVerses);
+  } else if (randomBook === "luke") {
+    return randomVerseSelector(lukeVerses);
+  } else if (randomBook === "john") {
+    return randomVerseSelector(johnVerses);
+  }
 }
 
+const updateRandomVerse = () => {
+  let currentRandomVerse = randomVerseGenerator();
+  $('#randomVerse').text(currentRandomVerse.verseText);
+}
+
+updateRandomVerse();
 
 
 
