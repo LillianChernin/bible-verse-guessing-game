@@ -10054,4 +10054,4 @@ const genesisVerses = [{
 	"bookName": "Genesis",
 	"chapterNumber": 50,
 	"section": "Old Testament"
-}]);
+}];

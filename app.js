@@ -1,4 +1,12 @@
 console.log(matthewVerses[0]);
+console.log(markVerses[0]);
+
+console.log(lukeVerses[0]);
+
+console.log(johnVerses[0]);
+
+console.log(genesisVerses[0]);
+
 
 
 
