@@ -1,5 +1,7 @@
 
+let precedingVerse = {};
 let currentRandomVerse = {};
+let succeedingVerse = {};
 
 const books = ["genesis", "matthew", "mark", "luke", "john"];
 
@@ -10,7 +12,10 @@ const randomBookSelector = () => {
 
 const randomVerseSelector = (array) => {
   let randomVerse = Math.floor(Math.random() * array.length);
-  return array[randomVerse];
+  precedingVerse = array[randomVerse - 1];
+  succeedingVerse = array[randomVerse + 1];
+  currentRandomVerse = array[randomVerse];
+  return currentRandomVerse;
 }
 
 
@@ -29,13 +34,27 @@ const randomVerseGenerator = () => {
   }
 }
 
+const getHint = () => {
+  $('#hint').click(() => {
+    if (precedingVerse !== undefined) {
+      $('#precedingVerse').removeClass("hidden");
+    }
+    if (succeedingVerse !== undefined) {
+      $('#succeedingVerse').removeClass("hidden");
+    }
+  });
+}
+
+
 const updateRandomVerse = () => {
-  let currentRandomVerse = randomVerseGenerator();
+  randomVerseGenerator();
   $('#randomVerse').text(currentRandomVerse.verseText);
+  $('#precedingVerse').text(precedingVerse.verseText);
+  $('#succeedingVerse').text(succeedingVerse.verseText);
 }
 
 updateRandomVerse();
-
+getHint();
 
 
 
