@@ -1,5 +1,4 @@
-
-
+console.log(matthewVerses[0]);
 
 
 
