@@ -5,6 +5,7 @@
 
 
 
+
 // const dataArray = [];
 //
 // const retrieveVerseNumber = function(currentText) {
