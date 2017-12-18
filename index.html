@@ -2,88 +2,113 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Bible Verse Guessing Game</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
+    <header>
+      <h1>Bible Verse Guessing Game</h1>
+      <p>Guess what section, book, chapter and verse the random verse is from.</p>
+      <ul>
+        <li>10 points for correctly guessing the section.</li>
+        <li>20 points for correctly guessing the book number.</li>
+        <li>30 points for correctly guessing the chapter number.</li>
+        <li>40 points for correctly guessing the verse number.</li>
+        <li>Need a hint? Click the "Want a hint?" button below to see the surrounding verses before you guess.</li>
+      </ul>
+
+      <h4 id="score">Current Score: 0</h4>
+
+    </header>
+
+    <div>
+      <p id="precedingVerse"></p>
+      <p id="randomVerse"></p>
+      <p id="succeedingVerse"></p>
+    </div>
+
     <div id="selectSection">
+      <h3>Select the Section</h3>
       <input type="radio" id="sectionChoice1" name="section" value="old-testament"><label for="sectionChoice1">Old Testament</label>
       <input type="radio" id="sectionChoice2" name="section" value="new-testament"><label for="sectionChoice2">New Testament</label>
     </div>
 
-    <div id="selectBook">
 
+    <div id="selectBook">
+      <h3>Select the Book</h3>
       <input type="radio" id="bookChoice1" name="book" value="genesis"><label for="bookChoice1">Genesis</label>
-      <input type="radio" id="bookChoice2" name="book" value="exodus"><label for="bookChoice2">Exodus</label>
-      <input type="radio" id="bookChoice3" name="book" value="leviticus"><label for="bookChoice3">Leviticus</label>
-      <input type="radio" id="bookChoice4" name="book" value="numbers"><label for="bookChoice4">Numbers</label>
-      <input type="radio" id="bookChoice5" name="book" value="deuteronomy"><label for="bookChoice5">Deuteronomy</label>
+      <input class="hidden" type="radio" id="bookChoice2" name="book" value="exodus"><label class="hidden" for="bookChoice2">Exodus</label>
+      <input class="hidden" type="radio" id="bookChoice3" name="book" value="leviticus"><label class="hidden" for="bookChoice3">Leviticus</label>
+      <input class="hidden" type="radio" id="bookChoice4" name="book" value="numbers"><label class="hidden" for="bookChoice4">Numbers</label>
+      <input class="hidden" type="radio" id="bookChoice5" name="book" value="deuteronomy"><label class="hidden" for="bookChoice5">Deuteronomy</label>
       <br>
-      <input type="radio" id="bookChoice6" name="book" value="joshua"><label for="bookChoice6">Joshua</label>
-      <input type="radio" id="bookChoice7" name="book" value="judges"><label for="bookChoice7">Judges</label>
-      <input type="radio" id="bookChoice8" name="book" value="ruth"><label for="bookChoice8">Ruth</label>
-      <input type="radio" id="bookChoice9" name="book" value="1-samuel"><label for="bookChoice9">1 Samuel</label>
-      <input type="radio" id="bookChoice10" name="book" value="2-samuel"><label for="bookChoice10">2 Samuel</label>
-      <input type="radio" id="bookChoice11" name="book" value="1-kings"><label for="bookChoice11">1 Kings</label>
-      <input type="radio" id="bookChoice12" name="book" value="2-kings"><label for="bookChoice12">2 Kings</label>
-      <input type="radio" id="bookChoice13" name="book" value="1-chronicles"><label for="bookChoice13">1 Chronicles</label>
-      <input type="radio" id="bookChoice14" name="book" value="2-chronicles"><label for="bookChoice14">2 Chronicles</label>
-      <input type="radio" id="bookChoice15" name="book" value="ezra"><label for="bookChoice15">Ezra</label>
-      <input type="radio" id="bookChoice16" name="book" value="nehemiah"><label for="bookChoice6">Nehemiah</label>
-      <input type="radio" id="bookChoice17" name="book" value="esther"><label for="bookChoice6">Esther</label>
+      <input class="hidden" type="radio" id="bookChoice6" name="book" value="joshua"><label class="hidden" for="bookChoice6">Joshua</label>
+      <input class="hidden" type="radio" id="bookChoice7" name="book" value="judges"><label class="hidden" for="bookChoice7">Judges</label>
+      <input class="hidden" type="radio" id="bookChoice8" name="book" value="ruth"><label class="hidden" for="bookChoice8">Ruth</label>
+      <input class="hidden" type="radio" id="bookChoice9" name="book" value="1-samuel"><label class="hidden" for="bookChoice9">1 Samuel</label>
+      <input class="hidden" type="radio" id="bookChoice10" name="book" value="2-samuel"><label class="hidden" for="bookChoice10">2 Samuel</label>
+      <input class="hidden" type="radio" id="bookChoice11" name="book" value="1-kings"><label class="hidden" for="bookChoice11">1 Kings</label>
+      <input class="hidden" type="radio" id="bookChoice12" name="book" value="2-kings"><label class="hidden" for="bookChoice12">2 Kings</label>
+      <input class="hidden" type="radio" id="bookChoice13" name="book" value="1-chronicles"><label class="hidden" for="bookChoice13">1 Chronicles</label>
+      <input class="hidden" type="radio" id="bookChoice14" name="book" value="2-chronicles"><label class="hidden" for="bookChoice14">2 Chronicles</label>
+      <input class="hidden" type="radio" id="bookChoice15" name="book" value="ezra"><label class="hidden" for="bookChoice15">Ezra</label>
+      <input class="hidden" type="radio" id="bookChoice16" name="book" value="nehemiah"><label class="hidden" for="bookChoice16">Nehemiah</label>
+      <input class="hidden" type="radio" id="bookChoice17" name="book" value="esther"><label class="hidden" for="bookChoice17">Esther</label>
       <br>
-      <input type="radio" id="bookChoice18" name="book" value="job"><label for="bookChoice6">Job</label>
-      <input type="radio" id="bookChoice19" name="book" value="psalms"><label for="bookChoice6">Psalms</label>
-      <input type="radio" id="bookChoice20" name="book" value="proverbs"><label for="bookChoice6">Proverbs</label>
-      <input type="radio" id="bookChoice21" name="book" value="ecclesiastes"><label for="bookChoice6">Ecclesiastes</label>
-      <input type="radio" id="bookChoice22" name="book" value="song-of-solomon"><label for="bookChoice6">Song of Solomon</label>
-      <input type="radio" id="bookChoice23" name="book" value="isaiah"><label for="bookChoice6">Isaiah</label>
-      <input type="radio" id="bookChoice24" name="book" value="jeremiah"><label for="bookChoice6">Jeremiah</label>
-      <input type="radio" id="bookChoice25" name="book" value="lamentations"><label for="bookChoice6">Lamentations</label>
-      <input type="radio" id="bookChoice26" name="book" value="ezekiel"><label for="bookChoice6">Ezekiel</label>
-      <input type="radio" id="bookChoice27" name="book" value="daniel"><label for="bookChoice6">Daniel</label>
-      <input type="radio" id="bookChoice28" name="book" value="hosea"><label for="bookChoice6">Hosea</label>
-      <input type="radio" id="bookChoice29" name="book" value="joel"><label for="bookChoice6">Joel</label>
-      <input type="radio" id="bookChoice30" name="book" value="amos"><label for="bookChoice6">Amos</label>
-      <input type="radio" id="bookChoice31" name="book" value="obadiah"><label for="bookChoice6">Obadiah</label>
-      <input type="radio" id="bookChoice32" name="book" value="jonah"><label for="bookChoice6">Jonah</label>
-      <input type="radio" id="bookChoice33" name="book" value="micah"><label for="bookChoice6">Micah</label>
-      <input type="radio" id="bookChoice34" name="book" value="nahum"><label for="bookChoice6">Nahum</label>
-      <input type="radio" id="bookChoice35" name="book" value="habakkuk"><label for="bookChoice6">Habakkuk</label>
-      <input type="radio" id="bookChoice36" name="book" value="zephaniah"><label for="bookChoice6">Zephaniah</label>
-      <input type="radio" id="bookChoice37" name="book" value="haggai"><label for="bookChoice6">Haggai</label>
-      <input type="radio" id="bookChoice38" name="book" value="zechariah"><label for="bookChoice6">Zechariah</label>
-      <input type="radio" id="bookChoice39" name="book" value="malachi"><label for="bookChoice6">Malachi</label>
+      <input class="hidden" type="radio" id="bookChoice18" name="book" value="job"><label class="hidden" for="bookChoice18">Job</label>
+      <input class="hidden" type="radio" id="bookChoice19" name="book" value="psalms"><label class="hidden" for="bookChoice19">Psalms</label>
+      <input class="hidden" type="radio" id="bookChoice20" name="book" value="proverbs"><label class="hidden" for="bookChoice20">Proverbs</label>
+      <input class="hidden" type="radio" id="bookChoice21" name="book" value="ecclesiastes"><label class="hidden" for="bookChoice21">Ecclesiastes</label>
+      <input class="hidden" type="radio" id="bookChoice22" name="book" value="song-of-solomon"><label class="hidden" for="bookChoice22">Song of Solomon</label>
+      <input class="hidden" type="radio" id="bookChoice23" name="book" value="isaiah"><label class="hidden" for="bookChoice23">Isaiah</label>
+      <input class="hidden" type="radio" id="bookChoice24" name="book" value="jeremiah"><label class="hidden" for="bookChoice24">Jeremiah</label>
+      <input class="hidden" type="radio" id="bookChoice25" name="book" value="lamentations"><label class="hidden" for="bookChoice25">Lamentations</label>
+      <input class="hidden" type="radio" id="bookChoice26" name="book" value="ezekiel"><label class="hidden" for="bookChoice26">Ezekiel</label>
+      <input class="hidden" type="radio" id="bookChoice27" name="book" value="daniel"><label class="hidden" for="bookChoice27">Daniel</label>
+      <input class="hidden" type="radio" id="bookChoice28" name="book" value="hosea"><label class="hidden" for="bookChoice28">Hosea</label>
+      <input class="hidden" type="radio" id="bookChoice29" name="book" value="joel"><label class="hidden" for="bookChoice29">Joel</label>
+      <input class="hidden" type="radio" id="bookChoice30" name="book" value="amos"><label class="hidden" for="bookChoice30">Amos</label>
+      <input class="hidden" type="radio" id="bookChoice31" name="book" value="obadiah"><label class="hidden" for="bookChoice31">Obadiah</label>
+      <input class="hidden" type="radio" id="bookChoice32" name="book" value="jonah"><label class="hidden" for="bookChoice32">Jonah</label>
+      <input class="hidden" type="radio" id="bookChoice33" name="book" value="micah"><label class="hidden" for="bookChoice33">Micah</label>
+      <input class="hidden" type="radio" id="bookChoice34" name="book" value="nahum"><label class="hidden" for="bookChoice34">Nahum</label>
+      <input class="hidden" type="radio" id="bookChoice35" name="book" value="habakkuk"><label class="hidden" for="bookChoice35">Habakkuk</label>
+      <input class="hidden" type="radio" id="bookChoice36" name="book" value="zephaniah"><label class="hidden" for="bookChoice36">Zephaniah</label>
+      <input class="hidden" type="radio" id="bookChoice37" name="book" value="haggai"><label class="hidden" for="bookChoice37">Haggai</label>
+      <input class="hidden" type="radio" id="bookChoice38" name="book" value="zechariah"><label class="hidden" for="bookChoice38">Zechariah</label>
+      <input class="hidden" type="radio" id="bookChoice39" name="book" value="malachi"><label class="hidden" for="bookChoice39">Malachi</label>
       <br>
-      <input type="radio" id="bookChoice40" name="book" value="matthew"><label for="bookChoice6">Matthew</label>
-      <input type="radio" id="bookChoice41" name="book" value="mark"><label for="bookChoice6">Mark</label>
-      <input type="radio" id="bookChoice42" name="book" value="luke"><label for="bookChoice6">Luke</label>
-      <input type="radio" id="bookChoice43" name="book" value="john"><label for="bookChoice6">John</label>
-      <input type="radio" id="bookChoice44" name="book" value="acts"><label for="bookChoice6">Acts</label>
+      <input type="radio" id="bookChoice40" name="book" value="matthew"><label for="bookChoice40">Matthew</label>
+      <input type="radio" id="bookChoice41" name="book" value="mark"><label for="bookChoice41">Mark</label>
+      <input type="radio" id="bookChoice42" name="book" value="luke"><label for="bookChoice42">Luke</label>
+      <input type="radio" id="bookChoice43" name="book" value="john"><label for="bookChoice43">John</label>
+      <input class="hidden" type="radio" id="bookChoice44" name="book" value="acts"><label class="hidden" for="bookChoice44">Acts</label>
       <br>
-      <input type="radio" id="bookChoice45" name="book" value="romans"><label for="bookChoice6">Romans</label>
-      <input type="radio" id="bookChoice46" name="book" value="1-corinthians"><label for="bookChoice6">1 Corinthians</label>
-      <input type="radio" id="bookChoice47" name="book" value="2-corinthians"><label for="bookChoice6">2 Corinthians</label>
-      <input type="radio" id="bookChoice48" name="book" value="galatians"><label for="bookChoice6">Galatians</label>
-      <input type="radio" id="bookChoice49" name="book" value="ephesians"><label for="bookChoice6">Ephesians</label>
-      <input type="radio" id="bookChoice50" name="book" value="philippians"><label for="bookChoice6">Philippians</label>
-      <input type="radio" id="bookChoice51" name="book" value="colossians"><label for="bookChoice6">Colossians</label>
-      <input type="radio" id="bookChoice52" name="book" value="1-thessalonians"><label for="bookChoice6">1 Thessalonians</label>
-      <input type="radio" id="bookChoice53" name="book" value="2-thessalonians"><label for="bookChoice6">2 Thessalonians</label>
-      <input type="radio" id="bookChoice54" name="book" value="1-timothy"><label for="bookChoice6">1 Timothy</label>
-      <input type="radio" id="bookChoice55" name="book" value="2-timothy"><label for="bookChoice6">2 Timothy</label>
-      <input type="radio" id="bookChoice56" name="book" value="titus"><label for="bookChoice6">Titus</label>
-      <input type="radio" id="bookChoice57" name="book" value="philemon"><label for="bookChoice6">Philemon</label>
-      <input type="radio" id="bookChoice58" name="book" value="hebrews"><label for="bookChoice6">Hebrews</label>
-      <input type="radio" id="bookChoice59" name="book" value="james"><label for="bookChoice6">James</label>
-      <input type="radio" id="bookChoice60" name="book" value="1-peter"><label for="bookChoice6">1 Peter</label>
-      <input type="radio" id="bookChoice61" name="book" value="2-peter"><label for="bookChoice6">2 Peter</label>
-      <input type="radio" id="bookChoice62" name="book" value="1-john"><label for="bookChoice6">1 John</label>
-      <input type="radio" id="bookChoice63" name="book" value="2-john"><label for="bookChoice6">2 John</label>
-      <input type="radio" id="bookChoice64" name="book" value="3-john"><label for="bookChoice6">3 John</label>
-      <input type="radio" id="bookChoice65" name="book" value="jude"><label for="bookChoice6">Jude</label>
-      <input type="radio" id="bookChoice66" name="book" value="revelation"><label for="bookChoice6">Revelation</label>
+      <input class="hidden" type="radio" id="bookChoice45" name="book" value="romans"><label class="hidden" for="bookChoice45">Romans</label>
+      <input class="hidden" type="radio" id="bookChoice46" name="book" value="1-corinthians"><label class="hidden" for="bookChoice46">1 Corinthians</label>
+      <input class="hidden" type="radio" id="bookChoice47" name="book" value="2-corinthians"><label class="hidden" for="bookChoice47">2 Corinthians</label>
+      <input class="hidden" type="radio" id="bookChoice48" name="book" value="galatians"><label class="hidden" for="bookChoice48">Galatians</label>
+      <input class="hidden" type="radio" id="bookChoice49" name="book" value="ephesians"><label class="hidden" for="bookChoice49">Ephesians</label>
+      <input class="hidden" type="radio" id="bookChoice50" name="book" value="philippians"><label class="hidden" for="bookChoice50">Philippians</label>
+      <input class="hidden" type="radio" id="bookChoice51" name="book" value="colossians"><label class="hidden" for="bookChoice51">Colossians</label>
+      <input class="hidden" type="radio" id="bookChoice52" name="book" value="1-thessalonians"><label class="hidden" for="bookChoice52">1 Thessalonians</label>
+      <input class="hidden" type="radio" id="bookChoice53" name="book" value="2-thessalonians"><label class="hidden" for="bookChoice53">2 Thessalonians</label>
+      <input class="hidden" type="radio" id="bookChoice54" name="book" value="1-timothy"><label class="hidden" for="bookChoice54">1 Timothy</label>
+      <input class="hidden" type="radio" id="bookChoice55" name="book" value="2-timothy"><label class="hidden" for="bookChoice55">2 Timothy</label>
+      <input class="hidden" type="radio" id="bookChoice56" name="book" value="titus"><label class="hidden" for="bookChoice56">Titus</label>
+      <input class="hidden" type="radio" id="bookChoice57" name="book" value="philemon"><label class="hidden" for="bookChoice57">Philemon</label>
+      <input class="hidden" type="radio" id="bookChoice58" name="book" value="hebrews"><label class="hidden" for="bookChoice58">Hebrews</label>
+      <input class="hidden" type="radio" id="bookChoice59" name="book" value="james"><label class="hidden" for="bookChoice59">James</label>
+      <input class="hidden" type="radio" id="bookChoice60" name="book" value="1-peter"><label class="hidden" for="bookChoice60">1 Peter</label>
+      <input class="hidden" type="radio" id="bookChoice61" name="book" value="2-peter"><label class="hidden" for="bookChoice61">2 Peter</label>
+      <input class="hidden" type="radio" id="bookChoice62" name="book" value="1-john"><label class="hidden" for="bookChoice62">1 John</label>
+      <input class="hidden" type="radio" id="bookChoice63" name="book" value="2-john"><label class="hidden" for="bookChoice63">2 John</label>
+      <input class="hidden" type="radio" id="bookChoice64" name="book" value="3-john"><label class="hidden" for="bookChoice64">3 John</label>
+      <input class="hidden" type="radio" id="bookChoice65" name="book" value="jude"><label class="hidden" for="bookChoice65">Jude</label>
+      <input class="hidden" type="radio" id="bookChoice66" name="book" value="revelation"><label class="hidden" for="bookChoice66">Revelation</label>
 
     </div id="selectChapter">
+      <h3>Select the Chapter Number</h3>
       <input type="radio" id="chapterChoice1" name="chapter" value="chapter-1"><label for="chapterChoice1">Chapter 1</label>
       <input type="radio" id="chapterChoice2" name="chapter" value="chapter-2"><label for="chapterChoice2">Chapter 2</label>
       <input type="radio" id="chapterChoice3" name="chapter" value="chapter-3"><label for="chapterChoice3">Chapter 3</label>
@@ -134,112 +159,113 @@
       <input type="radio" id="chapterChoice48" name="chapter" value="chapter-48"><label for="chapterChoice48">Chapter 48</label>
       <input type="radio" id="chapterChoice49" name="chapter" value="chapter-49"><label for="chapterChoice49">Chapter 49</label>
       <input type="radio" id="chapterChoice50" name="chapter" value="chapter-50"><label for="chapterChoice50">Chapter 50</label>
-      <input type="radio" id="chapterChoice51" name="chapter" value="chapter-51"><label for="chapterChoice51">Chapter 51</label>
-      <input type="radio" id="chapterChoice52" name="chapter" value="chapter-52"><label for="chapterChoice52">Chapter 52</label>
-      <input type="radio" id="chapterChoice53" name="chapter" value="chapter-53"><label for="chapterChoice53">Chapter 53</label>
-      <input type="radio" id="chapterChoice54" name="chapter" value="chapter-54"><label for="chapterChoice54">Chapter 54</label>
-      <input type="radio" id="chapterChoice55" name="chapter" value="chapter-55"><label for="chapterChoice55">Chapter 55</label>
-      <input type="radio" id="chapterChoice56" name="chapter" value="chapter-56"><label for="chapterChoice56">Chapter 56</label>
-      <input type="radio" id="chapterChoice57" name="chapter" value="chapter-57"><label for="chapterChoice57">Chapter 57</label>
-      <input type="radio" id="chapterChoice58" name="chapter" value="chapter-58"><label for="chapterChoice58">Chapter 58</label>
-      <input type="radio" id="chapterChoice59" name="chapter" value="chapter-59"><label for="chapterChoice59">Chapter 59</label>
-      <input type="radio" id="chapterChoice60" name="chapter" value="chapter-60"><label for="chapterChoice60">Chapter 60</label>
-      <input type="radio" id="chapterChoice61" name="chapter" value="chapter-61"><label for="chapterChoice61">Chapter 61</label>
-      <input type="radio" id="chapterChoice62" name="chapter" value="chapter-62"><label for="chapterChoice62">Chapter 62</label>
-      <input type="radio" id="chapterChoice63" name="chapter" value="chapter-63"><label for="chapterChoice63">Chapter 63</label>
-      <input type="radio" id="chapterChoice64" name="chapter" value="chapter-64"><label for="chapterChoice64">Chapter 64</label>
-      <input type="radio" id="chapterChoice65" name="chapter" value="chapter-65"><label for="chapterChoice65">Chapter 65</label>
-      <input type="radio" id="chapterChoice66" name="chapter" value="chapter-66"><label for="chapterChoice66">Chapter 66</label>
-      <input type="radio" id="chapterChoice67" name="chapter" value="chapter-67"><label for="chapterChoice67">Chapter 67</label>
-      <input type="radio" id="chapterChoice68" name="chapter" value="chapter-68"><label for="chapterChoice68">Chapter 68</label>
-      <input type="radio" id="chapterChoice69" name="chapter" value="chapter-69"><label for="chapterChoice69">Chapter 69</label>
-      <input type="radio" id="chapterChoice70" name="chapter" value="chapter-70"><label for="chapterChoice70">Chapter 70</label>
-      <input type="radio" id="chapterChoice71" name="chapter" value="chapter-71"><label for="chapterChoice71">Chapter 71</label>
-      <input type="radio" id="chapterChoice72" name="chapter" value="chapter-72"><label for="chapterChoice72">Chapter 72</label>
-      <input type="radio" id="chapterChoice73" name="chapter" value="chapter-73"><label for="chapterChoice73">Chapter 73</label>
-      <input type="radio" id="chapterChoice74" name="chapter" value="chapter-74"><label for="chapterChoice74">Chapter 74</label>
-      <input type="radio" id="chapterChoice75" name="chapter" value="chapter-75"><label for="chapterChoice75">Chapter 75</label>
-      <input type="radio" id="chapterChoice76" name="chapter" value="chapter-76"><label for="chapterChoice76">Chapter 76</label>
-      <input type="radio" id="chapterChoice77" name="chapter" value="chapter-77"><label for="chapterChoice77">Chapter 77</label>
-      <input type="radio" id="chapterChoice78" name="chapter" value="chapter-78"><label for="chapterChoice78">Chapter 78</label>
-      <input type="radio" id="chapterChoice79" name="chapter" value="chapter-79"><label for="chapterChoice79">Chapter 79</label>
-      <input type="radio" id="chapterChoice80" name="chapter" value="chapter-80"><label for="chapterChoice80">Chapter 80</label>
-      <input type="radio" id="chapterChoice81" name="chapter" value="chapter-81"><label for="chapterChoice81">Chapter 81</label>
-      <input type="radio" id="chapterChoice82" name="chapter" value="chapter-82"><label for="chapterChoice82">Chapter 82</label>
-      <input type="radio" id="chapterChoice83" name="chapter" value="chapter-83"><label for="chapterChoice83">Chapter 83</label>
-      <input type="radio" id="chapterChoice84" name="chapter" value="chapter-84"><label for="chapterChoice84">Chapter 84</label>
-      <input type="radio" id="chapterChoice85" name="chapter" value="chapter-85"><label for="chapterChoice85">Chapter 85</label>
-      <input type="radio" id="chapterChoice86" name="chapter" value="chapter-86"><label for="chapterChoice86">Chapter 86</label>
-      <input type="radio" id="chapterChoice87" name="chapter" value="chapter-87"><label for="chapterChoice87">Chapter 87</label>
-      <input type="radio" id="chapterChoice88" name="chapter" value="chapter-88"><label for="chapterChoice88">Chapter 88</label>
-      <input type="radio" id="chapterChoice89" name="chapter" value="chapter-89"><label for="chapterChoice89">Chapter 89</label>
-      <input type="radio" id="chapterChoice90" name="chapter" value="chapter-90"><label for="chapterChoice90">Chapter 90</label>
-      <input type="radio" id="chapterChoice91" name="chapter" value="chapter-91"><label for="chapterChoice91">Chapter 91</label>
-      <input type="radio" id="chapterChoice92" name="chapter" value="chapter-92"><label for="chapterChoice92">Chapter 92</label>
-      <input type="radio" id="chapterChoice93" name="chapter" value="chapter-93"><label for="chapterChoice93">Chapter 93</label>
-      <input type="radio" id="chapterChoice94" name="chapter" value="chapter-94"><label for="chapterChoice94">Chapter 94</label>
-      <input type="radio" id="chapterChoice95" name="chapter" value="chapter-95"><label for="chapterChoice95">Chapter 95</label>
-      <input type="radio" id="chapterChoice96" name="chapter" value="chapter-96"><label for="chapterChoice96">Chapter 96</label>
-      <input type="radio" id="chapterChoice97" name="chapter" value="chapter-97"><label for="chapterChoice97">Chapter 97</label>
-      <input type="radio" id="chapterChoice98" name="chapter" value="chapter-98"><label for="chapterChoice98">Chapter 98</label>
-      <input type="radio" id="chapterChoice99" name="chapter" value="chapter-99"><label for="chapterChoice99">Chapter 99</label>
-      <input type="radio" id="chapterChoice100" name="chapter" value="chapter-100"><label for="chapterChoice100">Chapter 100</label>
-      <input type="radio" id="chapterChoice101" name="chapter" value="chapter-101"><label for="chapterChoice101">Chapter 101</label>
-      <input type="radio" id="chapterChoice102" name="chapter" value="chapter-102"><label for="chapterChoice102">Chapter 102</label>
-      <input type="radio" id="chapterChoice103" name="chapter" value="chapter-103"><label for="chapterChoice103">Chapter 103</label>
-      <input type="radio" id="chapterChoice104" name="chapter" value="chapter-104"><label for="chapterChoice104">Chapter 104</label>
-      <input type="radio" id="chapterChoice105" name="chapter" value="chapter-105"><label for="chapterChoice105">Chapter 105</label>
-      <input type="radio" id="chapterChoice106" name="chapter" value="chapter-106"><label for="chapterChoice106">Chapter 106</label>
-      <input type="radio" id="chapterChoice107" name="chapter" value="chapter-107"><label for="chapterChoice107">Chapter 107</label>
-      <input type="radio" id="chapterChoice108" name="chapter" value="chapter-108"><label for="chapterChoice108">Chapter 108</label>
-      <input type="radio" id="chapterChoice109" name="chapter" value="chapter-109"><label for="chapterChoice109">Chapter 109</label>
-      <input type="radio" id="chapterChoice110" name="chapter" value="chapter-110"><label for="chapterChoice110">Chapter 110</label>
-      <input type="radio" id="chapterChoice111" name="chapter" value="chapter-111"><label for="chapterChoice111">Chapter 111</label>
-      <input type="radio" id="chapterChoice112" name="chapter" value="chapter-112"><label for="chapterChoice112">Chapter 112</label>
-      <input type="radio" id="chapterChoice113" name="chapter" value="chapter-113"><label for="chapterChoice113">Chapter 113</label>
-      <input type="radio" id="chapterChoice114" name="chapter" value="chapter-114"><label for="chapterChoice114">Chapter 114</label>
-      <input type="radio" id="chapterChoice115" name="chapter" value="chapter-115"><label for="chapterChoice115">Chapter 115</label>
-      <input type="radio" id="chapterChoice116" name="chapter" value="chapter-116"><label for="chapterChoice116">Chapter 116</label>
-      <input type="radio" id="chapterChoice117" name="chapter" value="chapter-117"><label for="chapterChoice117">Chapter 117</label>
-      <input type="radio" id="chapterChoice118" name="chapter" value="chapter-118"><label for="chapterChoice118">Chapter 118</label>
-      <input type="radio" id="chapterChoice119" name="chapter" value="chapter-119"><label for="chapterChoice119">Chapter 119</label>
-      <input type="radio" id="chapterChoice120" name="chapter" value="chapter-120"><label for="chapterChoice120">Chapter 120</label>
-      <input type="radio" id="chapterChoice121" name="chapter" value="chapter-121"><label for="chapterChoice121">Chapter 121</label>
-      <input type="radio" id="chapterChoice122" name="chapter" value="chapter-122"><label for="chapterChoice122">Chapter 122</label>
-      <input type="radio" id="chapterChoice123" name="chapter" value="chapter-123"><label for="chapterChoice123">Chapter 123</label>
-      <input type="radio" id="chapterChoice124" name="chapter" value="chapter-124"><label for="chapterChoice124">Chapter 124</label>
-      <input type="radio" id="chapterChoice125" name="chapter" value="chapter-125"><label for="chapterChoice125">Chapter 125</label>
-      <input type="radio" id="chapterChoice126" name="chapter" value="chapter-126"><label for="chapterChoice126">Chapter 126</label>
-      <input type="radio" id="chapterChoice127" name="chapter" value="chapter-127"><label for="chapterChoice127">Chapter 127</label>
-      <input type="radio" id="chapterChoice128" name="chapter" value="chapter-128"><label for="chapterChoice128">Chapter 128</label>
-      <input type="radio" id="chapterChoice129" name="chapter" value="chapter-129"><label for="chapterChoice129">Chapter 129</label>
-      <input type="radio" id="chapterChoice130" name="chapter" value="chapter-130"><label for="chapterChoice130">Chapter 130</label>
-      <input type="radio" id="chapterChoice131" name="chapter" value="chapter-131"><label for="chapterChoice131">Chapter 131</label>
-      <input type="radio" id="chapterChoice132" name="chapter" value="chapter-132"><label for="chapterChoice132">Chapter 132</label>
-      <input type="radio" id="chapterChoice133" name="chapter" value="chapter-133"><label for="chapterChoice133">Chapter 133</label>
-      <input type="radio" id="chapterChoice134" name="chapter" value="chapter-134"><label for="chapterChoice134">Chapter 134</label>
-      <input type="radio" id="chapterChoice135" name="chapter" value="chapter-135"><label for="chapterChoice135">Chapter 135</label>
-      <input type="radio" id="chapterChoice136" name="chapter" value="chapter-136"><label for="chapterChoice136">Chapter 136</label>
-      <input type="radio" id="chapterChoice137" name="chapter" value="chapter-137"><label for="chapterChoice137">Chapter 137</label>
-      <input type="radio" id="chapterChoice138" name="chapter" value="chapter-138"><label for="chapterChoice138">Chapter 138</label>
-      <input type="radio" id="chapterChoice139" name="chapter" value="chapter-139"><label for="chapterChoice139">Chapter 139</label>
-      <input type="radio" id="chapterChoice140" name="chapter" value="chapter-140"><label for="chapterChoice140">Chapter 140</label>
-      <input type="radio" id="chapterChoice141" name="chapter" value="chapter-141"><label for="chapterChoice141">Chapter 141</label>
-      <input type="radio" id="chapterChoice142" name="chapter" value="chapter-142"><label for="chapterChoice142">Chapter 142</label>
-      <input type="radio" id="chapterChoice143" name="chapter" value="chapter-143"><label for="chapterChoice143">Chapter 143</label>
-      <input type="radio" id="chapterChoice144" name="chapter" value="chapter-144"><label for="chapterChoice144">Chapter 144</label>
-      <input type="radio" id="chapterChoice145" name="chapter" value="chapter-145"><label for="chapterChoice145">Chapter 145</label>
-      <input type="radio" id="chapterChoice146" name="chapter" value="chapter-146"><label for="chapterChoice146">Chapter 146</label>
-      <input type="radio" id="chapterChoice147" name="chapter" value="chapter-147"><label for="chapterChoice147">Chapter 147</label>
-      <input type="radio" id="chapterChoice148" name="chapter" value="chapter-148"><label for="chapterChoice148">Chapter 148</label>
-      <input type="radio" id="chapterChoice149" name="chapter" value="chapter-149"><label for="chapterChoice149">Chapter 149</label>
-      <input type="radio" id="chapterChoice150" name="chapter" value="chapter-150"><label for="chapterChoice150">Chapter 150</label>
+      <input class="hidden" type="radio" id="chapterChoice51" name="chapter" value="chapter-51"><label class="hidden" for="chapterChoice51">Chapter 51</label>
+      <input class="hidden" type="radio" id="chapterChoice52" name="chapter" value="chapter-52"><label class="hidden" for="chapterChoice52">Chapter 52</label>
+      <input class="hidden" type="radio" id="chapterChoice53" name="chapter" value="chapter-53"><label class="hidden" for="chapterChoice53">Chapter 53</label>
+      <input class="hidden" type="radio" id="chapterChoice54" name="chapter" value="chapter-54"><label class="hidden" for="chapterChoice54">Chapter 54</label>
+      <input class="hidden" type="radio" id="chapterChoice55" name="chapter" value="chapter-55"><label class="hidden" for="chapterChoice55">Chapter 55</label>
+      <input class="hidden" type="radio" id="chapterChoice56" name="chapter" value="chapter-56"><label class="hidden" for="chapterChoice56">Chapter 56</label>
+      <input class="hidden" type="radio" id="chapterChoice57" name="chapter" value="chapter-57"><label class="hidden" for="chapterChoice57">Chapter 57</label>
+      <input class="hidden" type="radio" id="chapterChoice58" name="chapter" value="chapter-58"><label class="hidden" for="chapterChoice58">Chapter 58</label>
+      <input class="hidden" type="radio" id="chapterChoice59" name="chapter" value="chapter-59"><label class="hidden" for="chapterChoice59">Chapter 59</label>
+      <input class="hidden" type="radio" id="chapterChoice60" name="chapter" value="chapter-60"><label class="hidden" for="chapterChoice60">Chapter 60</label>
+      <input class="hidden" type="radio" id="chapterChoice61" name="chapter" value="chapter-61"><label class="hidden" for="chapterChoice61">Chapter 61</label>
+      <input class="hidden" type="radio" id="chapterChoice62" name="chapter" value="chapter-62"><label class="hidden" for="chapterChoice62">Chapter 62</label>
+      <input class="hidden" type="radio" id="chapterChoice63" name="chapter" value="chapter-63"><label class="hidden" for="chapterChoice63">Chapter 63</label>
+      <input class="hidden" type="radio" id="chapterChoice64" name="chapter" value="chapter-64"><label class="hidden" for="chapterChoice64">Chapter 64</label>
+      <input class="hidden" type="radio" id="chapterChoice65" name="chapter" value="chapter-65"><label class="hidden" for="chapterChoice65">Chapter 65</label>
+      <input class="hidden" type="radio" id="chapterChoice66" name="chapter" value="chapter-66"><label class="hidden" for="chapterChoice66">Chapter 66</label>
+      <input class="hidden" type="radio" id="chapterChoice67" name="chapter" value="chapter-67"><label class="hidden" for="chapterChoice67">Chapter 67</label>
+      <input class="hidden" type="radio" id="chapterChoice68" name="chapter" value="chapter-68"><label class="hidden" for="chapterChoice68">Chapter 68</label>
+      <input class="hidden" type="radio" id="chapterChoice69" name="chapter" value="chapter-69"><label class="hidden" for="chapterChoice69">Chapter 69</label>
+      <input class="hidden" type="radio" id="chapterChoice70" name="chapter" value="chapter-70"><label class="hidden" for="chapterChoice70">Chapter 70</label>
+      <input class="hidden" type="radio" id="chapterChoice71" name="chapter" value="chapter-71"><label class="hidden" for="chapterChoice71">Chapter 71</label>
+      <input class="hidden" type="radio" id="chapterChoice72" name="chapter" value="chapter-72"><label class="hidden" for="chapterChoice72">Chapter 72</label>
+      <input class="hidden" type="radio" id="chapterChoice73" name="chapter" value="chapter-73"><label class="hidden" for="chapterChoice73">Chapter 73</label>
+      <input class="hidden" type="radio" id="chapterChoice74" name="chapter" value="chapter-74"><label class="hidden" for="chapterChoice74">Chapter 74</label>
+      <input class="hidden" type="radio" id="chapterChoice75" name="chapter" value="chapter-75"><label class="hidden" for="chapterChoice75">Chapter 75</label>
+      <input class="hidden" type="radio" id="chapterChoice76" name="chapter" value="chapter-76"><label class="hidden" for="chapterChoice76">Chapter 76</label>
+      <input class="hidden" type="radio" id="chapterChoice77" name="chapter" value="chapter-77"><label class="hidden" for="chapterChoice77">Chapter 77</label>
+      <input class="hidden" type="radio" id="chapterChoice78" name="chapter" value="chapter-78"><label class="hidden" for="chapterChoice78">Chapter 78</label>
+      <input class="hidden" type="radio" id="chapterChoice79" name="chapter" value="chapter-79"><label class="hidden" for="chapterChoice79">Chapter 79</label>
+      <input class="hidden" type="radio" id="chapterChoice80" name="chapter" value="chapter-80"><label class="hidden" for="chapterChoice80">Chapter 80</label>
+      <input class="hidden" type="radio" id="chapterChoice81" name="chapter" value="chapter-81"><label class="hidden" for="chapterChoice81">Chapter 81</label>
+      <input class="hidden" type="radio" id="chapterChoice82" name="chapter" value="chapter-82"><label class="hidden" for="chapterChoice82">Chapter 82</label>
+      <input class="hidden" type="radio" id="chapterChoice83" name="chapter" value="chapter-83"><label class="hidden" for="chapterChoice83">Chapter 83</label>
+      <input class="hidden" type="radio" id="chapterChoice84" name="chapter" value="chapter-84"><label class="hidden" for="chapterChoice84">Chapter 84</label>
+      <input class="hidden" type="radio" id="chapterChoice85" name="chapter" value="chapter-85"><label class="hidden" for="chapterChoice85">Chapter 85</label>
+      <input class="hidden" type="radio" id="chapterChoice86" name="chapter" value="chapter-86"><label class="hidden" for="chapterChoice86">Chapter 86</label>
+      <input class="hidden" type="radio" id="chapterChoice87" name="chapter" value="chapter-87"><label class="hidden" for="chapterChoice87">Chapter 87</label>
+      <input class="hidden" type="radio" id="chapterChoice88" name="chapter" value="chapter-88"><label class="hidden" for="chapterChoice88">Chapter 88</label>
+      <input class="hidden" type="radio" id="chapterChoice89" name="chapter" value="chapter-89"><label class="hidden" for="chapterChoice89">Chapter 89</label>
+      <input class="hidden" type="radio" id="chapterChoice90" name="chapter" value="chapter-90"><label class="hidden" for="chapterChoice90">Chapter 90</label>
+      <input class="hidden" type="radio" id="chapterChoice91" name="chapter" value="chapter-91"><label class="hidden" for="chapterChoice91">Chapter 91</label>
+      <input class="hidden" type="radio" id="chapterChoice92" name="chapter" value="chapter-92"><label class="hidden" for="chapterChoice92">Chapter 92</label>
+      <input class="hidden" type="radio" id="chapterChoice93" name="chapter" value="chapter-93"><label class="hidden" for="chapterChoice93">Chapter 93</label>
+      <input class="hidden" type="radio" id="chapterChoice94" name="chapter" value="chapter-94"><label class="hidden" for="chapterChoice94">Chapter 94</label>
+      <input class="hidden" type="radio" id="chapterChoice95" name="chapter" value="chapter-95"><label class="hidden" for="chapterChoice95">Chapter 95</label>
+      <input class="hidden" type="radio" id="chapterChoice96" name="chapter" value="chapter-96"><label class="hidden" for="chapterChoice96">Chapter 96</label>
+      <input class="hidden" type="radio" id="chapterChoice97" name="chapter" value="chapter-97"><label class="hidden" for="chapterChoice97">Chapter 97</label>
+      <input class="hidden" type="radio" id="chapterChoice98" name="chapter" value="chapter-98"><label class="hidden" for="chapterChoice98">Chapter 98</label>
+      <input class="hidden" type="radio" id="chapterChoice99" name="chapter" value="chapter-99"><label class="hidden" for="chapterChoice99">Chapter 99</label>
+      <input class="hidden" type="radio" id="chapterChoice100" name="chapter" value="chapter-100"><label class="hidden" for="chapterChoice100">Chapter 100</label>
+      <input class="hidden" type="radio" id="chapterChoice101" name="chapter" value="chapter-101"><label class="hidden" for="chapterChoice101">Chapter 101</label>
+      <input class="hidden" type="radio" id="chapterChoice102" name="chapter" value="chapter-102"><label class="hidden" for="chapterChoice102">Chapter 102</label>
+      <input class="hidden" type="radio" id="chapterChoice103" name="chapter" value="chapter-103"><label class="hidden" for="chapterChoice103">Chapter 103</label>
+      <input class="hidden" type="radio" id="chapterChoice104" name="chapter" value="chapter-104"><label class="hidden" for="chapterChoice104">Chapter 104</label>
+      <input class="hidden" type="radio" id="chapterChoice105" name="chapter" value="chapter-105"><label class="hidden" for="chapterChoice105">Chapter 105</label>
+      <input class="hidden" type="radio" id="chapterChoice106" name="chapter" value="chapter-106"><label class="hidden" for="chapterChoice106">Chapter 106</label>
+      <input class="hidden" type="radio" id="chapterChoice107" name="chapter" value="chapter-107"><label class="hidden" for="chapterChoice107">Chapter 107</label>
+      <input class="hidden" type="radio" id="chapterChoice108" name="chapter" value="chapter-108"><label class="hidden" for="chapterChoice108">Chapter 108</label>
+      <input class="hidden" type="radio" id="chapterChoice109" name="chapter" value="chapter-109"><label class="hidden" for="chapterChoice109">Chapter 109</label>
+      <input class="hidden" type="radio" id="chapterChoice110" name="chapter" value="chapter-110"><label class="hidden" for="chapterChoice110">Chapter 110</label>
+      <input class="hidden" type="radio" id="chapterChoice111" name="chapter" value="chapter-111"><label class="hidden" for="chapterChoice111">Chapter 111</label>
+      <input class="hidden" type="radio" id="chapterChoice112" name="chapter" value="chapter-112"><label class="hidden" for="chapterChoice112">Chapter 112</label>
+      <input class="hidden" type="radio" id="chapterChoice113" name="chapter" value="chapter-113"><label class="hidden" for="chapterChoice113">Chapter 113</label>
+      <input class="hidden" type="radio" id="chapterChoice114" name="chapter" value="chapter-114"><label class="hidden" for="chapterChoice114">Chapter 114</label>
+      <input class="hidden" type="radio" id="chapterChoice115" name="chapter" value="chapter-115"><label class="hidden" for="chapterChoice115">Chapter 115</label>
+      <input class="hidden" type="radio" id="chapterChoice116" name="chapter" value="chapter-116"><label class="hidden" for="chapterChoice116">Chapter 116</label>
+      <input class="hidden" type="radio" id="chapterChoice117" name="chapter" value="chapter-117"><label class="hidden" for="chapterChoice117">Chapter 117</label>
+      <input class="hidden" type="radio" id="chapterChoice118" name="chapter" value="chapter-118"><label class="hidden" for="chapterChoice118">Chapter 118</label>
+      <input class="hidden" type="radio" id="chapterChoice119" name="chapter" value="chapter-119"><label class="hidden" for="chapterChoice119">Chapter 119</label>
+      <input class="hidden" type="radio" id="chapterChoice120" name="chapter" value="chapter-120"><label class="hidden" for="chapterChoice120">Chapter 120</label>
+      <input class="hidden" type="radio" id="chapterChoice121" name="chapter" value="chapter-121"><label class="hidden" for="chapterChoice121">Chapter 121</label>
+      <input class="hidden" type="radio" id="chapterChoice122" name="chapter" value="chapter-122"><label class="hidden" for="chapterChoice122">Chapter 122</label>
+      <input class="hidden" type="radio" id="chapterChoice123" name="chapter" value="chapter-123"><label class="hidden" for="chapterChoice123">Chapter 123</label>
+      <input class="hidden" type="radio" id="chapterChoice124" name="chapter" value="chapter-124"><label class="hidden" for="chapterChoice124">Chapter 124</label>
+      <input class="hidden" type="radio" id="chapterChoice125" name="chapter" value="chapter-125"><label class="hidden" for="chapterChoice125">Chapter 125</label>
+      <input class="hidden" type="radio" id="chapterChoice126" name="chapter" value="chapter-126"><label class="hidden" for="chapterChoice126">Chapter 126</label>
+      <input class="hidden" type="radio" id="chapterChoice127" name="chapter" value="chapter-127"><label class="hidden" for="chapterChoice127">Chapter 127</label>
+      <input class="hidden" type="radio" id="chapterChoice128" name="chapter" value="chapter-128"><label class="hidden" for="chapterChoice128">Chapter 128</label>
+      <input class="hidden" type="radio" id="chapterChoice129" name="chapter" value="chapter-129"><label class="hidden" for="chapterChoice129">Chapter 129</label>
+      <input class="hidden" type="radio" id="chapterChoice130" name="chapter" value="chapter-130"><label class="hidden" for="chapterChoice130">Chapter 130</label>
+      <input class="hidden" type="radio" id="chapterChoice131" name="chapter" value="chapter-131"><label class="hidden" for="chapterChoice131">Chapter 131</label>
+      <input class="hidden" type="radio" id="chapterChoice132" name="chapter" value="chapter-132"><label class="hidden" for="chapterChoice132">Chapter 132</label>
+      <input class="hidden" type="radio" id="chapterChoice133" name="chapter" value="chapter-133"><label class="hidden" for="chapterChoice133">Chapter 133</label>
+      <input class="hidden" type="radio" id="chapterChoice134" name="chapter" value="chapter-134"><label class="hidden" for="chapterChoice134">Chapter 134</label>
+      <input class="hidden" type="radio" id="chapterChoice135" name="chapter" value="chapter-135"><label class="hidden" for="chapterChoice135">Chapter 135</label>
+      <input class="hidden" type="radio" id="chapterChoice136" name="chapter" value="chapter-136"><label class="hidden" for="chapterChoice136">Chapter 136</label>
+      <input class="hidden" type="radio" id="chapterChoice137" name="chapter" value="chapter-137"><label class="hidden" for="chapterChoice137">Chapter 137</label>
+      <input class="hidden" type="radio" id="chapterChoice138" name="chapter" value="chapter-138"><label class="hidden" for="chapterChoice138">Chapter 138</label>
+      <input class="hidden" type="radio" id="chapterChoice139" name="chapter" value="chapter-139"><label class="hidden" for="chapterChoice139">Chapter 139</label>
+      <input class="hidden" type="radio" id="chapterChoice140" name="chapter" value="chapter-140"><label class="hidden" for="chapterChoice140">Chapter 140</label>
+      <input class="hidden" type="radio" id="chapterChoice141" name="chapter" value="chapter-141"><label class="hidden" for="chapterChoice141">Chapter 141</label>
+      <input class="hidden" type="radio" id="chapterChoice142" name="chapter" value="chapter-142"><label class="hidden" for="chapterChoice142">Chapter 142</label>
+      <input class="hidden" type="radio" id="chapterChoice143" name="chapter" value="chapter-143"><label class="hidden" for="chapterChoice143">Chapter 143</label>
+      <input class="hidden" type="radio" id="chapterChoice144" name="chapter" value="chapter-144"><label class="hidden" for="chapterChoice144">Chapter 144</label>
+      <input class="hidden" type="radio" id="chapterChoice145" name="chapter" value="chapter-145"><label class="hidden" for="chapterChoice145">Chapter 145</label>
+      <input class="hidden" type="radio" id="chapterChoice146" name="chapter" value="chapter-146"><label class="hidden" for="chapterChoice146">Chapter 146</label>
+      <input class="hidden" type="radio" id="chapterChoice147" name="chapter" value="chapter-147"><label class="hidden" for="chapterChoice147">Chapter 147</label>
+      <input class="hidden" type="radio" id="chapterChoice148" name="chapter" value="chapter-148"><label class="hidden" for="chapterChoice148">Chapter 148</label>
+      <input class="hidden" type="radio" id="chapterChoice149" name="chapter" value="chapter-149"><label class="hidden" for="chapterChoice149">Chapter 149</label>
+      <input class="hidden" type="radio" id="chapterChoice150" name="chapter" value="chapter-150"><label class="hidden" for="chapterChoice150">Chapter 150</label>
     <div>
     </div>
 
 
 
     <div id="selectVerse">
+      <h3>Select the Verse Number</h3>
       <input type="radio" id="verseChoice1" name="verse" value="verse-1"><label for="verseChoice1">Verse 1</label>
       <input type="radio" id="verseChoice2" name="verse" value="verse-2"><label for="verseChoice2">Verse 2</label>
       <input type="radio" id="verseChoice3" name="verse" value="verse-3"><label for="verseChoice3">Verse 3</label>
@@ -417,6 +443,10 @@
       <input type="radio" id="verseChoice175" name="verse" value="verse-175"><label for="verseChoice175">Verse 175</label>
       <input type="radio" id="verseChoice176" name="verse" value="verse-176"><label for="verseChoice176">Verse 176</label>
 
+    </div>
+    <div>
+      <button id="hint">Want a hint?</button>
+      <button id="submitGuess">Submit Guess</button>
     </div>
 
     <script src="genesis.js"></script>

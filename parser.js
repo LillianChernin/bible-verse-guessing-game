@@ -25,9 +25,9 @@ $('.verse').each(function(i, obj) {
   let currentText = $(this).text();
   currentObj.verseText = retrieveVerseText(currentText);
   currentObj.verseNumber = retrieveVerseNumber(currentText);
-  currentObj.bookName = "Genesis";
-  currentObj.chapterNumber = 3;
-  currentObj.section = "Old Testament";
+  currentObj.bookName = "John";
+  currentObj.chapterNumber = 1;
+  currentObj.section = "New Testament";
   dataArray.push(currentObj);
 });
 
