@@ -1,11 +1,19 @@
-console.log(matthewVerses[0]);
-console.log(markVerses[0]);
 
-console.log(lukeVerses[0]);
+const books = ["genesis", "matthew", "mark", "luke", "john"];
 
-console.log(johnVerses[0]);
+const randomBookSelector = () => {
+  let randomNum = Math.floor(Math.random() * books.length);
+  return books[randomNum];
+}
 
-console.log(genesisVerses[0]);
+const randomVerseSelector = () => {
+
+}
+
+
+const randomVerseGenerator = () => {
+
+}
 
 
 
