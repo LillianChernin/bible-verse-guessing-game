@@ -2,11 +2,20 @@
 let precedingVerse = {};
 let currentRandomVerse = {};
 let succeedingVerse = {};
+let currentBook = "";
+let lastChapter = "";
+let lastVerse = "";
+
+let userSectionChoice = "";
+let userBookChoice = "";
+let userChapterChoice = "";
+let userVerseChoice = "";
 
 const books = ["genesis", "matthew", "mark", "luke", "john"];
 
 const randomBookSelector = () => {
   let randomNum = Math.floor(Math.random() * books.length);
+  currentBook = books[randomNum];
   return books[randomNum];
 }
 
@@ -22,14 +31,19 @@ const randomVerseSelector = (array) => {
 const randomVerseGenerator = () => {
   let randomBook = randomBookSelector();
   if (randomBook === "genesis") {
+    lastChapter = genesisVerses[genesisVerses.length - 1].chapterNumber;
     return randomVerseSelector(genesisVerses);
   } else if (randomBook === "matthew") {
+    lastChapter = matthewVerses[matthewVerses.length - 1].chapterNumber;
     return randomVerseSelector(matthewVerses);
   } else if (randomBook === "mark") {
+    lastChapter = markVerses[markVerses.length - 1].chapterNumber;
     return randomVerseSelector(markVerses);
   } else if (randomBook === "luke") {
+    lastChapter = lukeVerses[lukeVerses.length - 1].chapterNumber;
     return randomVerseSelector(lukeVerses);
   } else if (randomBook === "john") {
+    lastChapter = johnVerses[johnVerses.length - 1].chapterNumber;
     return randomVerseSelector(johnVerses);
   }
 }
@@ -45,16 +59,75 @@ const getHint = () => {
   });
 }
 
+const checkGuess = () => {
+  $('#submitGuess').click(() => {
+    let sectionGuess = $('input[name=section]:checked').val();
+    let bookGuess = $('input[name=book]:checked').val();
+    let chapterGuess = $('input[name=chapter]:checked').val();
+    let verseGuess = $('input[name=verse]:checked').val();
+    console.log(sectionGuess + " " + bookGuess + " " + chapterGuess + " " + verseGuess);
+  });
+}
+
+const hideSectionButtons = () => {
+  $('#sectionChoice1').addClass('hidden');
+  $('#sectionChoice2').addClass('hidden');
+}
 
 const updateRandomVerse = () => {
   randomVerseGenerator();
   $('#randomVerse').text(currentRandomVerse.verseText);
   $('#precedingVerse').text(precedingVerse.verseText);
   $('#succeedingVerse').text(succeedingVerse.verseText);
+  console.log(currentRandomVerse.section + " " + currentRandomVerse.bookName)
 }
 
+const selectSectionListener = () => {
+  $('#sectionChoice1').click(() => {
+    for (let i = 1; i <= 39; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).removeClass('hidden');
+    }
+    for (let i = 40; i <= 66; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).addClass('hidden');
+    }
+    userSectionChoice = "Old Testament";
+    hideSectionButtons();
+  })
+  $('#sectionChoice2').click(() => {
+    for (let i = 1; i <= 39; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).addClass('hidden');
+    }
+    for (let i = 40; i <= 66; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).removeClass('hidden');
+    }
+    userSectionChoice = "New Testament";
+    hideSectionButtons();
+  })
+}
+
+const selectBookListener = () => {
+  $('.book').click((event) => {
+    
+  })
+}
+
+
 updateRandomVerse();
+selectSectionListener();
 getHint();
+checkGuess();
+
+
+// "verseText": "So they took the money and did as they were directed. And this story has been spread among the Jews to this day. ",
+// "verseNumber": "15",
+// "bookName": "Matthew",
+// "chapterNumber": 28,
+// "section": "New Testament"
+
 
 
 
