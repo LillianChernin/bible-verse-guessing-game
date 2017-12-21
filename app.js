@@ -33,6 +33,9 @@ const randomVerseGenerator = () => {
   if (randomBook === "genesis") {
     lastChapter = genesisVerses[genesisVerses.length - 1].chapterNumber;
     return randomVerseSelector(genesisVerses);
+  } else if (randomBook === "exodus") {
+    lastChapter = exodusVerses[exodusVerses.length - 1].chapterNumber;
+    return randomVerseSelector(exodusVerses);
   } else if (randomBook === "matthew") {
     lastChapter = matthewVerses[matthewVerses.length - 1].chapterNumber;
     return randomVerseSelector(matthewVerses);
