@@ -13,7 +13,7 @@ their knowledge of where verses are located in the bible.
 
 ## Prototype Main Screen
 
-![example main screen] (example-main-screen.png);
+![example main screen](https://github.com/LillianChernin/bible-verse-guessing-game/blob/master/example-main-screen.png);
 
 
 ## Tech
