@@ -13,6 +13,8 @@ their knowledge of where verses are located in the bible.
 
 ## Prototype Main Screen
 
+![example main screen] (example-main-screen.png);
+
 
 ## Tech
 
@@ -31,21 +33,21 @@ Lives in Birmingham, AL
 
 
 
-##### Goals:  
+##### Goals
 
 -Keep up with her children and grandkids
 
 -Be active in her church  
 
 
-##### Motivations:  
+##### Motivations
 
 -Keep her mind active to fight off old age  
 
 -Keep up with her friends and be around for her children and grandkids  
 
 
-##### Likes:
+##### Likes
 
 -hanging out with her friends
 
