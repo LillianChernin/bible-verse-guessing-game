@@ -3,7 +3,7 @@
 
 ## Objective
 
-Earn points by correctly guessing the section, book, chapter and verse of a random
+Earn points by correctly guessing the section and book or chapter or verse of a random
 bible verse.
 
 ## Motivation
@@ -166,7 +166,7 @@ Lives in Dallas, TX
 
 As a user, I should be able to see a random verse on the screen.  
 
-As a user, I should be able to select what section, book, chapter and verse I believe the verse belongs to.  
+As a user, I should be able to select what section and book or chapter or verse I believe the verse belongs to.  
 
 As a user, I should be able to get feedback on whether or not my guess was correct.  
 
