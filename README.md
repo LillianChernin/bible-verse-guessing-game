@@ -13,7 +13,7 @@ their knowledge of where verses are located in the bible.
 
 ## Prototype Main Screen
 
-![example main screen](https://github.com/LillianChernin/bible-verse-guessing-game/blob/master/example-main-screen.png);
+![example main screen](https://github.com/LillianChernin/bible-verse-guessing-game/blob/master/example-main-screen.png)
 
 
 ## Tech
@@ -163,15 +163,16 @@ Lives in Dallas, TX
 
 ### MVP User Stories  
 ***  
+
 As a user, I should be able to see a random verse on the screen.  
 
-As a user, I should be able to input what section, book, chapter and verse I believe the verse belongs to.  
+As a user, I should be able to select what section, book, chapter and verse I believe the verse belongs to.  
 
 As a user, I should be able to get feedback on whether or not my guess was correct.  
 
 As a user, I should be able to see what the correct answer was.  
 
-As a user, I should see my score update depending on the accuracy of my guess.
+As a user, I should see my overall score update depending on the accuracy of my guess.
 
 ### Stretch Goals User Stories
 ***
