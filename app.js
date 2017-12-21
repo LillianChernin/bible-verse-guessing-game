@@ -11,7 +11,7 @@ let userBookChoice = "";
 let userChapterChoice = "";
 let userVerseChoice = "";
 
-const books = ["genesis", "exodus", "leviticus","numbers","deuteronomy","joshua","judges","ruth","matthew", "mark", "luke", "john","acts"];
+const books = ["genesis", "exodus", "leviticus","numbers","deuteronomy","joshua","judges","ruth","2 chronicles","matthew", "mark", "luke", "john","acts","romans","1 corinthians","2 corinthians"];
 
 const randomBookSelector = () => {
   let randomNum = Math.floor(Math.random() * books.length);
@@ -54,6 +54,9 @@ const randomVerseGenerator = () => {
   } else if (randomBook === "ruth") {
     lastChapter = ruthVerses[ruthVerses.length - 1].chapterNumber;
     return randomVerseSelector(ruthVerses);
+  } else if (randomBook === "2 chronicles") {
+    lastChapter = secondChroniclesVerses[secondChroniclesVerses.length - 1].chapterNumber;
+    return randomVerseSelector(secondChroniclesVerses);
   } else if (randomBook === "matthew") {
     lastChapter = matthewVerses[matthewVerses.length - 1].chapterNumber;
     return randomVerseSelector(matthewVerses);
@@ -69,6 +72,15 @@ const randomVerseGenerator = () => {
   } else if (randomBook === "acts") {
     lastChapter = actsVerses[actsVerses.length - 1].chapterNumber;
     return randomVerseSelector(actsVerses);
+  } else if (randomBook === "romans") {
+    lastChapter = romansVerses[romansVerses.length - 1].chapterNumber;
+    return randomVerseSelector(romansVerses);
+  } else if (randomBook === "1 corinthians") {
+    lastChapter = firstCorinthiansVerses[firstCorinthiansVerses.length - 1].chapterNumber;
+    return randomVerseSelector(firstCorinthiansVerses);
+  } else if (randomBook === "2 corinthians") {
+    lastChapter = secondChroniclesVerses[secondChroniclesVerses.length - 1].chapterNumber;
+    return randomVerseSelector(secondChroniclesVerses);
   }
 }
 
