@@ -69,10 +69,10 @@ const checkGuess = () => {
   });
 }
 
-const hideSectionButtons = () => {
-  $('#sectionChoice1').addClass('hidden');
-  $('#sectionChoice2').addClass('hidden');
-}
+// const hideSectionButtons = () => {
+//
+//
+// }
 
 const updateRandomVerse = () => {
   randomVerseGenerator();
@@ -93,7 +93,7 @@ const selectSectionListener = () => {
       $(currentSearch).addClass('hidden');
     }
     userSectionChoice = "Old Testament";
-    hideSectionButtons();
+    $('#sectionChoice2').addClass('hidden');
   })
   $('#sectionChoice2').click(() => {
     for (let i = 1; i <= 39; i++) {
@@ -105,19 +105,31 @@ const selectSectionListener = () => {
       $(currentSearch).removeClass('hidden');
     }
     userSectionChoice = "New Testament";
-    hideSectionButtons();
+    $('#sectionChoice1').addClass('hidden');
   })
 }
 
 const selectBookListener = () => {
   $('.book').click((event) => {
-    
+    userBookChoice = event.target.value;
   })
 }
+
+$('#changeVerse').click(() => {
+  updateRandomVerse();
+  if (precedingVerse !== undefined) {
+    $('#precedingVerse').addClass("hidden");
+  }
+  if (succeedingVerse !== undefined) {
+    $('#succeedingVerse').addClass("hidden");
+  }
+
+})
 
 
 updateRandomVerse();
 selectSectionListener();
+selectBookListener();
 getHint();
 checkGuess();
 
