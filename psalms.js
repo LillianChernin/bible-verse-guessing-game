@@ -22630,4 +22630,11854 @@ const psalmsVerses = [{
 	"bookName": "Psalms",
 	"chapterNumber": 100,
 	"section": "Old Testament"
+}, {
+	"verseText": "I will sing of steadfast love and justice;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "to you, O Lord, I will make music.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will ponder the way that is blameless.",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh when will you come to me?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will walk with integrity of heart",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "within my house;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will not set before my eyes",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "anything that is worthless.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hate the work of those who fall away;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "it shall not cling to me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "A perverse heart shall be far from me;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will know nothing of evil.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "Whoever slanders his neighbor secretly",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will destroy.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "Whoever has a haughty look and an arrogant heart",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will not endure.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will look with favor on the faithful in the land,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "that they may dwell with me;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "he who walks in the way that is blameless",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "shall minister to me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "No one who practices deceit",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "shall dwell in my house;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "no one who utters lies",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "shall continue before my eyes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "Morning by morning I will destroy",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "all the wicked in the land,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "cutting off all the evildoers",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "from the city of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 101,
+	"section": "Old Testament"
+}, {
+	"verseText": "Hear my prayer, O Lord;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "let my cry come to you!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "Do not hide your face from me",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the day of my distress!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "Incline your ear to me;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "answer me speedily in the day when I call!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "For my days pass away like smoke,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and my bones burn like a furnace.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "My heart is struck down like grass and has withered;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "I forget to eat my bread.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "Because of my loud groaning",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "my bones cling to my flesh.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am like a desert owl of the wilderness,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "like an owl of the waste places;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "I lie awake;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am like a lonely sparrow on the housetop.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "All the day my enemies taunt me;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "those who deride me use my name for a curse.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "For I eat ashes like bread",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and mingle tears with my drink,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "because of your indignation and anger;",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "for you have taken me up and thrown me down.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "My days are like an evening shadow;",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "I wither away like grass.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "But you, O Lord, are enthroned forever;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "you are remembered throughout all generations.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "You will arise and have pity on Zion;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "it is the time to favor her;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "the appointed time has come.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "For your servants hold her stones dear",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and have pity on her dust.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "Nations will fear the name of the Lord,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and all the kings of the earth will fear your glory.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the Lord builds up Zion;",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "he appears in his glory;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "he regards the prayer of the destitute",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and does not despise their prayer.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let this be recorded for a generation to come,",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "so that a people yet to be created may praise the Lord:",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "that he looked down from his holy height;",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "from heaven the Lord looked at the earth,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "to hear the groans of the prisoners,",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "to set free those who were doomed to die,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "that they may declare in Zion the name of the Lord,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and in Jerusalem his praise,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "when peoples gather together,",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and kingdoms, to worship the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "He has broken my strength in midcourse;",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "he has shortened my days.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "O my God,\" I say, \"take me not away",
+	"verseNumber": "24 \"",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the midst of my days—",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "you whose years endure",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "throughout all generations!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "Of old you laid the foundation of the earth,",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the heavens are the work of your hands.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "They will perish, but you will remain;",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "they will all wear out like a garment.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "You will change them like a robe, and they will pass away,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "but you are the same, and your years have no end.",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "The children of your servants shall dwell secure;",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "their offspring shall be established before you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 102,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, O my soul,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "and all that is within me,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "bless his holy name!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, O my soul,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "and forget not all his benefits,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "who forgives all your iniquity,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "who heals all your diseases,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "who redeems your life from the pit,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "who crowns you with steadfast love and mercy,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "who satisfies you with good",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "so that your youth is renewed like the eagle's.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord works righteousness",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "and justice for all who are oppressed.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "He made known his ways to Moses,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "his acts to the people of Israel.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is merciful and gracious,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "slow to anger and abounding in steadfast love.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "He will not always chide,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor will he keep his anger forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "He does not deal with us according to our sins,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor repay us according to our iniquities.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "For as high as the heavens are above the earth,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "so great is his steadfast love toward those who fear him;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "as far as the east is from the west,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "so far does he remove our transgressions from us.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "As a father shows compassion to his children,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "so the Lord shows compassion to those who fear him.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he knows our frame;",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "he remembers that we are dust.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "As for man, his days are like grass;",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "he flourishes like a flower of the field;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "for the wind passes over it, and it is gone,",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "and its place knows it no more.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "But the steadfast love of the Lord is from everlasting to everlasting on those who fear him,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his righteousness to children's children,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "to those who keep his covenant",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "and remember to do his commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord has established his throne in the heavens,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his kingdom rules over all.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, O you his angels,",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "you mighty ones who do his word,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "obeying the voice of his word!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, all his hosts,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "his ministers, who do his will!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, all his works,",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "in all places of his dominion.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, O my soul!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 103,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, O my soul!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord my God, you are very great!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "You are clothed with splendor and majesty,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "covering yourself with light as with a garment,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "stretching out the heavens like a tent.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "He lays the beams of his chambers on the waters;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "he makes the clouds his chariot;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "he rides on the wings of the wind;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "he makes his messengers winds,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "his ministers a flaming fire.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "He set the earth on its foundations,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "so that it should never be moved.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "You covered it with the deep as with a garment;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the waters stood above the mountains.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "At your rebuke they fled;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "at the sound of your thunder they took to flight.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "The mountains rose, the valleys sank down",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "to the place that you appointed for them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "You set a boundary that they may not pass,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "so that they might not again cover the earth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "You make springs gush forth in the valleys;",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "they flow between the hills;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "they give drink to every beast of the field;",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the wild donkeys quench their thirst.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "Beside them the birds of the heavens dwell;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "they sing among the branches.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "From your lofty abode you water the mountains;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the earth is satisfied with the fruit of your work.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "You cause the grass to grow for the livestock",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and plants for man to cultivate,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "that he may bring forth food from the earth",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and wine to gladden the heart of man,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "oil to make his face shine",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and bread to strengthen man's heart.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "The trees of the Lord are watered abundantly,",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the cedars of Lebanon that he planted.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "In them the birds build their nests;",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the stork has her home in the fir trees.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "The high mountains are for the wild goats;",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the rocks are a refuge for the rock badgers.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "He made the moon to mark the seasons;",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the sun knows its time for setting.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "You make darkness, and it is night,",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "when all the beasts of the forest creep about.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "The young lions roar for their prey,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "seeking their food from God.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "When the sun rises, they steal away",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and lie down in their dens.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "Man goes out to his work",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and to his labor until the evening.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, how manifold are your works!",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "In wisdom have you made them all;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "the earth is full of your creatures.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "Here is the sea, great and wide,",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "which teems with creatures innumerable,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "living things both small and great.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "There go the ships,",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and Leviathan, which you formed to play in it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "These all look to you,",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "to give them their food in due season.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "When you give it to them, they gather it up;",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "when you open your hand, they are filled with good things.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "When you hide your face, they are dismayed;",
+	"verseNumber": "29 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "when you take away their breath, they die",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and return to their dust.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "When you send forth your Spirit, they are created,",
+	"verseNumber": "30 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and you renew the face of the ground.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "May the glory of the Lord endure forever;",
+	"verseNumber": "31 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "may the Lord rejoice in his works,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "who looks on the earth and it trembles,",
+	"verseNumber": "32 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "who touches the mountains and they smoke!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will sing to the Lord as long as I live;",
+	"verseNumber": "33 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will sing praise to my God while I have being.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "May my meditation be pleasing to him,",
+	"verseNumber": "34 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I rejoice in the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let sinners be consumed from the earth,",
+	"verseNumber": "35 ",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let the wicked be no more!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bless the Lord, O my soul!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 104,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh give thanks to the Lord; call upon his name;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "make known his deeds among the peoples!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Sing to him, sing praises to him;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "tell of all his wondrous works!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Glory in his holy name;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "let the hearts of those who seek the Lord rejoice!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Seek the Lord and his strength;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "seek his presence continually!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Remember the wondrous works that he has done,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "his miracles, and the judgments he uttered,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "O offspring of Abraham, his servant,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "children of Jacob, his chosen ones!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He is the Lord our God;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "his judgments are in all the earth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He remembers his covenant forever,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "the word that he commanded, for a thousand generations,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "the covenant that he made with Abraham,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "his sworn promise to Isaac,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "which he confirmed to Jacob as a statute,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "to Israel as an everlasting covenant,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "saying, \"To you I will give the land of Canaan",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "as your portion for an inheritance.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "When they were few in number,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "of little account, and sojourners in it,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "wandering from nation to nation,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "from one kingdom to another people,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "he allowed no one to oppress them;",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "he rebuked kings on their account,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "saying, \"Touch not my anointed ones,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "do my prophets no harm!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "When he summoned a famine on the land",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and broke all supply of bread,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "he had sent a man ahead of them,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Joseph, who was sold as a slave.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "His feet were hurt with fetters;",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "his neck was put in a collar of iron;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "until what he had said came to pass,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "the word of the Lord tested him.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "The king sent and released him;",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "the ruler of the peoples set him free;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "he made him lord of his house",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and ruler of all his possessions,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "to bind his princes at his pleasure",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and to teach his elders wisdom.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then Israel came to Egypt;",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Jacob sojourned in the land of Ham.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "And the Lord made his people very fruitful",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and made them stronger than their foes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He turned their hearts to hate his people,",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "to deal craftily with his servants.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He sent Moses, his servant,",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and Aaron, whom he had chosen.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "They performed his signs among them",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and miracles in the land of Ham.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He sent darkness, and made the land dark;",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "they did not rebel against his words.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He turned their waters into blood",
+	"verseNumber": "29 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and caused their fish to die.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Their land swarmed with frogs,",
+	"verseNumber": "30 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "even in the chambers of their kings.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He spoke, and there came swarms of flies,",
+	"verseNumber": "31 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and gnats throughout their country.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He gave them hail for rain,",
+	"verseNumber": "32 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and fiery lightning bolts through their land.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He struck down their vines and fig trees,",
+	"verseNumber": "33 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and shattered the trees of their country.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He spoke, and the locusts came,",
+	"verseNumber": "34 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "young locusts without number,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "which devoured all the vegetation in their land",
+	"verseNumber": "35 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and ate up the fruit of their ground.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He struck down all the firstborn in their land,",
+	"verseNumber": "36 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "the firstfruits of all their strength.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then he brought out Israel with silver and gold,",
+	"verseNumber": "37 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and there was none among his tribes who stumbled.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Egypt was glad when they departed,",
+	"verseNumber": "38 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "for dread of them had fallen upon it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He spread a cloud for a covering,",
+	"verseNumber": "39 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and fire to give light by night.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "They asked, and he brought quail,",
+	"verseNumber": "40 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and gave them bread from heaven in abundance.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "He opened the rock, and water gushed out;",
+	"verseNumber": "41 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "it flowed through the desert like a river.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he remembered his holy promise,",
+	"verseNumber": "42 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and Abraham, his servant.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "So he brought his people out with joy,",
+	"verseNumber": "43 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "his chosen ones with singing.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "And he gave them the lands of the nations,",
+	"verseNumber": "44 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and they took possession of the fruit of the peoples' toil,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "that they might keep his statutes",
+	"verseNumber": "45 ",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "and observe his laws.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 105,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh give thanks to the Lord, for he is good,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Who can utter the mighty deeds of the Lord,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "or declare all his praise?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed are they who observe justice,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "who do righteousness at all times!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Remember me, O Lord, when you show favor to your people;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "help me when you save them,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may look upon the prosperity of your chosen ones,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may rejoice in the gladness of your nation,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may glory with your inheritance.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Both we and our fathers have sinned;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "we have committed iniquity; we have done wickedness.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Our fathers, when they were in Egypt,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "did not consider your wondrous works;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "they did not remember the abundance of your steadfast love,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "but rebelled by the sea, at the Red Sea.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Yet he saved them for his name's sake,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "that he might make known his mighty power.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "He rebuked the Red Sea, and it became dry,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he led them through the deep as through a desert.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "So he saved them from the hand of the foe",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and redeemed them from the power of the enemy.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "And the waters covered their adversaries;",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "not one of them was left.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they believed his words;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "they sang his praise.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "But they soon forgot his works;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "they did not wait for his counsel.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "But they had a wanton craving in the wilderness,",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and put God to the test in the desert;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "he gave them what they asked,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "but sent a wasting disease among them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "When men in the camp were jealous of Moses",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and Aaron, the holy one of the Lord,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "the earth opened and swallowed up Dathan,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and covered the company of Abiram.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Fire also broke out in their company;",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "the flame burned up the wicked.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They made a calf in Horeb",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and worshiped a metal image.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They exchanged the glory of God",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "for the image of an ox that eats grass.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They forgot God, their Savior,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "who had done great things in Egypt,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "wondrous works in the land of Ham,",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and awesome deeds by the Red Sea.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Therefore he said he would destroy them—",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "had not Moses, his chosen one,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "stood in the breach before him,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "to turn away his wrath from destroying them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they despised the pleasant land,",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "having no faith in his promise.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They murmured in their tents,",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and did not obey the voice of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Therefore he raised his hand and swore to them",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "that he would make them fall in the wilderness,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and would make their offspring fall among the nations,",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "scattering them among the lands.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they yoked themselves to the Baal of Peor,",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and ate sacrifices offered to the dead;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "they provoked the Lord to anger with their deeds,",
+	"verseNumber": "29 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and a plague broke out among them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then Phinehas stood up and intervened,",
+	"verseNumber": "30 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the plague was stayed.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "And that was counted to him as righteousness",
+	"verseNumber": "31 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "from generation to generation forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They angered him at the waters of Meribah,",
+	"verseNumber": "32 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and it went ill with Moses on their account,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "for they made his spirit bitter,",
+	"verseNumber": "33 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he spoke rashly with his lips.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They did not destroy the peoples,",
+	"verseNumber": "34 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "as the Lord commanded them,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "but they mixed with the nations",
+	"verseNumber": "35 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and learned to do as they did.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They served their idols,",
+	"verseNumber": "36 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "which became a snare to them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "They sacrificed their sons",
+	"verseNumber": "37 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and their daughters to the demons;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "they poured out innocent blood,",
+	"verseNumber": "38 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "the blood of their sons and daughters,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "whom they sacrificed to the idols of Canaan,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the land was polluted with blood.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Thus they became unclean by their acts,",
+	"verseNumber": "39 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and played the whore in their deeds.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then the anger of the Lord was kindled against his people,",
+	"verseNumber": "40 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he abhorred his heritage;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "he gave them into the hand of the nations,",
+	"verseNumber": "41 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "so that those who hated them ruled over them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Their enemies oppressed them,",
+	"verseNumber": "42 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and they were brought into subjection under their power.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Many times he delivered them,",
+	"verseNumber": "43 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "but they were rebellious in their purposes",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and were brought low through their iniquity.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Nevertheless, he looked upon their distress,",
+	"verseNumber": "44 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "when he heard their cry.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "For their sake he remembered his covenant,",
+	"verseNumber": "45 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and relented according to the abundance of his steadfast love.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "He caused them to be pitied",
+	"verseNumber": "46 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "by all those who held them captive.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Save us, O Lord our God,",
+	"verseNumber": "47 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and gather us from among the nations,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "that we may give thanks to your holy name",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "and glory in your praise.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed be the Lord, the God of Israel,",
+	"verseNumber": "48 ",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "from everlasting to everlasting!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "And let all the people say, \"Amen!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 106,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh give thanks to the Lord, for he is good,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let the redeemed of the Lord say so,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "whom he has redeemed from trouble",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and gathered in from the lands,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "from the east and from the west,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "from the north and from the south.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Some wandered in desert wastes,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "finding no way to a city to dwell in;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "hungry and thirsty,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "their soul fainted within them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they cried to the Lord in their trouble,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he delivered them from their distress.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "He led them by a straight way",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "till they reached a city to dwell in.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them thank the Lord for his steadfast love,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his wondrous works to the children of man!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he satisfies the longing soul,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the hungry soul he fills with good things.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Some sat in darkness and in the shadow of death,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "prisoners in affliction and in irons,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "for they had rebelled against the words of God,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and spurned the counsel of the Most High.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "So he bowed their hearts down with hard labor;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "they fell down, with none to help.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they cried to the Lord in their trouble,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he delivered them from their distress.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "He brought them out of darkness and the shadow of death,",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and burst their bonds apart.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them thank the Lord for his steadfast love,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his wondrous works to the children of man!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he shatters the doors of bronze",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and cuts in two the bars of iron.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Some were fools through their sinful ways,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and because of their iniquities suffered affliction;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "they loathed any kind of food,",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and they drew near to the gates of death.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they cried to the Lord in their trouble,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he delivered them from their distress.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "He sent out his word and healed them,",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and delivered them from their destruction.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them thank the Lord for his steadfast love,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his wondrous works to the children of man!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "And let them offer sacrifices of thanksgiving,",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and tell of his deeds in songs of joy!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Some went down to the sea in ships,",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "doing business on the great waters;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "they saw the deeds of the Lord,",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "his wondrous works in the deep.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he commanded and raised the stormy wind,",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "which lifted up the waves of the sea.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "They mounted up to heaven; they went down to the depths;",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "their courage melted away in their evil plight;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "they reeled and staggered like drunken men",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and were at their wits' end.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they cried to the Lord in their trouble,",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he delivered them from their distress.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "He made the storm be still,",
+	"verseNumber": "29 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the waves of the sea were hushed.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then they were glad that the waters were quiet,",
+	"verseNumber": "30 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he brought them to their desired haven.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them thank the Lord for his steadfast love,",
+	"verseNumber": "31 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his wondrous works to the children of man!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them extol him in the congregation of the people,",
+	"verseNumber": "32 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and praise him in the assembly of the elders.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "He turns rivers into a desert,",
+	"verseNumber": "33 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "springs of water into thirsty ground,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "a fruitful land into a salty waste,",
+	"verseNumber": "34 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "because of the evil of its inhabitants.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "He turns a desert into pools of water,",
+	"verseNumber": "35 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "a parched land into springs of water.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "And there he lets the hungry dwell,",
+	"verseNumber": "36 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and they establish a city to live in;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "they sow fields and plant vineyards",
+	"verseNumber": "37 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and get a fruitful yield.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "By his blessing they multiply greatly,",
+	"verseNumber": "38 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he does not let their livestock diminish.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "When they are diminished and brought low",
+	"verseNumber": "39 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "through oppression, evil, and sorrow,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "he pours contempt on princes",
+	"verseNumber": "40 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and makes them wander in trackless wastes;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "but he raises up the needy out of affliction",
+	"verseNumber": "41 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and makes their families like flocks.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "The upright see it and are glad,",
+	"verseNumber": "42 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "and all wickedness shuts its mouth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "Whoever is wise, let him attend to these things;",
+	"verseNumber": "43 ",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "let them consider the steadfast love of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 107,
+	"section": "Old Testament"
+}, {
+	"verseText": "My heart is steadfast, O God!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will sing and make melody with all my being!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Awake, O harp and lyre!",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will awake the dawn!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will give thanks to you, O Lord, among the peoples;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will sing praises to you among the nations.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "For your steadfast love is great above the heavens;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "your faithfulness reaches to the clouds.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Be exalted, O God, above the heavens!",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your glory be over all the earth!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "That your beloved ones may be delivered,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "give salvation by your right hand and answer me!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "God has promised in his holiness:",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "With exultation I will divide up Shechem",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "and portion out the Valley of Succoth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Gilead is mine; Manasseh is mine;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Ephraim is my helmet,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Judah my scepter.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Moab is my washbasin;",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "upon Edom I cast my shoe;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "over Philistia I shout in triumph.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Who will bring me to the fortified city?",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Who will lead me to Edom?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Have you not rejected us, O God?",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "You do not go out, O God, with our armies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh grant us help against the foe,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "for vain is the salvation of man!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "With God we shall do valiantly;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "it is he who will tread down our foes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 108,
+	"section": "Old Testament"
+}, {
+	"verseText": "Be not silent, O God of my praise!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "For wicked and deceitful mouths are opened against me,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "speaking against me with lying tongues.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "They encircle me with words of hate,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "and attack me without cause.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "In return for my love they accuse me,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I give myself to prayer.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "So they reward me evil for good,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "and hatred for my love.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "Appoint a wicked man against him;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "let an accuser stand at his right hand.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "When he is tried, let him come forth guilty;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "let his prayer be counted as sin!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May his days be few;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "may another take his office!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May his children be fatherless",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his wife a widow!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May his children wander about and beg,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "seeking food far from the ruins they inhabit!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May the creditor seize all that he has;",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "may strangers plunder the fruits of his toil!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let there be none to extend kindness to him,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor any to pity his fatherless children!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May his posterity be cut off;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "may his name be blotted out in the second generation!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May the iniquity of his fathers be remembered before the Lord,",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let not the sin of his mother be blotted out!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them be before the Lord continually,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "that he may cut off the memory of them from the earth!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he did not remember to show kindness,",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "but pursued the poor and needy",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the brokenhearted, to put them to death.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "He loved to curse; let curses come upon him!",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "He did not delight in blessing; may it be far from him!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "He clothed himself with cursing as his coat;",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "may it soak into his body like water,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "like oil into his bones!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May it be like a garment that he wraps around him,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "like a belt that he puts on every day!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May this be the reward of my accusers from the Lord,",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "of those who speak evil against my life!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "But you, O God my Lord,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "deal on my behalf for your name's sake;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "because your steadfast love is good, deliver me!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "For I am poor and needy,",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "and my heart is stricken within me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am gone like a shadow at evening;",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am shaken off like a locust.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "My knees are weak through fasting;",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "my body has become gaunt, with no fat.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am an object of scorn to my accusers;",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "when they see me, they wag their heads.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "Help me, O Lord my God!",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "Save me according to your steadfast love!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them know that this is your hand;",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "you, O Lord, have done it!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them curse, but you will bless!",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "They arise and are put to shame, but your servant will be glad!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "May my accusers be clothed with dishonor;",
+	"verseNumber": "29 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "may they be wrapped in their own shame as in a cloak!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "With my mouth I will give great thanks to the Lord;",
+	"verseNumber": "30 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will praise him in the midst of the throng.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he stands at the right hand of the needy one,",
+	"verseNumber": "31 ",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "to save him from those who condemn his soul to death.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 109,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord says to my Lord:",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "Sit at my right hand,",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "until I make your enemies your footstool.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord sends forth from Zion",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "your mighty scepter.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "Rule in the midst of your enemies!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your people will offer themselves freely",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "on the day of your power,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "in holy garments;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "from the womb of the morning,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "the dew of your youth will be yours.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord has sworn",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "and will not change his mind,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "You are a priest forever",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "after the order of Melchizedek.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is at your right hand;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "he will shatter kings on the day of his wrath.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "He will execute judgment among the nations,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "filling them with corpses;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "he will shatter chiefs",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "over the wide earth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "He will drink from the brook by the way;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "therefore he will lift up his head.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 110,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will give thanks to the Lord with my whole heart,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the company of the upright, in the congregation.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "Great are the works of the Lord,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "studied by all who delight in them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "Full of splendor and majesty is his work,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his righteousness endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "He has caused his wondrous works to be remembered;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "the Lord is gracious and merciful.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "He provides food for those who fear him;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "he remembers his covenant forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "He has shown his people the power of his works,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "in giving them the inheritance of the nations.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "The works of his hands are faithful and just;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "all his precepts are trustworthy;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "they are established forever and ever,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "to be performed with faithfulness and uprightness.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "He sent redemption to his people;",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "he has commanded his covenant forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "Holy and awesome is his name!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "The fear of the Lord is the beginning of wisdom;",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "all those who practice it have a good understanding.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "His praise endures forever!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 111,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed is the man who fears the Lord,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "who greatly delights in his commandments!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "His offspring will be mighty in the land;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "the generation of the upright will be blessed.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "Wealth and riches are in his house,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his righteousness endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "Light dawns in the darkness for the upright;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "he is gracious, merciful, and righteous.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is well with the man who deals generously and lends;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "who conducts his affairs with justice.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the righteous will never be moved;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "he will be remembered forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "He is not afraid of bad news;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "his heart is firm, trusting in the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "His heart is steady; he will not be afraid,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "until he looks in triumph on his adversaries.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "He has distributed freely; he has given to the poor;",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "his righteousness endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "his horn is exalted in honor.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "The wicked man sees it and is angry;",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "he gnashes his teeth and melts away;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "the desire of the wicked will perish!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 112,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise, O servants of the Lord,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise the name of the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed be the name of the Lord",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "from this time forth and forevermore!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "From the rising of the sun to its setting,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "the name of the Lord is to be praised!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is high above all nations,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his glory above the heavens!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "Who is like the Lord our God,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "who is seated on high,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "who looks far down",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "on the heavens and the earth?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "He raises the poor from the dust",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "and lifts the needy from the ash heap,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "to make them sit with princes,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "with the princes of his people.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "He gives the barren woman a home,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "making her the joyous mother of children.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 113,
+	"section": "Old Testament"
+}, {
+	"verseText": "When Israel went out from Egypt,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "the house of Jacob from a people of strange language,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "Judah became his sanctuary,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "Israel his dominion.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "The sea looked and fled;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "Jordan turned back.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "The mountains skipped like rams,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "the hills like lambs.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "What ails you, O sea, that you flee?",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Jordan, that you turn back?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "O mountains, that you skip like rams?",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "O hills, like lambs?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "Tremble, O earth, at the presence of the Lord,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "at the presence of the God of Jacob,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "who turns the rock into a pool of water,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "the flint into a spring of water.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 114,
+	"section": "Old Testament"
+}, {
+	"verseText": "Not to us, O Lord, not to us, but to your name give glory,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "for the sake of your steadfast love and your faithfulness!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "Why should the nations say,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "Where is their God?\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "Our God is in the heavens;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "he does all that he pleases.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "Their idols are silver and gold,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "the work of human hands.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "They have mouths, but do not speak;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "eyes, but do not see.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "They have ears, but do not hear;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "noses, but do not smell.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "They have hands, but do not feel;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "feet, but do not walk;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "and they do not make a sound in their throat.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "Those who make them become like them;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "so do all who trust in them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Israel, trust in the Lord!",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "He is their help and their shield.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "O house of Aaron, trust in the Lord!",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "He is their help and their shield.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "You who fear the Lord, trust in the Lord!",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "He is their help and their shield.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord has remembered us; he will bless us;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "he will bless the house of Israel;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "he will bless the house of Aaron;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "he will bless those who fear the Lord,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "both the small and the great.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "May the Lord give you increase,",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "you and your children!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "May you be blessed by the Lord,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "who made heaven and earth!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "The heavens are the Lord's heavens,",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "but the earth he has given to the children of man.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "The dead do not praise the Lord,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor do any who go down into silence.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "But we will bless the Lord",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "from this time forth and forevermore.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 115,
+	"section": "Old Testament"
+}, {
+	"verseText": "I love the Lord, because he has heard",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "my voice and my pleas for mercy.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "Because he inclined his ear to me,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "therefore I will call on him as long as I live.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "The snares of death encompassed me;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "the pangs of Sheol laid hold on me;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I suffered distress and anguish.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then I called on the name of the Lord:",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, I pray, deliver my soul!\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "Gracious is the Lord, and righteous;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "our God is merciful.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord preserves the simple;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "when I was brought low, he saved me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "Return, O my soul, to your rest;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "for the Lord has dealt bountifully with you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "For you have delivered my soul from death,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "my eyes from tears,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "my feet from stumbling;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will walk before the Lord",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the land of the living.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I believed, even when I spoke:",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am greatly afflicted\";",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I said in my alarm,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "All mankind are liars.\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "What shall I render to the Lord",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "for all his benefits to me?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will lift up the cup of salvation",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "and call on the name of the Lord,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will pay my vows to the Lord",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the presence of all his people.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "Precious in the sight of the Lord",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "is the death of his saints.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, I am your servant;",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am your servant, the son of your maidservant.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "You have loosed my bonds.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will offer to you the sacrifice of thanksgiving",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "and call on the name of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will pay my vows to the Lord",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the presence of all his people,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the courts of the house of the Lord,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "in your midst, O Jerusalem.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 116,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord, all nations!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 117,
+	"section": "Old Testament"
+}, {
+	"verseText": "Extol him, all peoples!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 117,
+	"section": "Old Testament"
+}, {
+	"verseText": "For great is his steadfast love toward us,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 117,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the faithfulness of the Lord endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 117,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 117,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh give thanks to the Lord, for he is good;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let Israel say,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "His steadfast love endures forever.\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let the house of Aaron say,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "His steadfast love endures forever.\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let those who fear the Lord say,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "His steadfast love endures forever.\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Out of my distress I called on the Lord;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "the Lord answered me and set me free.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is on my side; I will not fear.",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "What can man do to me?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is on my side as my helper;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "I shall look in triumph on those who hate me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is better to take refuge in the Lord",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "than to trust in man.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is better to take refuge in the Lord",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "than to trust in princes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "All nations surrounded me;",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the name of the Lord I cut them off!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "They surrounded me, surrounded me on every side;",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the name of the Lord I cut them off!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "They surrounded me like bees;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "they went out like a fire among thorns;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the name of the Lord I cut them off!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "I was pushed hard, so that I was falling,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "but the Lord helped me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is my strength and my song;",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "he has become my salvation.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Glad songs of salvation",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "are in the tents of the righteous:",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "The right hand of the Lord does valiantly,",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "the right hand of the Lord exalts,",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "the right hand of the Lord does valiantly!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "I shall not die, but I shall live,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "and recount the deeds of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord has disciplined me severely,",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "but he has not given me over to death.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Open to me the gates of righteousness,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may enter through them",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "and give thanks to the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "This is the gate of the Lord;",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "the righteous shall enter through it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "I thank you that you have answered me",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "and have become my salvation.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "The stone that the builders rejected",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "has become the cornerstone.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "This is the Lord's doing;",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "it is marvelous in our eyes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "This is the day that the Lord has made;",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "let us rejoice and be glad in it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Save us, we pray, O Lord!",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, we pray, give us success!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed is he who comes in the name of the Lord!",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "We bless you from the house of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is God,",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he has made his light to shine upon us.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bind the festal sacrifice with cords,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "up to the horns of the altar!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "You are my God, and I will give thanks to you;",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "you are my God; I will extol you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh give thanks to the Lord, for he is good;",
+	"verseNumber": "29 ",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 118,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed are those whose way is blameless,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "who walk in the law of the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed are those who keep his testimonies,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "who seek him with their whole heart,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "who also do no wrong,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but walk in his ways!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "You have commanded your precepts",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "to be kept diligently.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh that my ways may be steadfast",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "in keeping your statutes!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then I shall not be put to shame,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "having my eyes fixed on all your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will praise you with an upright heart,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "when I learn your righteous rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will keep your statutes;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "do not utterly forsake me!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "How can a young man keep his way pure?",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "By guarding it according to your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "With my whole heart I seek you;",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "let me not wander from your commandments!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have stored up your word in my heart,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I might not sin against you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed are you, O Lord;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "teach me your statutes!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "With my lips I declare",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "all the rules of your mouth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "In the way of your testimonies I delight",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "as much as in all riches.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will meditate on your precepts",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and fix my eyes on your ways.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will delight in your statutes;",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will not forget your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Deal bountifully with your servant,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may live and keep your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Open my eyes, that I may behold",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "wondrous things out of your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am a sojourner on the earth;",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "hide not your commandments from me!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My soul is consumed with longing",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for your rules at all times.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "You rebuke the insolent, accursed ones,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "who wander from your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Take away from me scorn and contempt,",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I have kept your testimonies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Even though princes sit plotting against me,",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "your servant will meditate on your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your testimonies are my delight;",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "they are my counselors.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My soul clings to the dust;",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "give me life according to your word!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "When I told of my ways, you answered me;",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "teach me your statutes!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Make me understand the way of your precepts,",
+	"verseNumber": "27 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and I will meditate on your wondrous works.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My soul melts away for sorrow;",
+	"verseNumber": "28 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "strengthen me according to your word!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Put false ways far from me",
+	"verseNumber": "29 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and graciously teach me your law!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have chosen the way of faithfulness;",
+	"verseNumber": "30 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I set your rules before me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I cling to your testimonies, O Lord;",
+	"verseNumber": "31 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "let me not be put to shame!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will run in the way of your commandments",
+	"verseNumber": "32 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "when you enlarge my heart!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Teach me, O Lord, the way of your statutes;",
+	"verseNumber": "33 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and I will keep it to the end.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give me understanding, that I may keep your law",
+	"verseNumber": "34 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and observe it with my whole heart.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Lead me in the path of your commandments,",
+	"verseNumber": "35 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I delight in it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Incline my heart to your testimonies,",
+	"verseNumber": "36 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and not to selfish gain!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Turn my eyes from looking at worthless things;",
+	"verseNumber": "37 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and give me life in your ways.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Confirm to your servant your promise,",
+	"verseNumber": "38 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that you may be feared.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Turn away the reproach that I dread,",
+	"verseNumber": "39 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for your rules are good.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Behold, I long for your precepts;",
+	"verseNumber": "40 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "in your righteousness give me life!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your steadfast love come to me, O Lord,",
+	"verseNumber": "41 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "your salvation according to your promise;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "then shall I have an answer for him who taunts me,",
+	"verseNumber": "42 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I trust in your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "And take not the word of truth utterly out of my mouth,",
+	"verseNumber": "43 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for my hope is in your rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will keep your law continually,",
+	"verseNumber": "44 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "forever and ever,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and I shall walk in a wide place,",
+	"verseNumber": "45 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I have sought your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will also speak of your testimonies before kings",
+	"verseNumber": "46 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and shall not be put to shame,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I find my delight in your commandments,",
+	"verseNumber": "47 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "which I love.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will lift up my hands toward your commandments, which I love,",
+	"verseNumber": "48 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and I will meditate on your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Remember your word to your servant,",
+	"verseNumber": "49 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "in which you have made me hope.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "This is my comfort in my affliction,",
+	"verseNumber": "50 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that your promise gives me life.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The insolent utterly deride me,",
+	"verseNumber": "51 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I do not turn away from your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "When I think of your rules from of old,",
+	"verseNumber": "52 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I take comfort, O Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Hot indignation seizes me because of the wicked,",
+	"verseNumber": "53 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "who forsake your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your statutes have been my songs",
+	"verseNumber": "54 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the house of my sojourning.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I remember your name in the night, O Lord,",
+	"verseNumber": "55 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and keep your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "This blessing has fallen to me,",
+	"verseNumber": "56 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I have kept your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is my portion;",
+	"verseNumber": "57 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I promise to keep your words.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I entreat your favor with all my heart;",
+	"verseNumber": "58 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "be gracious to me according to your promise.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "When I think on my ways,",
+	"verseNumber": "59 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I turn my feet to your testimonies;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hasten and do not delay",
+	"verseNumber": "60 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "to keep your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Though the cords of the wicked ensnare me,",
+	"verseNumber": "61 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I do not forget your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "At midnight I rise to praise you,",
+	"verseNumber": "62 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "because of your righteous rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am a companion of all who fear you,",
+	"verseNumber": "63 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "of those who keep your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The earth, O Lord, is full of your steadfast love;",
+	"verseNumber": "64 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "teach me your statutes!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "You have dealt well with your servant,",
+	"verseNumber": "65 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, according to your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Teach me good judgment and knowledge,",
+	"verseNumber": "66 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I believe in your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Before I was afflicted I went astray,",
+	"verseNumber": "67 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but now I keep your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "You are good and do good;",
+	"verseNumber": "68 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "teach me your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The insolent smear me with lies,",
+	"verseNumber": "69 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but with my whole heart I keep your precepts;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "their heart is unfeeling like fat,",
+	"verseNumber": "70 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I delight in your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is good for me that I was afflicted,",
+	"verseNumber": "71 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I might learn your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The law of your mouth is better to me",
+	"verseNumber": "72 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "than thousands of gold and silver pieces.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your hands have made and fashioned me;",
+	"verseNumber": "73 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "give me understanding that I may learn your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Those who fear you shall see me and rejoice,",
+	"verseNumber": "74 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "because I have hoped in your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I know, O Lord, that your rules are righteous,",
+	"verseNumber": "75 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and that in faithfulness you have afflicted me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your steadfast love comfort me",
+	"verseNumber": "76 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "according to your promise to your servant.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your mercy come to me, that I may live;",
+	"verseNumber": "77 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for your law is my delight.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let the insolent be put to shame,",
+	"verseNumber": "78 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "because they have wronged me with falsehood;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "as for me, I will meditate on your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let those who fear you turn to me,",
+	"verseNumber": "79 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that they may know your testimonies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "May my heart be blameless in your statutes,",
+	"verseNumber": "80 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may not be put to shame!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My soul longs for your salvation;",
+	"verseNumber": "81 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hope in your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My eyes long for your promise;",
+	"verseNumber": "82 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I ask, \"When will you comfort me?\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "For I have become like a wineskin in the smoke,",
+	"verseNumber": "83 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "yet I have not forgotten your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "How long must your servant endure?",
+	"verseNumber": "84 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "When will you judge those who persecute me?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The insolent have dug pitfalls for me;",
+	"verseNumber": "85 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "they do not live according to your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "All your commandments are sure;",
+	"verseNumber": "86 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "they persecute me with falsehood; help me!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "They have almost made an end of me on earth,",
+	"verseNumber": "87 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I have not forsaken your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "In your steadfast love give me life,",
+	"verseNumber": "88 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may keep the testimonies of your mouth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Forever, O Lord, your word",
+	"verseNumber": "89 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "is firmly fixed in the heavens.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your faithfulness endures to all generations;",
+	"verseNumber": "90 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "you have established the earth, and it stands fast.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "By your appointment they stand this day,",
+	"verseNumber": "91 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for all things are your servants.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "If your law had not been my delight,",
+	"verseNumber": "92 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I would have perished in my affliction.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will never forget your precepts,",
+	"verseNumber": "93 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for by them you have given me life.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am yours; save me,",
+	"verseNumber": "94 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I have sought your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The wicked lie in wait to destroy me,",
+	"verseNumber": "95 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I consider your testimonies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have seen a limit to all perfection,",
+	"verseNumber": "96 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but your commandment is exceedingly broad.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh how I love your law!",
+	"verseNumber": "97 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is my meditation all the day.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your commandment makes me wiser than my enemies,",
+	"verseNumber": "98 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for it is ever with me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have more understanding than all my teachers,",
+	"verseNumber": "99 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for your testimonies are my meditation.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I understand more than the aged,",
+	"verseNumber": "100 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I keep your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hold back my feet from every evil way,",
+	"verseNumber": "101 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "in order to keep your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I do not turn aside from your rules,",
+	"verseNumber": "102 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for you have taught me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "How sweet are your words to my taste,",
+	"verseNumber": "103 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "sweeter than honey to my mouth!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Through your precepts I get understanding;",
+	"verseNumber": "104 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "therefore I hate every false way.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your word is a lamp to my feet",
+	"verseNumber": "105 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and a light to my path.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have sworn an oath and confirmed it,",
+	"verseNumber": "106 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "to keep your righteous rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am severely afflicted;",
+	"verseNumber": "107 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "give me life, O Lord, according to your word!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Accept my freewill offerings of praise, O Lord,",
+	"verseNumber": "108 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and teach me your rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hold my life in my hand continually,",
+	"verseNumber": "109 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I do not forget your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The wicked have laid a snare for me,",
+	"verseNumber": "110 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I do not stray from your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your testimonies are my heritage forever,",
+	"verseNumber": "111 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for they are the joy of my heart.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I incline my heart to perform your statutes",
+	"verseNumber": "112 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "forever, to the end.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hate the double-minded,",
+	"verseNumber": "113 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I love your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "You are my hiding place and my shield;",
+	"verseNumber": "114 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hope in your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Depart from me, you evildoers,",
+	"verseNumber": "115 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may keep the commandments of my God.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Uphold me according to your promise, that I may live,",
+	"verseNumber": "116 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let me not be put to shame in my hope!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Hold me up, that I may be safe",
+	"verseNumber": "117 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and have regard for your statutes continually!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "You spurn all who go astray from your statutes,",
+	"verseNumber": "118 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for their cunning is in vain.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "All the wicked of the earth you discard like dross,",
+	"verseNumber": "119 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "therefore I love your testimonies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My flesh trembles for fear of you,",
+	"verseNumber": "120 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and I am afraid of your judgments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have done what is just and right;",
+	"verseNumber": "121 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "do not leave me to my oppressors.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give your servant a pledge of good;",
+	"verseNumber": "122 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "let not the insolent oppress me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My eyes long for your salvation",
+	"verseNumber": "123 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and for the fulfillment of your righteous promise.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Deal with your servant according to your steadfast love,",
+	"verseNumber": "124 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and teach me your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am your servant; give me understanding,",
+	"verseNumber": "125 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may know your testimonies!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is time for the Lord to act,",
+	"verseNumber": "126 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for your law has been broken.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Therefore I love your commandments",
+	"verseNumber": "127 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "above gold, above fine gold.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Therefore I consider all your precepts to be right;",
+	"verseNumber": "128 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hate every false way.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your testimonies are wonderful;",
+	"verseNumber": "129 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "therefore my soul keeps them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The unfolding of your words gives light;",
+	"verseNumber": "130 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "it imparts understanding to the simple.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I open my mouth and pant,",
+	"verseNumber": "131 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "because I long for your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Turn to me and be gracious to me,",
+	"verseNumber": "132 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "as is your way with those who love your name.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Keep steady my steps according to your promise,",
+	"verseNumber": "133 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let no iniquity get dominion over me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Redeem me from man's oppression,",
+	"verseNumber": "134 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may keep your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Make your face shine upon your servant,",
+	"verseNumber": "135 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and teach me your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My eyes shed streams of tears,",
+	"verseNumber": "136 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "because people do not keep your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Righteous are you, O Lord,",
+	"verseNumber": "137 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and right are your rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "You have appointed your testimonies in righteousness",
+	"verseNumber": "138 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and in all faithfulness.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My zeal consumes me,",
+	"verseNumber": "139 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "because my foes forget your words.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your promise is well tried,",
+	"verseNumber": "140 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and your servant loves it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am small and despised,",
+	"verseNumber": "141 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "yet I do not forget your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your righteousness is righteous forever,",
+	"verseNumber": "142 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and your law is true.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Trouble and anguish have found me out,",
+	"verseNumber": "143 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but your commandments are my delight.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your testimonies are righteous forever;",
+	"verseNumber": "144 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "give me understanding that I may live.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "With my whole heart I cry; answer me, O Lord!",
+	"verseNumber": "145 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will keep your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I call to you; save me,",
+	"verseNumber": "146 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may observe your testimonies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I rise before dawn and cry for help;",
+	"verseNumber": "147 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hope in your words.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My eyes are awake before the watches of the night,",
+	"verseNumber": "148 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may meditate on your promise.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Hear my voice according to your steadfast love;",
+	"verseNumber": "149 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, according to your justice give me life.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "They draw near who persecute me with evil purpose;",
+	"verseNumber": "150 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "they are far from your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "But you are near, O Lord,",
+	"verseNumber": "151 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and all your commandments are true.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Long have I known from your testimonies",
+	"verseNumber": "152 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "that you have founded them forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Look on my affliction and deliver me,",
+	"verseNumber": "153 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I do not forget your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Plead my cause and redeem me;",
+	"verseNumber": "154 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "give me life according to your promise!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Salvation is far from the wicked,",
+	"verseNumber": "155 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for they do not seek your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Great is your mercy, O Lord;",
+	"verseNumber": "156 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "give me life according to your rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Many are my persecutors and my adversaries,",
+	"verseNumber": "157 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I do not swerve from your testimonies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I look at the faithless with disgust,",
+	"verseNumber": "158 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "because they do not keep your commands.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Consider how I love your precepts!",
+	"verseNumber": "159 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give me life according to your steadfast love.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "The sum of your word is truth,",
+	"verseNumber": "160 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and every one of your righteous rules endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Princes persecute me without cause,",
+	"verseNumber": "161 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but my heart stands in awe of your words.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I rejoice at your word",
+	"verseNumber": "162 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "like one who finds great spoil.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hate and abhor falsehood,",
+	"verseNumber": "163 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "but I love your law.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Seven times a day I praise you",
+	"verseNumber": "164 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for your righteous rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Great peace have those who love your law;",
+	"verseNumber": "165 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "nothing can make them stumble.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hope for your salvation, O Lord,",
+	"verseNumber": "166 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and I do your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My soul keeps your testimonies;",
+	"verseNumber": "167 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I love them exceedingly.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I keep your precepts and testimonies,",
+	"verseNumber": "168 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for all my ways are before you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let my cry come before you, O Lord;",
+	"verseNumber": "169 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "give me understanding according to your word!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let my plea come before you;",
+	"verseNumber": "170 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "deliver me according to your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My lips will pour forth praise,",
+	"verseNumber": "171 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for you teach me your statutes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "My tongue will sing of your word,",
+	"verseNumber": "172 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for all your commandments are right.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your hand be ready to help me,",
+	"verseNumber": "173 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I have chosen your precepts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I long for your salvation, O Lord,",
+	"verseNumber": "174 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and your law is my delight.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let my soul live and praise you,",
+	"verseNumber": "175 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let your rules help me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have gone astray like a lost sheep; seek your servant,",
+	"verseNumber": "176 ",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I do not forget your commandments.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 119,
+	"section": "Old Testament"
+}, {
+	"verseText": "In my distress I called to the Lord,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "and he answered me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "Deliver me, O Lord,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "from lying lips,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "from a deceitful tongue.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "What shall be given to you,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "and what more shall be done to you,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "you deceitful tongue?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "A warrior's sharp arrows,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "with glowing coals of the broom tree!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "Woe to me, that I sojourn in Meshech,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I dwell among the tents of Kedar!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "Too long have I had my dwelling",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "among those who hate peace.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "I am for peace,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "but when I speak, they are for war!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 120,
+	"section": "Old Testament"
+}, {
+	"verseText": "I lift up my eyes to the hills.",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "From where does my help come?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "My help comes from the Lord,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "who made heaven and earth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "He will not let your foot be moved;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "he who keeps you will not slumber.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "Behold, he who keeps Israel",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "will neither slumber nor sleep.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is your keeper;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "the Lord is your shade on your right hand.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "The sun shall not strike you by day,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor the moon by night.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord will keep you from all evil;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "he will keep your life.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord will keep",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "your going out and your coming in",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "from this time forth and forevermore.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 121,
+	"section": "Old Testament"
+}, {
+	"verseText": "I was glad when they said to me,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let us go to the house of the Lord!\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "Our feet have been standing",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "within your gates, O Jerusalem!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "Jerusalem—built as a city",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "that is bound firmly together,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "to which the tribes go up,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "the tribes of the Lord,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "as was decreed for Israel,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "to give thanks to the name of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "There thrones for judgment were set,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "the thrones of the house of David.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "Pray for the peace of Jerusalem!",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "May they be secure who love you!",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "Peace be within your walls",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "and security within your towers!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "For my brothers and companions' sake",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will say, \"Peace be within you!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the sake of the house of the Lord our God,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will seek your good.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 122,
+	"section": "Old Testament"
+}, {
+	"verseText": "To you I lift up my eyes,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "O you who are enthroned in the heavens!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "Behold, as the eyes of servants",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "look to the hand of their master,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "as the eyes of a maidservant",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "to the hand of her mistress,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "so our eyes look to the Lord our God,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "till he has mercy upon us.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "Have mercy upon us, O Lord, have mercy upon us,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "for we have had more than enough of contempt.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "Our soul has had more than enough",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "of the scorn of those who are at ease,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "of the contempt of the proud.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 123,
+	"section": "Old Testament"
+}, {
+	"verseText": "If it had not been the Lord who was on our side—",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "let Israel now say—",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "if it had not been the Lord who was on our side",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "when people rose up against us,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "then they would have swallowed us up alive,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "when their anger was kindled against us;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "then the flood would have swept us away,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "the torrent would have gone over us;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "then over us would have gone",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "the raging waters.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed be the Lord,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "who has not given us",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "as prey to their teeth!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "We have escaped like a bird",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "from the snare of the fowlers;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "the snare is broken,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "and we have escaped!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "Our help is in the name of the Lord,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "who made heaven and earth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 124,
+	"section": "Old Testament"
+}, {
+	"verseText": "Those who trust in the Lord are like Mount Zion,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "which cannot be moved, but abides forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "As the mountains surround Jerusalem,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "so the Lord surrounds his people,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "from this time forth and forevermore.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the scepter of wickedness shall not rest",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "on the land allotted to the righteous,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "lest the righteous stretch out",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "their hands to do wrong.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "Do good, O Lord, to those who are good,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "and to those who are upright in their hearts!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "But those who turn aside to their crooked ways",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "the Lord will lead away with evildoers!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "Peace be upon Israel!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 125,
+	"section": "Old Testament"
+}, {
+	"verseText": "When the Lord restored the fortunes of Zion,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "we were like those who dream.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "Then our mouth was filled with laughter,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "and our tongue with shouts of joy;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "then they said among the nations,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord has done great things for them.\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord has done great things for us;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "we are glad.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "Restore our fortunes, O Lord,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "like streams in the Negeb!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "Those who sow in tears",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "shall reap with shouts of joy!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "He who goes out weeping,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "bearing the seed for sowing,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "shall come home with shouts of joy,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "bringing his sheaves with him.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 126,
+	"section": "Old Testament"
+}, {
+	"verseText": "Unless the Lord builds the house,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "those who build it labor in vain.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "Unless the Lord watches over the city,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "the watchman stays awake in vain.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is in vain that you rise up early",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "and go late to rest,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "eating the bread of anxious toil;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "for he gives to his beloved sleep.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "Behold, children are a heritage from the Lord,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "the fruit of the womb a reward.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "Like arrows in the hand of a warrior",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "are the children of one's youth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed is the man",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "who fills his quiver with them!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "He shall not be put to shame",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "when he speaks with his enemies in the gate.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 127,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed is everyone who fears the Lord,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "who walks in his ways!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "You shall eat the fruit of the labor of your hands;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "you shall be blessed, and it shall be well with you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your wife will be like a fruitful vine",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "within your house;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "your children will be like olive shoots",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "around your table.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "Behold, thus shall the man be blessed",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "who fears the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord bless you from Zion!",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "May you see the prosperity of Jerusalem",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "all the days of your life!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "May you see your children's children!",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "Peace be upon Israel!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 128,
+	"section": "Old Testament"
+}, {
+	"verseText": "Greatly have they afflicted me from my youth\"—",
+	"verseNumber": "1 \"",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "let Israel now say—",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "Greatly have they afflicted me from my youth,",
+	"verseNumber": "2 \"",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "yet they have not prevailed against me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "The plowers plowed upon my back;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "they made long their furrows.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is righteous;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "he has cut the cords of the wicked.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "May all who hate Zion",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "be put to shame and turned backward!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them be like the grass on the housetops,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "which withers before it grows up,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "with which the reaper does not fill his hand",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor the binder of sheaves his arms,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor do those who pass by say,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "The blessing of the Lord be upon you!",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "We bless you in the name of the Lord!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 129,
+	"section": "Old Testament"
+}, {
+	"verseText": "Out of the depths I cry to you, O Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, hear my voice!",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your ears be attentive",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "to the voice of my pleas for mercy!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "If you, O Lord, should mark iniquities,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, who could stand?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "But with you there is forgiveness,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "that you may be feared.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "I wait for the Lord, my soul waits,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "and in his word I hope;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "my soul waits for the Lord",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "more than watchmen for the morning,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "more than watchmen for the morning.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Israel, hope in the Lord!",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "For with the Lord there is steadfast love,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "and with him is plentiful redemption.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "And he will redeem Israel",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "from all his iniquities.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 130,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, my heart is not lifted up;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "my eyes are not raised too high;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "I do not occupy myself with things",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "too great and too marvelous for me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "But I have calmed and quieted my soul,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "like a weaned child with its mother;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "like a weaned child is my soul within me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Israel, hope in the Lord",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "from this time forth and forevermore.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 131,
+	"section": "Old Testament"
+}, {
+	"verseText": "Remember, O Lord, in David's favor,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "all the hardships he endured,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "how he swore to the Lord",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "and vowed to the Mighty One of Jacob,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will not enter my house",
+	"verseNumber": "3 \"",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "or get into my bed,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will not give sleep to my eyes",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "or slumber to my eyelids,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "until I find a place for the Lord,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "a dwelling place for the Mighty One of Jacob.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "Behold, we heard of it in Ephrathah;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "we found it in the fields of Jaar.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let us go to his dwelling place;",
+	"verseNumber": "7 \"",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "let us worship at his footstool!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "Arise, O Lord, and go to your resting place,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "you and the ark of your might.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your priests be clothed with righteousness,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let your saints shout for joy.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the sake of your servant David,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "do not turn away the face of your anointed one.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord swore to David a sure oath",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "from which he will not turn back:",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "One of the sons of your body",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will set on your throne.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "If your sons keep my covenant",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "and my testimonies that I shall teach them,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "their sons also forever",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "shall sit on your throne.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the Lord has chosen Zion;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "he has desired it for his dwelling place:",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "This is my resting place forever;",
+	"verseNumber": "14 \"",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "here I will dwell, for I have desired it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will abundantly bless her provisions;",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will satisfy her poor with bread.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "Her priests I will clothe with salvation,",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "and her saints will shout for joy.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "There I will make a horn to sprout for David;",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have prepared a lamp for my anointed.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "His enemies I will clothe with shame,",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "but on him his crown will shine.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 132,
+	"section": "Old Testament"
+}, {
+	"verseText": "Behold, how good and pleasant it is",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "when brothers dwell in unity!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is like the precious oil on the head,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "running down on the beard,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "on the beard of Aaron,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "running down on the collar of his robes!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is like the dew of Hermon,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "which falls on the mountains of Zion!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "For there the Lord has commanded the blessing,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "life forevermore.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 133,
+	"section": "Old Testament"
+}, {
+	"verseText": "Come, bless the Lord, all you servants of the Lord,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 134,
+	"section": "Old Testament"
+}, {
+	"verseText": "who stand by night in the house of the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 134,
+	"section": "Old Testament"
+}, {
+	"verseText": "Lift up your hands to the holy place",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 134,
+	"section": "Old Testament"
+}, {
+	"verseText": "and bless the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 134,
+	"section": "Old Testament"
+}, {
+	"verseText": "May the Lord bless you from Zion,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 134,
+	"section": "Old Testament"
+}, {
+	"verseText": "he who made heaven and earth!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 134,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the name of the Lord,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "give praise, O servants of the Lord,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "who stand in the house of the Lord,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the courts of the house of our God!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord, for the Lord is good;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "sing to his name, for it is pleasant!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the Lord has chosen Jacob for himself,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Israel as his own possession.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "For I know that the Lord is great,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "and that our Lord is above all gods.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Whatever the Lord pleases, he does,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "in heaven and on earth,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "in the seas and all deeps.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "He it is who makes the clouds rise at the end of the earth,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "who makes lightnings for the rain",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "and brings forth the wind from his storehouses.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "He it was who struck down the firstborn of Egypt,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "both of man and of beast;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "who in your midst, O Egypt,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "sent signs and wonders",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "against Pharaoh and all his servants;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "who struck down many nations",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "and killed mighty kings,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Sihon, king of the Amorites,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "and Og, king of Bashan,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "and all the kingdoms of Canaan,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "and gave their land as a heritage,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "a heritage to his people Israel.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your name, O Lord, endures forever,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "your renown, O Lord, throughout all ages.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the Lord will vindicate his people",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "and have compassion on his servants.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "The idols of the nations are silver and gold,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "the work of human hands.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "They have mouths, but do not speak;",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "they have eyes, but do not see;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "they have ears, but do not hear,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor is there any breath in their mouths.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Those who make them become like them,",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "so do all who trust in them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "O house of Israel, bless the Lord!",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "O house of Aaron, bless the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "O house of Levi, bless the Lord!",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "You who fear the Lord, bless the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed be the Lord from Zion,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "he who dwells in Jerusalem!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 135,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give thanks to the Lord, for he is good,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give thanks to the God of gods,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give thanks to the Lord of lords,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who alone does great wonders,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who by understanding made the heavens,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who spread out the earth above the waters,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who made the great lights,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "the sun to rule over the day,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "the moon and stars to rule over the night,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who struck down the firstborn of Egypt,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "and brought Israel out from among them,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "with a strong hand and an outstretched arm,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who divided the Red Sea in two,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "and made Israel pass through the midst of it,",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "but overthrew Pharaoh and his host in the Red Sea,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who led his people through the wilderness,",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "to him who struck down great kings,",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "and killed mighty kings,",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "Sihon, king of the Amorites,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "and Og, king of Bashan,",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "and gave their land as a heritage,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "a heritage to Israel his servant,",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "It is he who remembered us in our low estate,",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "and rescued us from our foes,",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "he who gives food to all flesh,",
+	"verseNumber": "25 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give thanks to the God of heaven,",
+	"verseNumber": "26 ",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his steadfast love endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 136,
+	"section": "Old Testament"
+}, {
+	"verseText": "By the waters of Babylon,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "there we sat down and wept,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "when we remembered Zion.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "On the willows there",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "we hung up our lyres.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "For there our captors",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "required of us songs,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "and our tormentors, mirth, saying,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "Sing us one of the songs of Zion!\"",
+	"verseNumber": "\"",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "How shall we sing the Lord's song",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "in a foreign land?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "If I forget you, O Jerusalem,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "let my right hand forget its skill!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let my tongue stick to the roof of my mouth,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "if I do not remember you,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "if I do not set Jerusalem",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "above my highest joy!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "Remember, O Lord, against the Edomites",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "the day of Jerusalem,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "how they said, \"Lay it bare, lay it bare,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "down to its foundations!\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "O daughter of Babylon, doomed to be destroyed,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "blessed shall he be who repays you",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "with what you have done to us!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed shall he be who takes your little ones",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "and dashes them against the rock!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 137,
+	"section": "Old Testament"
+}, {
+	"verseText": "I give you thanks, O Lord, with my whole heart;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "before the gods I sing your praise;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "I bow down toward your holy temple",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "and give thanks to your name for your steadfast love and your faithfulness,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "for you have exalted above all things",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "your name and your word.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "On the day I called, you answered me;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "my strength of soul you increased.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "All the kings of the earth shall give you thanks, O Lord,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "for they have heard the words of your mouth,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "and they shall sing of the ways of the Lord,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "for great is the glory of the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "For though the Lord is high, he regards the lowly,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "but the haughty he knows from afar.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "Though I walk in the midst of trouble,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "you preserve my life;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "you stretch out your hand against the wrath of my enemies,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "and your right hand delivers me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord will fulfill his purpose for me;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "your steadfast love, O Lord, endures forever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "Do not forsake the work of your hands.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 138,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, you have searched me and known me!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "You know when I sit down and when I rise up;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "you discern my thoughts from afar.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "You search out my path and my lying down",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "and are acquainted with all my ways.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Even before a word is on my tongue,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "behold, O Lord, you know it altogether.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "You hem me in, behind and before,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "and lay your hand upon me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Such knowledge is too wonderful for me;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "it is high; I cannot attain it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Where shall I go from your Spirit?",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Or where shall I flee from your presence?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "If I ascend to heaven, you are there!",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "If I make my bed in Sheol, you are there!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "If I take the wings of the morning",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "and dwell in the uttermost parts of the sea,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "even there your hand shall lead me,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "and your right hand shall hold me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "If I say, \"Surely the darkness shall cover me,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the light about me be night,\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "even the darkness is not dark to you;",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "the night is bright as the day,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "for darkness is as light with you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "For you formed my inward parts;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "you knitted me together in my mother's womb.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "I praise you, for I am fearfully and wonderfully made.",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Wonderful are your works;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "my soul knows it very well.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "My frame was not hidden from you,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "when I was being made in secret,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "intricately woven in the depths of the earth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your eyes saw my unformed substance;",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "in your book were written, every one of them,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "the days that were formed for me,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "when as yet there was none of them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "How precious to me are your thoughts, O God!",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "How vast is the sum of them!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "If I would count them, they are more than the sand.",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "I awake, and I am still with you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Oh that you would slay the wicked, O God!",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "O men of blood, depart from me!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "They speak against you with malicious intent;",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "your enemies take your name in vain.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Do I not hate those who hate you, O Lord?",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "And do I not loathe those who rise up against you?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "I hate them with complete hatred;",
+	"verseNumber": "22 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "I count them my enemies.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Search me, O God, and know my heart!",
+	"verseNumber": "23 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Try me and know my thoughts!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "And see if there be any grievous way in me,",
+	"verseNumber": "24 ",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "and lead me in the way everlasting!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 139,
+	"section": "Old Testament"
+}, {
+	"verseText": "Deliver me, O Lord, from evil men;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "preserve me from violent men,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "who plan evil things in their heart",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "and stir up wars continually.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "They make their tongue sharp as a serpent's,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "and under their lips is the venom of asps. Selah",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "Guard me, O Lord, from the hands of the wicked;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "preserve me from violent men,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "who have planned to trip up my feet.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "The arrogant have hidden a trap for me,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "and with cords they have spread a net;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "beside the way they have set snares for me. Selah",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "I say to the Lord, You are my God;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "give ear to the voice of my pleas for mercy, O Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, my Lord, the strength of my salvation,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "you have covered my head in the day of battle.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "Grant not, O Lord, the desires of the wicked;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "do not further their evil plot, or they will be exalted! Selah",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "As for the head of those who surround me,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "let the mischief of their lips overwhelm them!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let burning coals fall upon them!",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them be cast into fire,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "into miry pits, no more to rise!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let not the slanderer be established in the land;",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "let evil hunt down the violent man speedily!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "I know that the Lord will maintain the cause of the afflicted,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "and will execute justice for the needy.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "Surely the righteous shall give thanks to your name;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "the upright shall dwell in your presence.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 140,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, I call upon you; hasten to me!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Give ear to my voice when I call to you!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let my prayer be counted as incense before you,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the lifting up of my hands as the evening sacrifice!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Set a guard, O Lord, over my mouth;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "keep watch over the door of my lips!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Do not let my heart incline to any evil,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "to busy myself with wicked deeds",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "in company with men who work iniquity,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let me not eat of their delicacies!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let a righteous man strike me—it is a kindness;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "let him rebuke me—it is oil for my head;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "let my head not refuse it.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Yet my prayer is continually against their evil deeds.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "When their judges are thrown over the cliff,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "then they shall hear my words, for they are pleasant.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "As when one plows and breaks up the earth,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "so shall our bones be scattered at the mouth of Sheol.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "But my eyes are toward you, O God, my Lord;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "in you I seek refuge; leave me not defenseless!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Keep me from the trap that they have laid for me",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "and from the snares of evildoers!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let the wicked fall into their own nets,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "while I pass by safely.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 141,
+	"section": "Old Testament"
+}, {
+	"verseText": "With my voice I cry out to the Lord;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "with my voice I plead for mercy to the Lord.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "I pour out my complaint before him;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "I tell my trouble before him.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "When my spirit faints within me,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "you know my way!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "In the path where I walk",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "they have hidden a trap for me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "Look to the right and see:",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "there is none who takes notice of me;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "no refuge remains to me;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "no one cares for my soul.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "I cry to you, O Lord;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "I say, \"You are my refuge,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "my portion in the land of the living.\"",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "Attend to my cry,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I am brought very low!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "Deliver me from my persecutors,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "for they are too strong for me!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bring me out of prison,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "that I may give thanks to your name!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "The righteous will surround me,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "for you will deal bountifully with me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 142,
+	"section": "Old Testament"
+}, {
+	"verseText": "Hear my prayer, O Lord;",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "give ear to my pleas for mercy!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "In your faithfulness answer me, in your righteousness!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Enter not into judgment with your servant,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "for no one living is righteous before you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the enemy has pursued my soul;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "he has crushed my life to the ground;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "he has made me sit in darkness like those long dead.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Therefore my spirit faints within me;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "my heart within me is appalled.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "I remember the days of old;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "I meditate on all that you have done;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "I ponder the work of your hands.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "I stretch out my hands to you;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "my soul thirsts for you like a parched land. Selah",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Answer me quickly, O Lord!",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "My spirit fails!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Hide not your face from me,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "lest I be like those who go down to the pit.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let me hear in the morning of your steadfast love,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "for in you I trust.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Make me know the way I should go,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "for to you I lift up my soul.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Deliver me from my enemies, O Lord!",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "I have fled to you for refuge.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Teach me to do your will,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "for you are my God!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let your good Spirit lead me",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "on level ground!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "For your name's sake, O Lord, preserve my life!",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "In your righteousness bring my soul out of trouble!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "And in your steadfast love you will cut off my enemies,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "and you will destroy all the adversaries of my soul,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "for I am your servant.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 143,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed be the Lord, my rock,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "who trains my hands for war,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "and my fingers for battle;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "he is my steadfast love and my fortress,",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "my stronghold and my deliverer,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "my shield and he in whom I take refuge,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "who subdues peoples under me.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "O Lord, what is man that you regard him,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "or the son of man that you think of him?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Man is like a breath;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "his days are like a passing shadow.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Bow your heavens, O Lord, and come down!",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Touch the mountains so that they smoke!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Flash forth the lightning and scatter them;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "send out your arrows and rout them!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Stretch out your hand from on high;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "rescue me and deliver me from the many waters,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "from the hand of foreigners,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "whose mouths speak lies",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "and whose right hand is a right hand of falsehood.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will sing a new song to you, O God;",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "upon a ten-stringed harp I will play to you,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "who gives victory to kings,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "who rescues David his servant from the cruel sword.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Rescue me and deliver me",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "from the hand of foreigners,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "whose mouths speak lies",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "and whose right hand is a right hand of falsehood.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "May our sons in their youth",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "be like plants full grown,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "our daughters like corner pillars",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "cut for the structure of a palace;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "may our granaries be full,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "providing all kinds of produce;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "may our sheep bring forth thousands",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "and ten thousands in our fields;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "may our cattle be heavy with young,",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "suffering no mishap or failure in bearing;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "may there be no cry of distress in our streets!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed are the people to whom such blessings fall!",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed are the people whose God is the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 144,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will extol you, my God and King,",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and bless your name forever and ever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "Every day I will bless you",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and praise your name forever and ever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "Great is the Lord, and greatly to be praised,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his greatness is unsearchable.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "One generation shall commend your works to another,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and shall declare your mighty acts.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "On the glorious splendor of your majesty,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and on your wondrous works, I will meditate.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "They shall speak of the might of your awesome deeds,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and I will declare your greatness.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "They shall pour forth the fame of your abundant goodness",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and shall sing aloud of your righteousness.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is gracious and merciful,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "slow to anger and abounding in steadfast love.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is good to all,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and his mercy is over all that he has made.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "All your works shall give thanks to you, O Lord,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and all your saints shall bless you!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "They shall speak of the glory of your kingdom",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and tell of your power,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "to make known to the children of man your mighty deeds,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and the glorious splendor of your kingdom.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "Your kingdom is an everlasting kingdom,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and your dominion endures throughout all generations.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is faithful in all his words",
+	"verseNumber": "[",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and kind in all his works.]",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord upholds all who are falling",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and raises up all who are bowed down.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The eyes of all look to you,",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and you give them their food in due season.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "You open your hand;",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "you satisfy the desire of every living thing.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is righteous in all his ways",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and kind in all his works.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord is near to all who call on him,",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "to all who call on him in truth.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "He fulfills the desire of those who fear him;",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "he also hears their cry and saves them.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord preserves all who love him,",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "but all the wicked he will destroy.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "My mouth will speak the praise of the Lord,",
+	"verseNumber": "21 ",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "and let all flesh bless his holy name forever and ever.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 145,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord, O my soul!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will praise the Lord as long as I live;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "I will sing praises to my God while I have my being.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "Put not your trust in princes,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "in a son of man, in whom there is no salvation.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "When his breath departs, he returns to the earth;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "on that very day his plans perish.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "Blessed is he whose help is the God of Jacob,",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "whose hope is in the Lord his God,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "who made heaven and earth,",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "the sea, and all that is in them,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "who keeps faith forever;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "who executes justice for the oppressed,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "who gives food to the hungry.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord sets the prisoners free;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "the Lord opens the eyes of the blind.",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord lifts up those who are bowed down;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "the Lord loves the righteous.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord watches over the sojourners;",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "he upholds the widow and the fatherless,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "but the way of the wicked he brings to ruin.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord will reign forever,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "your God, O Zion, to all generations.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 146,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "For it is good to sing praises to our God;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "for it is pleasant, and a song of praise is fitting.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord builds up Jerusalem;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he gathers the outcasts of Israel.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He heals the brokenhearted",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "and binds up their wounds.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He determines the number of the stars;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he gives to all of them their names.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "Great is our Lord, and abundant in power;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "his understanding is beyond measure.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "The Lord lifts up the humble;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he casts the wicked to the ground.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "Sing to the Lord with thanksgiving;",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "make melody to our God on the lyre!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He covers the heavens with clouds;",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he prepares rain for the earth;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he makes grass grow on the hills.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He gives to the beasts their food,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "and to the young ravens that cry.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "His delight is not in the strength of the horse,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "nor his pleasure in the legs of a man,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "but the Lord takes pleasure in those who fear him,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "in those who hope in his steadfast love.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord, O Jerusalem!",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise your God, O Zion!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he strengthens the bars of your gates;",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he blesses your children within you.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He makes peace in your borders;",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he fills you with the finest of the wheat.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He sends out his command to the earth;",
+	"verseNumber": "15 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "his word runs swiftly.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He gives snow like wool;",
+	"verseNumber": "16 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he scatters frost like ashes.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He hurls down his crystals of ice like crumbs;",
+	"verseNumber": "17 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "who can stand before his cold?",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He sends out his word, and melts them;",
+	"verseNumber": "18 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "he makes his wind blow and the waters flow.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He declares his word to Jacob,",
+	"verseNumber": "19 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "his statutes and rules to Israel.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "He has not dealt thus with any other nation;",
+	"verseNumber": "20 ",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "they do not know his rules.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 147,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord from the heavens;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him in the heights!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise him, all his angels;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him, all his hosts!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise him, sun and moon,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him, all you shining stars!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise him, you highest heavens,",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "and you waters above the heavens!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them praise the name of the Lord!",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "For he commanded and they were created.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "And he established them forever and ever;",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "he gave a decree, and it shall not pass away.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord from the earth,",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "you great sea creatures and all deeps,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "fire and hail, snow and mist,",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "stormy wind fulfilling his word!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Mountains and all hills,",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "fruit trees and all cedars!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Beasts and all livestock,",
+	"verseNumber": "10 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "creeping things and flying birds!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Kings of the earth and all peoples,",
+	"verseNumber": "11 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "princes and all rulers of the earth!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Young men and maidens together,",
+	"verseNumber": "12 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "old men and children!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them praise the name of the Lord,",
+	"verseNumber": "13 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "for his name alone is exalted;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "his majesty is above earth and heaven.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "He has raised up a horn for his people,",
+	"verseNumber": "14 ",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise for all his saints,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "for the people of Israel who are near to him.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 148,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "Sing to the Lord a new song,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "his praise in the assembly of the godly!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let Israel be glad in his Maker;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "let the children of Zion rejoice in their King!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let them praise his name with dancing,",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "making melody to him with tambourine and lyre!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "For the Lord takes pleasure in his people;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "he adorns the humble with salvation.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let the godly exult in glory;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "let them sing for joy on their beds.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let the high praises of God be in their throats",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "and two-edged swords in their hands,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "to execute vengeance on the nations",
+	"verseNumber": "7 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "and punishments on the peoples,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "to bind their kings with chains",
+	"verseNumber": "8 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "and their nobles with fetters of iron,",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "to execute on them the judgment written!",
+	"verseNumber": "9 ",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "This is honor for all his godly ones.",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 149,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "1 ",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise God in his sanctuary;",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him in his mighty heavens!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise him for his mighty deeds;",
+	"verseNumber": "2 ",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him according to his excellent greatness!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise him with trumpet sound;",
+	"verseNumber": "3 ",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him with lute and harp!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise him with tambourine and dance;",
+	"verseNumber": "4 ",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him with strings and pipe!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise him with sounding cymbals;",
+	"verseNumber": "5 ",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "praise him with loud clashing cymbals!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "Let everything that has breath praise the Lord!",
+	"verseNumber": "6 ",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
+}, {
+	"verseText": "Praise the Lord!",
+	"verseNumber": "",
+	"bookName": "Psalms",
+	"chapterNumber": 150,
+	"section": "Old Testament"
 }];
