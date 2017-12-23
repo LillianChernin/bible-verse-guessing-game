@@ -1,4 +1,4 @@
-const firstKingVerses = [{
+const firstKingsVerses = [{
 	"verseText": "Now King David was old and advanced in years. And although they covered him with clothes, he could not get warm. ",
 	"verseNumber": "1",
 	"bookName": "1 Kings",

@@ -32,4 +32,22 @@ $('.verse').each(function(i, obj) {
 });
 
 
+for (let j = 0; j < books.length; j++) {
+  for (let i = 0; i < books[j].length; i++) {
+    let updatedVerseNum = Number(books[j][i].verseNumber);
+    if (updatedVerseNum === 0) {
+      books[j][i - 1].verseText = books[j][i - 1].verseText + " " + books[j][i].verseText;
+      books[j].splice(i, 1);
+      i--;
+    } else if (updatedVerseNum === NaN) {
+      if (books[j][i].verseNumber.split('').length === 1) {
+        books[j][i - 1].verseText = books[j][i - 1].verseText + " " + books[j][i].verseText;
+        books[j].splice(i, 1);
+        i--;
+      }
+    }
+  }
+}
+
+
 JSON.stringify(dataArray);
