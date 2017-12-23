@@ -11,7 +11,7 @@ let userBookChoice = "";
 let userChapterChoice = "";
 let userVerseChoice = "";
 
-const books = ["genesis", "exodus", "leviticus","numbers","deuteronomy","joshua","judges","ruth","2 chronicles","matthew", "mark", "luke", "john","acts","romans","1 corinthians","2 corinthians"];
+const books = ["genesis", "exodus", "leviticus","numbers","deuteronomy","joshua","judges","ruth","1 Samuel","2 chronicles","matthew", "mark", "luke", "john","acts","romans","1 corinthians","2 corinthians"];
 
 const randomBookSelector = () => {
   let randomNum = Math.floor(Math.random() * books.length);
@@ -21,8 +21,17 @@ const randomBookSelector = () => {
 
 const randomVerseSelector = (array) => {
   let randomVerse = Math.floor(Math.random() * array.length);
-  precedingVerse = array[randomVerse - 1];
-  succeedingVerse = array[randomVerse + 1];
+  if (randomVerse === 0 && randomVerse === (array.length - 1)) {
+    precedingVerse.verseText = "";
+    succeedingVerse.verseText = "";
+  } else if (randomVerse === 0) {
+    precedingVerse.verseText = "";
+  } else if (randomVerse === (array.length - 1)) {
+    succeedingVerse.verseText = "";
+  } else {
+    precedingVerse = array[randomVerse - 1];
+    succeedingVerse = array[randomVerse + 1];
+  }
   currentRandomVerse = array[randomVerse];
   return currentRandomVerse;
 }
@@ -86,10 +95,10 @@ const randomVerseGenerator = () => {
 
 const getHint = () => {
   $('#hint').click(() => {
-    if (precedingVerse !== undefined) {
+    if (precedingVerse.verseText !== "") {
       $('#precedingVerse').removeClass("hidden");
     }
-    if (succeedingVerse !== undefined) {
+    if (succeedingVerse.verseText !== "") {
       $('#succeedingVerse').removeClass("hidden");
     }
   });
