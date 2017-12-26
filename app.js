@@ -12,46 +12,54 @@ let userChapterChoice = "";
 let userVerseChoice = "";
 
 
-const books = [genesisVerses, exodusVerses, leviticusVerses, numbersVerses,
-deuteronomyVerses, joshuaVerses, judgesVerses, ruthVerses, firstSamuelVerses,
-secondSamuelVerses, firstKingsVerses, secondKingsVerses, firstChroniclesVerses,
-secondChroniclesVerses, ezraVerses, nehemiahVerses, estherVerses, jobVerses,
-psalmsVerses, proverbsVerses, ecclesiastesVerses, theSongOfSolomonVerses,
-isaiahVerses, jeremiahVerses, lamentationsVerses, ezekielVerses, danielVerses,
-hoseaVerses,joelVerses,amosVerses,obadiahVerses,jonahVerses,micahVerses,nahumVerses,
-habakkukVerses, zephaniahVerses, haggaiVerses, zechariahVerses, malachiVerses,
-matthewVerses, markVerses, lukeVerses, johnVerses, actsVerses, romansVerses,
-firstCorinthiansVerses, secondCorinthiansVerses, galatiansVerses, ephesiansVerses,
-philippiansVerses, colossiansVerses, firstThessaloniansVerses, secondThessaloniansVerses,
-firstTimothyVerses, secondTimothyVerses, titusVerses, philemonVerses, hebrewsVerses,
-jamesVerses, firstPeterVerses, secondPeterVerses,firstJohnVerses,secondJohnVerses,
-thirdJohnVerses, judeVerses, revelationVerses];
+// const books = [genesisVerses, exodusVerses, leviticusVerses, numbersVerses,
+// deuteronomyVerses, joshuaVerses, judgesVerses, ruthVerses, firstSamuelVerses,
+// secondSamuelVerses, firstKingsVerses, secondKingsVerses, firstChroniclesVerses,
+// secondChroniclesVerses, ezraVerses, nehemiahVerses, estherVerses, jobVerses,
+// psalmsVerses, proverbsVerses, ecclesiastesVerses, theSongOfSolomonVerses,
+// isaiahVerses, jeremiahVerses, lamentationsVerses, ezekielVerses, danielVerses,
+// hoseaVerses,joelVerses,amosVerses,obadiahVerses,jonahVerses,micahVerses,nahumVerses,
+// habakkukVerses, zephaniahVerses, haggaiVerses, zechariahVerses, malachiVerses,
+// matthewVerses, markVerses, lukeVerses, johnVerses, actsVerses, romansVerses,
+// firstCorinthiansVerses, secondCorinthiansVerses, galatiansVerses, ephesiansVerses,
+// philippiansVerses, colossiansVerses, firstThessaloniansVerses, secondThessaloniansVerses,
+// firstTimothyVerses, secondTimothyVerses, titusVerses, philemonVerses, hebrewsVerses,
+// jamesVerses, firstPeterVerses, secondPeterVerses,firstJohnVerses,secondJohnVerses,
+// thirdJohnVerses, judeVerses, revelationVerses];
 
 const randomBookSelector = () => {
-  let randomNum = Math.floor(Math.random() * books.length);
-  currentBook = books[randomNum];
-  return books[randomNum];
+  let randomBookIndex = Math.floor(Math.random() * bibleVerses.length);
+  currentBook = bibleVerses[randomBookIndex][0][0].bookName;
+  return bibleVerses[randomBookIndex];
+}
+
+const randomChapterSelector = (array) => {
+  let randomChapterIndex = Math.floor(Math.random() * array.length);
+  currentChapter = array[randomChapterIndex][0].chapterNumber;
+  return array[randomChapterIndex];
 }
 
 const randomVerseSelector = (array) => {
-  let randomVerse = Math.floor(Math.random() * array.length);
-  if (randomVerse === 0 && randomVerse === (array.length - 1)) {
+  let randomVerseIndex = Math.floor(Math.random() * array.length);
+  if (randomVerseIndex === 0 && randomVerseIndex === (array.length - 1)) {
     precedingVerse.verseText = "";
     succeedingVerse.verseText = "";
-  } else if (randomVerse === 0) {
+  } else if (randomVerseIndex === 0) {
     precedingVerse.verseText = "";
-  } else if (randomVerse === (array.length - 1)) {
+    succeedingVerse = array[randomVerseIndex + 1];
+  } else if (randomVerseIndex === (array.length - 1)) {
+    precedingVerse = array[randomVerseIndex - 1];
     succeedingVerse.verseText = "";
   } else {
-    precedingVerse = array[randomVerse - 1];
-    succeedingVerse = array[randomVerse + 1];
+    precedingVerse = array[randomVerseIndex - 1];
+    succeedingVerse = array[randomVerseIndex + 1];
   }
-  currentRandomVerse = array[randomVerse];
+  currentRandomVerse = array[randomVerseIndex];
   return currentRandomVerse;
 }
 
 const randomVerseGenerator = () => {
-  randomVerseSelector(randomBookSelector())
+  randomVerseSelector(randomChapterSelector(randomBookSelector()))
 }
 
 

@@ -101,7 +101,7 @@ revelationVerses[50].verseText = revelationVerses[49].verseText + " " + revelati
 revelationVerses.splice(49, 1);
 
 for (let j = 0; j < books.length; j++) {
-  console.log(books[j][1].bookName + " starting length: " + books[j].length);
+  // console.log(books[j][1].bookName + " starting length: " + books[j].length);
   let startingLength = books[j].length;
   let dupVerseNums = []
   let secondDupCheck = [];
@@ -113,7 +113,7 @@ for (let j = 0; j < books.length; j++) {
       i--;
     }
   }
-  console.log(books[j][1].bookName + " first run: " + dupVerseNums.length);
+  // console.log(books[j][1].bookName + " first run: " + dupVerseNums.length);
   for (let i = 0; i < books[j].length - 1; i++) {
     if (books[j][i].verseNumber === books[j][i + 1].verseNumber) {
       secondDupCheck.push(i);
@@ -123,6 +123,20 @@ for (let j = 0; j < books.length; j++) {
   if (startingLength - dupVerseNums.length !== books[j].length) {
     console.log(books[j][1].bookName + " has an ERROR!!");
   }
+}
+const updatedBooksArray = [];
+
+for (let j = 0; j < books.length; j++) {
+  let currentBook = [];
+  let lastChapterNumber = Number(books[j][books[j].length - 1].chapterNumber);
+  for (let k = 0; k < lastChapterNumber; k++) {
+    currentBook.push([]);
+  }
+  for (let i = 0; i < books[j].length; i++) {
+    let currentChapter = Number(books[j][i].chapterNumber);
+    currentBook[currentChapter - 1].push(books[j][i]);
+  }
+  updatedBooksArray.push(currentBook);
 }
 
 
