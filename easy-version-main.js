@@ -99,6 +99,7 @@ const getHint = () => {
 }
 
 const updateRandomVerse = () => {
+  guessChoices = [];
   randomVerseGenerator();
   randomGuessesGenerator();
   $('#randomVerse').text(currentRandomVerse.verseText);
@@ -120,12 +121,15 @@ $('#changeVerse').click(() => {
 const checkGuess = () => {
   $('.guess').click((event) => {
     if (event.target.id === currentRandomVerseButtonId) {
+      alert("You choose the correct verse.  Great job!");
       currentScore+= 10;
       $('#score').text("Current Score: " + currentScore);
+      updateRandomVerse();
     } else {
       let incorrectGuessId = event.target.id;
-      $('#' + incorrectGuessId).css("border", "3px red solid");
-      $('#' + currentRandomVerseButtonId).css("border", "3px green solid");
+      let correctAnswer = $('#' + currentRandomVerseButtonId).val();
+      alert("The correct answer was " + correctAnswer);
+      updateRandomVerse();
     }
   })
 }
