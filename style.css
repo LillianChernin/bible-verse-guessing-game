@@ -1,3 +1,41 @@
 .hidden {
   display: none;
 }
+h1, h2 {
+  font-family: 'Cutive Mono', monospace;
+}
+h3, h4 {
+  font-family: 'Cutive Mono', monospace;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#randomVerse, #precedingVerse, #succeedingVerse {
+  background-color: rgba(135, 181, 255, .8);
+  padding: 20px;
+  margin: auto 0;
+  width: 30%;
+}
+#resultScreen {
+  background-color: #6add6a;
+  z-index: 1;
+  margin: auto 0;
+  width: 30%;
+  padding: 20px;
+}
+#result {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+#playAgain {
+  font-family: 'Open Sans', sans-serif;
+}
+button {
+  font-family: 'Open Sans', sans-serif;
+  margin: 20px;
+}
+.guess {
+  padding: 10px;
+}

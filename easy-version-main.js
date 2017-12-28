@@ -120,19 +120,34 @@ $('#changeVerse').click(() => {
 
 const checkGuess = () => {
   $('.guess').click((event) => {
+    let correctAnswer = $('#' + currentRandomVerseButtonId).val();
     if (event.target.id === currentRandomVerseButtonId) {
-      alert("You choose the correct verse.  Great job!");
+      $('.guess').addClass("hidden");
+      $('#result').text("You selected the correct verse, " + correctAnswer + ".  Good job!");
+      $('#resultScreen').removeClass('hidden');
       currentScore+= 10;
       $('#score').text("Current Score: " + currentScore);
-      updateRandomVerse();
     } else {
-      let incorrectGuessId = event.target.id;
-      let correctAnswer = $('#' + currentRandomVerseButtonId).val();
-      alert("The correct answer was " + correctAnswer);
-      updateRandomVerse();
+      $('.guess').addClass("hidden");
+      $('#resultScreen').css("background-color", "#ff5959");
+      $('#result').text("The correct answer was " + correctAnswer);
+      $('#resultScreen').removeClass('hidden');
     }
   })
 }
+
+$('#playAgain').click(() => {
+  $('.guess').removeClass("hidden");
+  $('#resultScreen').addClass('hidden');
+  $('#resultScreen').css("background-color", "#6add6a");
+  updateRandomVerse();
+  if (precedingVerse !== undefined) {
+    $('#precedingVerse').addClass("hidden");
+  }
+  if (succeedingVerse !== undefined) {
+    $('#succeedingVerse').addClass("hidden");
+  }
+})
 
 updateRandomVerse();
 getHint();

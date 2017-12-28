@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
     <title>Bible Verse Guessing Game</title>
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Open+Sans" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
   </head>
   <body>
     <header>
       <h1>Bible Verse Guessing Game</h1>
-      <p>Guess where the random verse below is from. 10 points for each correct guess!</p>
+      <p>Guess where the random verse below is from. 10 points for each correct guess. Click the hint button to see the surrounding verses.</p>
       <h4 id="score">Current Score: 0</h4>
 
     </header>
@@ -21,7 +22,7 @@
       <button id="changeVerse">Different Verse?</button>
       <button id="hint">Want a hint?</button>
 
-      <h3>Select your answer</h3>
+      <h3>Select your answer:</h3>
       <ul>
         <input class="guess" type="button" id="guessChoice1">
         <input class="guess" type="button" id="guessChoice2">
@@ -30,6 +31,10 @@
         <input class="guess" type="button" id="guessChoice5">
         <input class="guess" type="button" id="guessChoice6">
       </ul>
+    </div>
+    <div id="resultScreen" class="hidden">
+      <p id="result"></p>
+      <button id="playAgain">Play Again?</button>
     </div>
 
     <script src="bible.js"></script>
