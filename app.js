@@ -6,10 +6,12 @@ let currentSection = "";
 let currentBook = "";
 let lastChapter = "";
 let lastVerse = "";
+let userScore = 0;
 let missedSection = 0;
 let missedBook = 0;
 let missedChapter = 0;
 let missedVerse = 0;
+let currentRoundScore = 0;
 
 let userSectionChoice = "";
 let userBookChoice = "";
@@ -71,11 +73,11 @@ const getHint = () => {
 
 const checkGuess = () => {
   $('#submitGuess').click(() => {
-    let sectionGuess = $('input[name=section]:checked').val();
-    let bookGuess = $('input[name=book]:checked').val();
-    let chapterGuess = $('input[name=chapter]:checked').val();
-    let verseGuess = $('input[name=verse]:checked').val();
-    console.log(sectionGuess + " " + bookGuess + " " + chapterGuess + " " + verseGuess);
+    $('#resultScreen').removeClass('hidden');
+    currentRoundScore = 100 - missedSection - missedBook - missedChapter - missedVerse;
+    userScore = userScore + currentRoundScore;
+    $('#score').text("Current Score: " + userScore);
+    $('#resultMessage').text()
   });
 }
 
@@ -84,8 +86,6 @@ const updateRandomVerse = () => {
   $('#randomVerse').text(currentRandomVerse.verseText);
   $('#precedingVerse').text(precedingVerse.verseText);
   $('#succeedingVerse').text(succeedingVerse.verseText);
-  console.log(currentRandomVerse.section + " " + currentRandomVerse.bookName)
-  console.log(currentRandomVerse.section);
   console.log(currentRandomVerse.bookName);
   console.log(currentRandomVerse.chapterNumber);
   console.log(currentRandomVerse.verseNumber);
@@ -145,13 +145,10 @@ const selectBookListener = () => {
       missedBook = 20;
     } else {
       $('#' + userBookChoiceId).css("border", "3px solid green");
-      console.log(userBookChoice);
       for (let i = 0; i < bibleVerses.length; i++) {
         if (bibleVerses[i][0][0].bookName === userBookChoice) {
           userBookChoiceIndex = i;
-          console.log(bibleVerses[i][0][0].bookName);
           lastChapter = bibleVerses[i].length;
-          console.log(lastChapter);
           for (let j = 1; j <= lastChapter; j++) {
             $('#chapterChoice' + j).removeClass('hidden');
           }
@@ -173,14 +170,13 @@ const selectChapterListener = () => {
   $('.chapter').click((event) => {
     userChapterChoiceId = event.target.id;
     userChapterChoice = event.target.value;
+    let userChapterChoiceAsArr = userChapterChoice.split(' ');
+    userChapterChoice = Number(userChapterChoiceAsArr[1]);
     if (userChapterChoice !== currentRandomVerse.chapterNumber) {
       $('#' + userChapterChoiceId).css("border", "3px solid red");
       missedChapter = 30;
     } else {
       $('#' + userChapterChoiceId).css("border", "3px solid green");
-      console.log(userChapterChoice);
-      let userChapterChoiceAsArr = userChapterChoice.split(' ');
-      userChapterChoice = Number(userChapterChoiceAsArr[1]);
       lastVerse = bibleVerses[userBookChoiceIndex][userChapterChoice - 1].length;
       for (let i = 1; i <= lastVerse; i++) {
         $('#verseChoice' + i).removeClass('hidden');
@@ -200,18 +196,22 @@ const selectChapterListener = () => {
 const selectVerseListener = () => {
   $('.verse').click((event) => {
     userVerseChoiceId = event.target.id;
-    $('#' + userVerseChoiceId).css("border", "3px solid blue");
     userVerseChoice = event.target.value;
     let userVerseChoiceAsArr = userVerseChoice.split(' ');
     userVerseChoice = Number(userVerseChoiceAsArr[1]);
-    console.log(userVerseChoice);
-    for (let i = 1; i <= lastVerse; i++) {
-      let currentVerseChoice = "verseChoice" + i;
-      if (userVerseChoiceId !== currentVerseChoice) {
-        $('#' + currentVerseChoice).addClass('hidden');
+    if (userVerseChoice !== currentRandomVerse.verseNumber) {
+      $('#' + userVerseChoiceId).css("border", "3px solid red");
+      missedVerse = 40;
+    } else {
+      $('#' + userVerseChoiceId).css("border", "3px solid green");
+      for (let i = 1; i <= lastVerse; i++) {
+        let currentVerseChoice = "verseChoice" + i;
+        if (userVerseChoiceId !== currentVerseChoice) {
+          $('#' + currentVerseChoice).addClass('hidden');
+        }
       }
+      $('#selectVerse').addClass('hidden');
     }
-    $('#selectVerse').addClass('hidden');
   })
 }
 
@@ -228,6 +228,8 @@ $('#changeVerse').click(() => {
 $('#resetGuess').click(() => {
 
 })
+
+
 
 
 updateRandomVerse();
