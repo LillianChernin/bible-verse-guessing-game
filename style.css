@@ -55,3 +55,9 @@ button {
   border-radius: 0px;
   background-color: #fff7ce;
 }
+.section, .book, .chapter, .verse {
+  margin: 10px;
+  padding: 8px;
+  background-color: #e0fff9;
+  border: 1px solid #2e3534;
+}

@@ -6,7 +6,10 @@ let currentSection = "";
 let currentBook = "";
 let lastChapter = "";
 let lastVerse = "";
-let pointsForRound = 100;
+let missedSection = 0;
+let missedBook = 0;
+let missedChapter = 0;
+let missedVerse = 0;
 
 let userSectionChoice = "";
 let userBookChoice = "";
@@ -91,11 +94,11 @@ const updateRandomVerse = () => {
 const selectSectionListener = () => {
   $('#sectionChoice1').click((event) => {
     userSectionChoice = event.target.value;
-    $('#' + event.target.id).css("border", "3px solid blue");
     if (userSectionChoice !== currentSection) {
       $('#sectionChoice1').css("border", "3px solid red");
-      pointsForRound = pointsForRound - 10;
+      missedSection = 10;
     } else {
+      $('#' + event.target.id).css("border", "3px solid green");
       for (let i = 1; i <= 39; i++) {
         let currentSearch = '#' + 'bookChoice' + i;
         $(currentSearch).removeClass('hidden');
@@ -106,17 +109,17 @@ const selectSectionListener = () => {
       }
       userSectionChoice = "Old Testament";
       $('#sectionChoice2').addClass('hidden');
+      $('#selectSection').addClass('hidden');
+      $('#selectBook').removeClass('hidden');
     }
-    $('#selectSection').addClass('hidden');
-    $('#selectBook').removeClass('hidden');
   })
   $('#sectionChoice2').click((event) => {
     userSectionChoice = event.target.value;
-    $('#' + event.target.id).css("border", "3px solid blue");
     if (userSectionChoice !== currentSection) {
       $('#sectionChoice2').css("border", "3px solid red");
-      pointsForRound = pointsForRound - 10;
+      missedSection = 10;
     } else {
+      $('#' + event.target.id).css("border", "3px solid green");
       for (let i = 1; i <= 39; i++) {
         let currentSearch = '#' + 'bookChoice' + i;
         $(currentSearch).addClass('hidden');
@@ -127,60 +130,70 @@ const selectSectionListener = () => {
       }
       userSectionChoice = "New Testament";
       $('#sectionChoice1').addClass('hidden');
+      $('#selectSection').addClass('hidden');
+      $('#selectBook').removeClass('hidden');
     }
-    $('#selectSection').addClass('hidden');
-    $('#selectBook').removeClass('hidden');
   })
 }
 
 const selectBookListener = () => {
   $('.book').click((event) => {
-    userBookChoiceId = event.target.id;
-    $('#' + userBookChoiceId).css("border", "3px solid blue");
     userBookChoice = event.target.value;
-    console.log(userBookChoice);
-    for (let i = 0; i < bibleVerses.length; i++) {
-      if (bibleVerses[i][0][0].bookName === userBookChoice) {
-        userBookChoiceIndex = i;
-        console.log(bibleVerses[i][0][0].bookName);
-        lastChapter = bibleVerses[i].length;
-        console.log(lastChapter);
-        for (let j = 1; j <= lastChapter; j++) {
-          $('#chapterChoice' + j).removeClass('hidden');
+    userBookChoiceId = event.target.id;
+    if (userBookChoice !== currentRandomVerse.bookName) {
+      $('#' + userBookChoiceId).css("border", "3px solid red");
+      missedBook = 20;
+    } else {
+      $('#' + userBookChoiceId).css("border", "3px solid green");
+      console.log(userBookChoice);
+      for (let i = 0; i < bibleVerses.length; i++) {
+        if (bibleVerses[i][0][0].bookName === userBookChoice) {
+          userBookChoiceIndex = i;
+          console.log(bibleVerses[i][0][0].bookName);
+          lastChapter = bibleVerses[i].length;
+          console.log(lastChapter);
+          for (let j = 1; j <= lastChapter; j++) {
+            $('#chapterChoice' + j).removeClass('hidden');
+          }
         }
       }
-    }
-    for (let i = 1; i <= 66; i++) {
-      let currentBookChoice = "bookChoice" + i;
-      if (currentBookChoice !== userBookChoiceId) {
-        $('#' + currentBookChoice).addClass('hidden');
+      for (let i = 1; i <= 66; i++) {
+        let currentBookChoice = "bookChoice" + i;
+        if (currentBookChoice !== userBookChoiceId) {
+          $('#' + currentBookChoice).addClass('hidden');
+        }
       }
+      $('#selectBook').addClass('hidden');
+      $('#selectChapter').removeClass('hidden');
     }
-    $('#selectBook').addClass('hidden');
-    $('#selectChapter').removeClass('hidden');
   })
 }
 
 const selectChapterListener = () => {
   $('.chapter').click((event) => {
     userChapterChoiceId = event.target.id;
-    $('#' + userChapterChoiceId).css("border", "3px solid blue");
     userChapterChoice = event.target.value;
-    console.log(userChapterChoice);
-    let userChapterChoiceAsArr = userChapterChoice.split(' ');
-    userChapterChoice = Number(userChapterChoiceAsArr[1]);
-    lastVerse = bibleVerses[userBookChoiceIndex][userChapterChoice - 1].length;
-    for (let i = 1; i <= lastVerse; i++) {
-      $('#verseChoice' + i).removeClass('hidden');
-    }
-    for (let i = 1; i <= lastChapter; i++) {
-      let currentChapterChoice = "chapterChoice" + i;
-      if (userChapterChoiceId !== currentChapterChoice) {
-        $('#' + currentChapterChoice).addClass('hidden');
+    if (userChapterChoice !== currentRandomVerse.chapterNumber) {
+      $('#' + userChapterChoiceId).css("border", "3px solid red");
+      missedChapter = 30;
+    } else {
+      $('#' + userChapterChoiceId).css("border", "3px solid green");
+      console.log(userChapterChoice);
+      let userChapterChoiceAsArr = userChapterChoice.split(' ');
+      userChapterChoice = Number(userChapterChoiceAsArr[1]);
+      lastVerse = bibleVerses[userBookChoiceIndex][userChapterChoice - 1].length;
+      for (let i = 1; i <= lastVerse; i++) {
+        $('#verseChoice' + i).removeClass('hidden');
       }
+      for (let i = 1; i <= lastChapter; i++) {
+        let currentChapterChoice = "chapterChoice" + i;
+        if (userChapterChoiceId !== currentChapterChoice) {
+          $('#' + currentChapterChoice).addClass('hidden');
+        }
+      }
+      $('#selectChapter').addClass('hidden');
+      $('#selectVerse').removeClass('hidden');
     }
-    $('#selectChapter').addClass('hidden');
-    $('#selectVerse').removeClass('hidden');
   })
 }
 
@@ -198,27 +211,6 @@ const selectVerseListener = () => {
         $('#' + currentVerseChoice).addClass('hidden');
       }
     }
-    // if (userSectionChoice === currentRandomVerse.section) {
-    //   console.log("Correct Section was selected!");
-    // } else {
-    //
-    //   console.log("Incorrect Section was selected");
-    // }
-    // if (userBookChoice === currentRandomVerse.bookName) {
-    //   console.log("Correct Book was selected!");
-    // } else {
-    //   console.log("Incorrect Book was selected");
-    // }
-    // if (userChapterChoice === currentRandomVerse.chapterNumber) {
-    //   console.log("Correct Chapter Number was Selected!");
-    // } else {
-    //   console.log("Incorrect Chapter Number was Selected");
-    // }
-    // if (userVerseChoice === currentRandomVerse.verseNumber) {
-    //   console.log("Correct Verse Number was Selected!");
-    // } else  {
-    //   console.log("Incorrect Verse Number was selected");
-    // }
     $('#selectVerse').addClass('hidden');
   })
 }
