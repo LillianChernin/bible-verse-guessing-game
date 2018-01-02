@@ -36,7 +36,6 @@ const bibleVersesIndexesOrganizedByTheme = [
   [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64]
 ]
 
-
 const randomBookSelector = (identifier) => {
   if (identifier === "mainRandomVerse") {
     currentRandomVerseBookIndex = Math.floor(Math.random() * bibleVerses.length);
@@ -139,9 +138,6 @@ const getHint = () => {
   });
 }
 
-
-
-
 const updateRandomVerse = () => {
   guessChoices = [];
   randomVerseGenerator();
@@ -156,8 +152,6 @@ const updateRandomVerse = () => {
   console.log(currentRandomVerse.chapterNumber);
   console.log(currentRandomVerse.verseNumber);
 }
-
-
 
 const selectSectionListener = () => {
   $('#sectionChoice1').click((event) => {
@@ -254,17 +248,6 @@ const selectVerseListener = () => {
   })
 }
 
-$('#changeVerse').click(() => {
-  updateRandomVerse();
-  if (precedingVerse !== undefined) {
-    $('#precedingVerse').addClass("hidden");
-  }
-  if (succeedingVerse !== undefined) {
-    $('#succeedingVerse').addClass("hidden");
-  }
-})
-
-
 const randomGuessSelector = (array) => {
   let randomVerseIndex = Math.floor(Math.random() * array.length);
   for (let i = 0; i < guessChoices.length; i++) {
@@ -287,11 +270,6 @@ const randomGuessSelector = (array) => {
   guessChoices.push(array[randomVerseIndex]);
   return array[randomVerseIndex];
 }
-
-
-
-
-
 
 const randomGuessesGenerator = () => {
   if (currentGameDifficulty === "easy") {
@@ -322,37 +300,8 @@ const revealGameBoard = () => {
   $('#score').removeClass('hidden');
   $('#versesGuessed').removeClass('hidden');
   $('#randomVerseDisplay').removeClass('hidden');
+  $('#changeDifficulty').removeClass('hidden');
 }
-
-$('.difficultyButton').click((event) => {
-  let currentDifficultyButtonIdAsArr = (event.target.id).split('-');
-  currentGameDifficulty = currentDifficultyButtonIdAsArr[0];
-  updateRandomVerse();
-  revealGameBoard();
-  if (currentGameDifficulty === "expert") {
-    $('#expertModeIntro').removeClass('hidden');
-    $('#expertModePickGuess').removeClass('hidden');
-  } else {
-    if (currentGameDifficulty === "easy") {
-      for (let i = 1; i <= 4; i++) {
-        let currentGuessId = "guessChoice" + i;
-        $('#' + currentGuessId).removeClass('hidden');
-        $('#easyModeIntro').removeClass('hidden');
-      }
-    } else {
-      for (let i = 1; i <= 6; i++) {
-        let currentGuessId = "guessChoice" + i;
-        $("#" + currentGuessId).removeClass('hidden');
-      }
-      if (currentGameDifficulty === "normal") {
-        $('#normalModeIntro').removeClass('hidden');
-      } else {
-        $('#challengeModeIntro').removeClass('hidden');
-      }
-    }
-    $('#submitGuessDisplay').removeClass('hidden');
-  }
-})
 
 const resetGuess = () => {
   userSectionChoice = "";
@@ -382,13 +331,6 @@ const resetGuess = () => {
   $('#expertModeSubmitGuessDisplay').removeClass('hidden');
 }
 
-$('#resetGuess').click(() => {
-  resetGuess();
-})
-
-
-
-
 const checkGuess = () => {
   $('.guess').click((event) => {
     $('#submitGuessDisplay').addClass('hidden');
@@ -402,10 +344,16 @@ const checkGuess = () => {
     if (event.target.id === currentRandomVerseButtonId) {
       $('#resultMessage').text("You selected the correct verse, " + correctAnswer + ".  Good job!");
       $('#resultScreen').removeClass('hidden');
-      userScore+= 10;
-      $('#score').text("Current Score: " + userScore);
       roundVersesAnsweredCorrectly++;
       totalVersesAnsweredCorrectly++;
+      if (currentGameDifficulty === "easy") {
+        userScore+=5;
+      } else if (currentGameDifficulty === "normal") {
+        userScore+=10;
+      } else {
+        userScore+=15;
+      }
+      $('#score').text("Current Score: " + userScore);
     } else {
       $('#resultScreen').css("background-color", "#ff5959");
       $('#resultMessage').text("The correct answer was " + correctAnswer);
@@ -466,6 +414,71 @@ const submitGuess = () => {
   });
 }
 
+const resetBoard = () => {
+  resetGuess();
+  $('#expertModeIntro').addClass('hidden');
+  $('#expertModePickGuess').addClass('hidden');
+  $('#easyModeIntro').addClass('hidden');
+  $('#normalModeIntro').addClass('hidden');
+  $('#challengeModeIntro').addClass('hidden');
+  $('#submitGuessDisplay').addClass('hidden');
+  $('#expertModeSubmitGuessDisplay').addClass('hidden');
+  for (let i = 1; i <= 6; i++) {
+    let currentGuessId = "guessChoice" + i;
+    $("#" + currentGuessId).addClass('hidden');
+  }
+}
+
+
+$('#changeVerse').click(() => {
+  updateRandomVerse();
+  if (precedingVerse !== undefined) {
+    $('#precedingVerse').addClass("hidden");
+  }
+  if (succeedingVerse !== undefined) {
+    $('#succeedingVerse').addClass("hidden");
+  }
+})
+
+$('.difficultyButton').click((event) => {
+  if (currentGameDifficulty !== "") {
+    resetBoard();
+  }
+  let currentDifficultyButtonIdAsArr = (event.target.id).split('-');
+  currentGameDifficulty = currentDifficultyButtonIdAsArr[0];
+  updateRandomVerse();
+  revealGameBoard();
+  if (currentGameDifficulty === "expert") {
+    $('#expertModeIntro').removeClass('hidden');
+    $('#expertModePickGuess').removeClass('hidden');
+  } else {
+    if (currentGameDifficulty === "easy") {
+      for (let i = 1; i <= 4; i++) {
+        let currentGuessId = "guessChoice" + i;
+        $('#' + currentGuessId).removeClass('hidden');
+        $('#easyModeIntro').removeClass('hidden');
+      }
+    } else {
+      for (let i = 1; i <= 6; i++) {
+        let currentGuessId = "guessChoice" + i;
+        $("#" + currentGuessId).removeClass('hidden');
+      }
+      if (currentGameDifficulty === "normal") {
+        $('#normalModeIntro').removeClass('hidden');
+      } else {
+        $('#challengeModeIntro').removeClass('hidden');
+      }
+    }
+    $('#submitGuessDisplay').removeClass('hidden');
+  }
+})
+
+
+$('#resetGuess').click(() => {
+  resetGuess();
+})
+
+
 $('#nextVerse').click(() => {
   if (currentGameDifficulty !== "expert") {
     $('#submitGuessDisplay').removeClass('hidden');
@@ -510,6 +523,11 @@ $('#playAgain').click(() => {
   $('#playAgain').addClass('hidden');
   $('#nextVerse').removeClass('hidden');
   $('#roundCorrectlyGuessedPercentage').addClass('hidden');
+})
+
+$('#changeDifficulty').click(() => {
+  $('#changeDifficulty').addClass('hidden');
+  $('#selectDifficulty').removeClass('hidden');
 })
 
 
