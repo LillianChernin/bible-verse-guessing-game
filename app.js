@@ -1,18 +1,16 @@
 
 let precedingVerse = {};
 let currentRandomVerse = {};
+let currentRandomVerseShortDescription = "";
 let succeedingVerse = {};
 let currentSection = "";
 let currentBook = "";
 let lastChapter = "";
 let lastVerse = "";
 let userScore = 0;
-let missedSection = 0;
-let missedBook = 0;
-let missedChapter = 0;
-let missedVerse = 0;
-let currentRoundScore = 0;
 let roundNumber = 1;
+let versesAnswered = 0;
+let versesAnsweredCorrectly = 0;
 
 
 let userSectionChoice = "";
@@ -27,7 +25,6 @@ let currentGameDifficulty = "";
 
 let guessChoices = [];
 let currentRandomVerseButtonId = "";
-let currentScore = 0;
 
 
 
@@ -95,82 +92,55 @@ const getHint = () => {
 }
 
 
-const submitGuess = () => {
-  $('#submitGuess').click(() => {
-    $('#resultScreen').removeClass('hidden');
-    currentRoundScore = 100 - missedSection - missedBook - missedChapter - missedVerse;
-    userScore = userScore + currentRoundScore;
-    $('#score').text("Current Score: " + userScore);
-    $('#resultMessage').text()
-  });
-}
+
 
 const updateRandomVerse = () => {
-  if (currentGameDifficulty === )
+  if (currentGameDifficulty !== "expert") {
+    guessChoices = [];
+    randomGuessesGenerator();
+  }
   randomVerseGenerator();
   $('#randomVerse').text(currentRandomVerse.verseText);
   $('#precedingVerse').text(precedingVerse.verseText);
   $('#succeedingVerse').text(succeedingVerse.verseText);
+  currentRandomVerseShortDescription = currentRandomVerse.bookName + " " + currentRandomVerse.chapterNumber + ":" + currentRandomVerse.verseNumber;
   console.log(currentRandomVerse.bookName);
   console.log(currentRandomVerse.chapterNumber);
   console.log(currentRandomVerse.verseNumber);
 }
 
-//
-// const updateRandomVerse = () => {
-//   guessChoices = [];
-//   randomVerseGenerator();
-//   randomGuessesGenerator();
-//   $('#randomVerse').text(currentRandomVerse.verseText);
-//   $('#precedingVerse').text(precedingVerse.verseText);
-//   $('#succeedingVerse').text(succeedingVerse.verseText);
-//   console.log(currentRandomVerse.section + " " + currentRandomVerse.bookName)
-// }
-//
 
 
 const selectSectionListener = () => {
   $('#sectionChoice1').click((event) => {
     userSectionChoice = event.target.value;
-    if (userSectionChoice !== currentSection) {
-      $('#sectionChoice1').css("border", "3px solid red");
-      missedSection = 10;
-    } else {
-      $('#' + event.target.id).css("border", "3px solid green");
-      for (let i = 1; i <= 39; i++) {
-        let currentSearch = '#' + 'bookChoice' + i;
-        $(currentSearch).removeClass('hidden');
-      }
-      for (let i = 40; i <= 66; i++) {
-        let currentSearch = '#' + 'bookChoice' + i;
-        $(currentSearch).addClass('hidden');
-      }
-      userSectionChoice = "Old Testament";
-      $('#sectionChoice2').addClass('hidden');
-      $('#selectSection').addClass('hidden');
-      $('#selectBook').removeClass('hidden');
+    for (let i = 1; i <= 39; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).removeClass('hidden');
     }
+    for (let i = 40; i <= 66; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).addClass('hidden');
+    }
+    userSectionChoice = "Old Testament";
+    $('#sectionChoice2').addClass('hidden');
+    $('#selectSection').addClass('hidden');
+    $('#selectBook').removeClass('hidden');
   })
   $('#sectionChoice2').click((event) => {
     userSectionChoice = event.target.value;
-    if (userSectionChoice !== currentSection) {
-      $('#sectionChoice2').css("border", "3px solid red");
-      missedSection = 10;
-    } else {
-      $('#' + event.target.id).css("border", "3px solid green");
-      for (let i = 1; i <= 39; i++) {
-        let currentSearch = '#' + 'bookChoice' + i;
-        $(currentSearch).addClass('hidden');
-      }
-      for (let i = 40; i <= 66; i++) {
-        let currentSearch = '#' + 'bookChoice' + i;
-        $(currentSearch).removeClass('hidden');
-      }
-      userSectionChoice = "New Testament";
-      $('#sectionChoice1').addClass('hidden');
-      $('#selectSection').addClass('hidden');
-      $('#selectBook').removeClass('hidden');
+    for (let i = 1; i <= 39; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).addClass('hidden');
     }
+    for (let i = 40; i <= 66; i++) {
+      let currentSearch = '#' + 'bookChoice' + i;
+      $(currentSearch).removeClass('hidden');
+    }
+    userSectionChoice = "New Testament";
+    $('#sectionChoice1').addClass('hidden');
+    $('#selectSection').addClass('hidden');
+    $('#selectBook').removeClass('hidden');
   })
 }
 
@@ -178,29 +148,23 @@ const selectBookListener = () => {
   $('.book').click((event) => {
     userBookChoice = event.target.value;
     userBookChoiceId = event.target.id;
-    if (userBookChoice !== currentRandomVerse.bookName) {
-      $('#' + userBookChoiceId).css("border", "3px solid red");
-      missedBook = 20;
-    } else {
-      $('#' + userBookChoiceId).css("border", "3px solid green");
-      for (let i = 0; i < bibleVerses.length; i++) {
-        if (bibleVerses[i][0][0].bookName === userBookChoice) {
-          userBookChoiceIndex = i;
-          lastChapter = bibleVerses[i].length;
-          for (let j = 1; j <= lastChapter; j++) {
-            $('#chapterChoice' + j).removeClass('hidden');
-          }
+    for (let i = 0; i < bibleVerses.length; i++) {
+      if (bibleVerses[i][0][0].bookName === userBookChoice) {
+        userBookChoiceIndex = i;
+        lastChapter = bibleVerses[i].length;
+        for (let j = 1; j <= lastChapter; j++) {
+          $('#chapterChoice' + j).removeClass('hidden');
         }
       }
-      for (let i = 1; i <= 66; i++) {
-        let currentBookChoice = "bookChoice" + i;
-        if (currentBookChoice !== userBookChoiceId) {
-          $('#' + currentBookChoice).addClass('hidden');
-        }
-      }
-      $('#selectBook').addClass('hidden');
-      $('#selectChapter').removeClass('hidden');
     }
+    for (let i = 1; i <= 66; i++) {
+      let currentBookChoice = "bookChoice" + i;
+      if (currentBookChoice !== userBookChoiceId) {
+        $('#' + currentBookChoice).addClass('hidden');
+      }
+    }
+    $('#selectBook').addClass('hidden');
+    $('#selectChapter').removeClass('hidden');
   })
 }
 
@@ -210,24 +174,18 @@ const selectChapterListener = () => {
     userChapterChoice = event.target.value;
     let userChapterChoiceAsArr = userChapterChoice.split(' ');
     userChapterChoice = Number(userChapterChoiceAsArr[1]);
-    if (userChapterChoice !== currentRandomVerse.chapterNumber) {
-      $('#' + userChapterChoiceId).css("border", "3px solid red");
-      missedChapter = 30;
-    } else {
-      $('#' + userChapterChoiceId).css("border", "3px solid green");
-      lastVerse = bibleVerses[userBookChoiceIndex][userChapterChoice - 1].length;
-      for (let i = 1; i <= lastVerse; i++) {
-        $('#verseChoice' + i).removeClass('hidden');
-      }
-      for (let i = 1; i <= lastChapter; i++) {
-        let currentChapterChoice = "chapterChoice" + i;
-        if (userChapterChoiceId !== currentChapterChoice) {
-          $('#' + currentChapterChoice).addClass('hidden');
-        }
-      }
-      $('#selectChapter').addClass('hidden');
-      $('#selectVerse').removeClass('hidden');
+    lastVerse = bibleVerses[userBookChoiceIndex][userChapterChoice - 1].length;
+    for (let i = 1; i <= lastVerse; i++) {
+      $('#verseChoice' + i).removeClass('hidden');
     }
+    for (let i = 1; i <= lastChapter; i++) {
+      let currentChapterChoice = "chapterChoice" + i;
+      if (userChapterChoiceId !== currentChapterChoice) {
+        $('#' + currentChapterChoice).addClass('hidden');
+      }
+    }
+    $('#selectChapter').addClass('hidden');
+    $('#selectVerse').removeClass('hidden');
   })
 }
 
@@ -237,19 +195,14 @@ const selectVerseListener = () => {
     userVerseChoice = event.target.value;
     let userVerseChoiceAsArr = userVerseChoice.split(' ');
     userVerseChoice = Number(userVerseChoiceAsArr[1]);
-    if (userVerseChoice !== currentRandomVerse.verseNumber) {
-      $('#' + userVerseChoiceId).css("border", "3px solid red");
-      missedVerse = 40;
-    } else {
-      $('#' + userVerseChoiceId).css("border", "3px solid green");
-      for (let i = 1; i <= lastVerse; i++) {
-        let currentVerseChoice = "verseChoice" + i;
-        if (userVerseChoiceId !== currentVerseChoice) {
-          $('#' + currentVerseChoice).addClass('hidden');
-        }
+    for (let i = 1; i <= lastVerse; i++) {
+      let currentVerseChoice = "verseChoice" + i;
+      if (userVerseChoiceId !== currentVerseChoice) {
+        $('#' + currentVerseChoice).addClass('hidden');
       }
-      $('#selectVerse').addClass('hidden');
     }
+    $('#selectVerse').addClass('hidden');
+    $('#expertModeSubmitGuessDisplay').removeClass('hidden');
   })
 }
 
@@ -304,10 +257,18 @@ const randomGuessesGenerator = () => {
     let domID = "guessChoice" + (i + 1);
     let guessValue = guessChoices[i].bookName + " " + guessChoices[i].chapterNumber + ":" + guessChoices[i].verseNumber;
     $("#" + domID).attr("value", guessValue);
+    $("#" + domID).text(guessValue);
     if (guessChoices[i].bookName === currentRandomVerse.bookName && guessChoices[i].chapterNumber === currentRandomVerse.chapterNumber && guessChoices[i].verseNumber === currentRandomVerse.verseNumber) {
       currentRandomVerseButtonId = domID;
     }
   }
+}
+
+const revealGameBoard = () => {
+  $('#selectDifficulty').addClass('hidden');
+  $('#score').removeClass('hidden');
+  $('#versesGuessed').removeClass('hidden');
+  $('#randomVerseDisplay').removeClass('hidden');
 }
 
 $('.difficultyButton').click((event) => {
@@ -315,17 +276,62 @@ $('.difficultyButton').click((event) => {
   currentGameDifficulty = currentDifficultyButtonIdAsArr[0];
   console.log(currentGameDifficulty);
   updateRandomVerse();
+  revealGameBoard();
   if (currentGameDifficulty === "expert") {
-
+    $('#expertModeIntro').removeClass('hidden');
+    $('#expertModePickGuess').removeClass('hidden');
   } else {
-
+    if (currentGameDifficulty === "easy") {
+      for (let i = 1; i <= 4; i++) {
+        let currentGuessId = "guessChoice" + i;
+        $('#' + currentGuessId).removeClass('hidden');
+        $('#easyModeIntro').removeClass('hidden');
+      }
+    } else {
+      for (let i = 1; i <= 6; i++) {
+        let currentGuessId = "guessChoice" + i;
+        $("#" + currentGuessId).removeClass('hidden');
+      }
+      if (currentGameDifficulty === "normal") {
+        $('#normalModeIntro').removeClass('hidden');
+      } else {
+        $('#challengeModeIntro').removeClass('hidden');
+      }
+    }
+    $('#submitGuessDisplay').removeClass('hidden');
   }
 })
 
-
+const resetGuess = () => {
+  userSectionChoice = "";
+  userBookChoice = "";
+  userChapterChoice = "";
+  userVerseChoice = "";
+  userBookChoiceIndex = "";
+  userBookChoiceId = "";
+  userChapterChoiceId = "";
+  userVerseChoiceId = "";
+  for (let i = 1; i <= 2; i++) {
+    $('#sectionChoice' + i).removeClass('hidden');
+  }
+  for (let i = 1; i <= 66; i++) {
+    $('#bookChoice' + i).addClass('hidden');
+  }
+  for (let i = 1; i <= 150; i++) {
+    $('#chapterChoice' + i).addClass('hidden');
+  }
+  for (let i = 1; i <= 176; i++) {
+    $('#verseChoice' + i).addClass('hidden');
+  }
+  $('#selectSection').removeClass('hidden');
+  $('#selectBook').addClass('hidden');
+  $('#selectChapter').addClass('hidden');
+  $('#selectVerse').addClass('hidden');
+  $('#expertModeSubmitGuessDisplay').removeClass('hidden');
+}
 
 $('#resetGuess').click(() => {
-
+  resetGuess();
 })
 
 const bibleVersesIndexesOrganizedByTheme = [
@@ -348,17 +354,60 @@ const checkGuess = () => {
     roundNumber++;
     if (event.target.id === currentRandomVerseButtonId) {
       $('.guess').addClass("hidden");
-      $('#result').text("You selected the correct verse, " + correctAnswer + ".  Good job!");
+      $('#resultMessage').text("You selected the correct verse, " + correctAnswer + ".  Good job!");
       $('#resultScreen').removeClass('hidden');
-      currentScore+= 10;
-      $('#score').text("Current Score: " + currentScore);
+      userScore+= 10;
+      $('#score').text("Current Score: " + userScore);
     } else {
       $('.guess').addClass("hidden");
       $('#resultScreen').css("background-color", "#ff5959");
-      $('#result').text("The correct answer was " + correctAnswer);
+      $('#resultMessage').text("The correct answer was " + correctAnswer);
       $('#resultScreen').removeClass('hidden');
     }
   })
+}
+
+const calculatePercentageCorrectlyAnswered = () => {
+  return Math.round((versesAnsweredCorrectly / versesAnswered) * 100 * 100) / 100;
+}
+
+const submitGuess = () => {
+  $('#submitGuess').click(() => {
+    if (roundNumber === 10) {
+      $('#nextVerse').addClass('hidden');
+      $('#playAgain').removeClass('hidden');
+    }
+    versesAnswered++;
+    $('#resultScreen').removeClass('hidden');
+    if (userSectionChoice === currentRandomVerse.section && userBookChoice === currentRandomVerse.bookName && userChapterChoice === currentRandomVerse.chapterNumber && userVerseChoice === currentRandomVerse.verseNumber) {
+      $('#resultMessage').text("You guessed the verse correctly down to the right verse number! AMAZING JOB!!!");
+      userScore = userScore + 100;
+      versesAnsweredCorrectly++;
+    } else if (userSectionChoice === currentRandomVerse.section && userBookChoice === currentRandomVerse.bookName && userChapterChoice === currentRandomVerse.chapterNumber) {
+      $('#resultMessage').text("You guessed everything right except for the verse number!  Excellent Job!! The correct verse was " + currentRandomVerseShortDescription);
+      userScore = userScore + 60;
+      versesAnsweredCorrectly+=.75;
+    } else if (userSectionChoice === currentRandomVerse.section && userBookChoice === currentRandomVerse.bookName) {
+      $('#resultMessage').text("You guessed the section and book correctly!  Great job! The correct verse was " + currentRandomVerseShortDescription);
+      userScore = userScore + 30;
+      versesAnsweredCorrectly+=.50;
+    } else if (userSectionChoice === currentRandomVerse.section) {
+      $('#resultMessage').text("You guessed the section correctly!  Good job!  The correct verse was " + currentRandomVerseShortDescription);
+      userScore = userScore + 10;
+      versesAnsweredCorrectly+=.25;
+    } else {
+      $('#resultScreen').css("background-color", "#ff5959");
+      $('#resultMessage').text("Good attempt!  The correct verse was " + currentRandomVerseShortDescription + " in the " + currentRandomVerse.section);
+    }
+    if (roundNumber !== 10) {
+      roundNumber++;
+      $('#versesGuessed').text("Verse: " + roundNumber + "/10")
+    }
+    $('#correctlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered() + " Guess Accuracy");
+    $('#correctlyGuessedPercentage').removeClass('hidden');
+    $('#score').text("Current Score: " + userScore);
+    $('#expertModeSubmitGuessDisplay').addClass('hidden');
+  });
 }
 
 $('#nextVerse').click(() => {
@@ -374,6 +423,7 @@ $('#nextVerse').click(() => {
   if (succeedingVerse !== undefined) {
     $('#succeedingVerse').addClass("hidden");
   }
+  resetGuess();
 })
 
 
