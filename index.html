@@ -8,27 +8,51 @@
   <body>
     <header>
       <h1>Bible Verse Guessing Game</h1>
-      <p>Guess what section, book, chapter and verse the random verse is from.</p>
-      <ul>
-        <li>10 points for correctly guessing the section.</li>
-        <li>20 points for correctly guessing the book number.</li>
-        <li>30 points for correctly guessing the chapter number.</li>
-        <li>40 points for correctly guessing the verse number.</li>
-        <li>Need a hint? Click the "Want a hint?" button below to see the surrounding verses before you guess.</li>
-      </ul>
+      <p>Learn more about the bible by guessing the location of random verses.</p>
+      <div id="easyModeIntro" class="hidden">
+        <p>Guess where the random verse below is from. 5 points for each correct guess. Click the "Want a hint?" button to see the surrounding verses.</p>
+      </div>
+      <div id="normalModeIntro" class="hidden">
+        <p>Guess where the random verse below is from. 10 points for each correct guess. Click the "Want a hint?" button to see the surrounding verses.</p>
+      </div>
+      <div id="challengeModeIntro" class="hidden">
+        <p>Guess where the random verse below is from. 15 points for each correct guess. Click the "Want a hint?" hint button to see the surrounding verses.</p>
+      </div>
+      <div id="expertModeIntro" class="hidden">
+        <p>Guess what section, book, chapter and verse the random verse is from.</p>
+        <ul>
+          <li>10 points for correctly guessing the section.</li>
+          <li>20 points for correctly guessing the book number.</li>
+          <li>30 points for correctly guessing the chapter number.</li>
+          <li>40 points for correctly guessing the verse number.</li>
+          <li>Need a hint? Click the "Want a hint?" button below to see the surrounding verses before you guess.</li>
+        </ul>
+      </div>
+      <button id="changeDifficulty" class="hidden">Change Difficulty?</button>
+      <div id="selectDifficulty">
+        <h3>Select Game Difficulty:</h3>
+        <button class="difficultyButton" id="easy-ModeButton">Easy</button>
+        <button class="difficultyButton" id="normal-ModeButton">Normal</button>
+        <button class="difficultyButton" id="challenge-ModeButton">Challenge</button>
+        <button class="difficultyButton" id="expert-ModeButton">Expert</button>
+      </div>
 
-      <h4 id="score">Current Score: 0</h4>
+      <h4 id="score" class="hidden">Current Score: 0</h4>
+      <h4 id="versesGuessed" class="hidden">Verse: 1/10</h4>
+      <h4 id="correctlyGuessedPercentage" class="hidden"></h4>
 
     </header>
-
-    <div>
+    <div id="randomVerseDisplay" class="hidden">
       <h2>Random Verse</h2>
       <p class="hidden" id="precedingVerse"></p>
       <p id="randomVerse"></p>
       <p class="hidden" id="succeedingVerse"></p>
       <button id="changeVerse">Different Verse?</button>
+      <button id="hint">Want a hint?</button>
     </div>
 
+
+    <div id="expertModePickGuess" class="hidden">
       <h3 id="selectSection">Select the Section</h3>
       <button class="section" id="sectionChoice1" name="section" value="Old Testament">Old Testament</button>
       <button class="section" id="sectionChoice2" name="section" value="New Testament">New Testament</button>
@@ -430,14 +454,31 @@
       <button class="hidden verse" id="verseChoice174" name="verse" value="Verse 174">Verse 174</button>
       <button class="hidden verse" id="verseChoice175" name="verse" value="Verse 175">Verse 175</button>
       <button class="hidden verse" id="verseChoice176" name="verse" value="Verse 176">Verse 176</button>
-    <div id="resultScreen" class="hidden">
-      <p id="resultMessage"></p>
     </div>
 
-    <div>
-      <button id="hint">Want a hint?</button>
-      <button id="resetGuess">Reset Guess</button>
+    <div id="resultScreen" class="hidden">
+      <p id="resultMessage"></p>
+      <button id="nextVerse">Next Verse</button>
+      <button id="playAgain" class="hidden">Play Again?</button>
+    </div>
+
+    <div id="submitGuessDisplay" class="hidden">
+      <h3>Select your answer:</h3>
+      <ul>
+        <button class="guess hidden" id="guessChoice1"></button>
+        <button class="guess hidden" id="guessChoice2"></button>
+        <button class="guess hidden" id="guessChoice3"></button>
+        <button class="guess hidden" id="guessChoice4"></button>
+        <button class="guess hidden" id="guessChoice5"></button>
+        <button class="guess hidden" id="guessChoice6"></button>
+      </ul>
+    </div>
+
+
+
+    <div id="expertModeSubmitGuessDisplay" class="hidden">
       <button id="submitGuess">Submit Guess</button>
+      <button id="resetGuess">Reset Guess?</button>
     </div>
 
 

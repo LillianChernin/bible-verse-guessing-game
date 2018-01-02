@@ -12,6 +12,8 @@ let missedBook = 0;
 let missedChapter = 0;
 let missedVerse = 0;
 let currentRoundScore = 0;
+let roundNumber = 1;
+
 
 let userSectionChoice = "";
 let userBookChoice = "";
@@ -21,6 +23,12 @@ let userBookChoiceIndex = "";
 let userBookChoiceId = "";
 let userChapterChoiceId = "";
 let userVerseChoiceId = "";
+let currentGameDifficulty = "";
+
+let guessChoices = [];
+let currentRandomVerseButtonId = "";
+let currentScore = 0;
+
 
 
 const randomBookSelector = () => {
@@ -35,6 +43,7 @@ const randomChapterSelector = (array) => {
   currentChapter = array[randomChapterIndex][0].chapterNumber;
   return array[randomChapterIndex];
 }
+
 
 const randomVerseSelector = (array) => {
   let randomVerseIndex = Math.floor(Math.random() * array.length);
@@ -52,11 +61,25 @@ const randomVerseSelector = (array) => {
     succeedingVerse = array[randomVerseIndex + 1];
   }
   currentRandomVerse = array[randomVerseIndex];
+  guessChoices.push(currentRandomVerse);
   return currentRandomVerse;
 }
 
+
+
 const randomVerseGenerator = () => {
   randomVerseSelector(randomChapterSelector(randomBookSelector()))
+}
+
+
+const shuffleGuesses = () => {
+  for (let i = guessChoices.length - 1; i >= 0; i--) {
+    let randomIndex = Math.floor(Math.random() * (i + 1));
+    let elementAtIndex = guessChoices[randomIndex];
+    guessChoices[randomIndex] = guessChoices[i];
+    guessChoices[i] = elementAtIndex;
+  }
+  return guessChoices;
 }
 
 
@@ -71,7 +94,8 @@ const getHint = () => {
   });
 }
 
-const checkGuess = () => {
+
+const submitGuess = () => {
   $('#submitGuess').click(() => {
     $('#resultScreen').removeClass('hidden');
     currentRoundScore = 100 - missedSection - missedBook - missedChapter - missedVerse;
@@ -82,6 +106,7 @@ const checkGuess = () => {
 }
 
 const updateRandomVerse = () => {
+  if (currentGameDifficulty === )
   randomVerseGenerator();
   $('#randomVerse').text(currentRandomVerse.verseText);
   $('#precedingVerse').text(precedingVerse.verseText);
@@ -90,6 +115,19 @@ const updateRandomVerse = () => {
   console.log(currentRandomVerse.chapterNumber);
   console.log(currentRandomVerse.verseNumber);
 }
+
+//
+// const updateRandomVerse = () => {
+//   guessChoices = [];
+//   randomVerseGenerator();
+//   randomGuessesGenerator();
+//   $('#randomVerse').text(currentRandomVerse.verseText);
+//   $('#precedingVerse').text(precedingVerse.verseText);
+//   $('#succeedingVerse').text(succeedingVerse.verseText);
+//   console.log(currentRandomVerse.section + " " + currentRandomVerse.bookName)
+// }
+//
+
 
 const selectSectionListener = () => {
   $('#sectionChoice1').click((event) => {
@@ -225,6 +263,67 @@ $('#changeVerse').click(() => {
   }
 })
 
+
+const randomGuessSelector = (array) => {
+  let randomVerseIndex = Math.floor(Math.random() * array.length);
+  for (let i = 0; i < guessChoices.length; i++) {
+    if (array[randomVerseIndex].verseText === guessChoices[i].verseText) {
+      let newArray = randomChapterSelector(randomBookSelector());
+      let newRandomVerse = Math.floor(Math.random() * newArray.length);
+      for (let j = 0; j < guessChoices.length; j++) {
+        if (newArray[newRandomVerse].verseText === guessChoices[j].verseText) {
+          let lastArray = randomChapterSelector(randomBookSelector());
+          let lastRandomVerse = Math.floor(Math.random() * lastArray.length);
+          guessChoices.push(lastArray[lastRandomVerse])
+          return lastArray[lastRandomVerse];
+        } else {
+          guessChoices.push(newArray[newRandomVerse]);
+          return newArray[newRandomVerse];
+        }
+      }
+    }
+  }
+  guessChoices.push(array[randomVerseIndex]);
+  return array[randomVerseIndex];
+}
+
+
+
+const randomGuessesGenerator = () => {
+  if (currentGameDifficulty === "easy") {
+    for (let i = 0; i < 3; i++) {
+      randomGuessSelector(randomChapterSelector(randomBookSelector()));
+    }
+  } else {
+    for (let i = 0; i < 5; i++) {
+      randomGuessSelector(randomChapterSelector(randomBookSelector()));
+    }
+  }
+  shuffleGuesses();
+  for (let i = 0; i < guessChoices.length; i++) {
+    let domID = "guessChoice" + (i + 1);
+    let guessValue = guessChoices[i].bookName + " " + guessChoices[i].chapterNumber + ":" + guessChoices[i].verseNumber;
+    $("#" + domID).attr("value", guessValue);
+    if (guessChoices[i].bookName === currentRandomVerse.bookName && guessChoices[i].chapterNumber === currentRandomVerse.chapterNumber && guessChoices[i].verseNumber === currentRandomVerse.verseNumber) {
+      currentRandomVerseButtonId = domID;
+    }
+  }
+}
+
+$('.difficultyButton').click((event) => {
+  let currentDifficultyButtonIdAsArr = (event.target.id).split('-');
+  currentGameDifficulty = currentDifficultyButtonIdAsArr[0];
+  console.log(currentGameDifficulty);
+  updateRandomVerse();
+  if (currentGameDifficulty === "expert") {
+
+  } else {
+
+  }
+})
+
+
+
 $('#resetGuess').click(() => {
 
 })
@@ -239,10 +338,63 @@ const bibleVersesIndexesOrganizedByTheme = [
 ]
 
 
-updateRandomVerse();
+const checkGuess = () => {
+  $('.guess').click((event) => {
+    let correctAnswer = $('#' + currentRandomVerseButtonId).val();
+    if (roundNumber === 10) {
+      $('#nextVerse').addClass('hidden');
+      $('#playAgain').removeClass('hidden');
+    }
+    roundNumber++;
+    if (event.target.id === currentRandomVerseButtonId) {
+      $('.guess').addClass("hidden");
+      $('#result').text("You selected the correct verse, " + correctAnswer + ".  Good job!");
+      $('#resultScreen').removeClass('hidden');
+      currentScore+= 10;
+      $('#score').text("Current Score: " + currentScore);
+    } else {
+      $('.guess').addClass("hidden");
+      $('#resultScreen').css("background-color", "#ff5959");
+      $('#result').text("The correct answer was " + correctAnswer);
+      $('#resultScreen').removeClass('hidden');
+    }
+  })
+}
+
+$('#nextVerse').click(() => {
+  if (currentGameDifficulty !== "expert") {
+    $('.guess').removeClass("hidden");
+  }
+  $('#resultScreen').addClass('hidden');
+  $('#resultScreen').css("background-color", "#6add6a");
+  updateRandomVerse();
+  if (precedingVerse !== undefined) {
+    $('#precedingVerse').addClass("hidden");
+  }
+  if (succeedingVerse !== undefined) {
+    $('#succeedingVerse').addClass("hidden");
+  }
+})
+
+
+$('#playAgain').click(() => {
+  $('.guess').removeClass("hidden");
+  $('#resultScreen').addClass('hidden');
+  $('#resultScreen').css("background-color", "#6add6a");
+  updateRandomVerse();
+  if (precedingVerse !== undefined) {
+    $('#precedingVerse').addClass("hidden");
+  }
+  if (succeedingVerse !== undefined) {
+    $('#succeedingVerse').addClass("hidden");
+  }
+})
+
+
 selectSectionListener();
 selectBookListener();
 selectChapterListener();
 selectVerseListener();
 getHint();
+submitGuess();
 checkGuess();

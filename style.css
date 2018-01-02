@@ -1,6 +1,4 @@
-.hidden {
-  display: none;
-}
+
 h1, h2 {
   font-family: 'Cutive Mono', monospace;
 }
@@ -10,6 +8,32 @@ h3, h4 {
 
 p {
   font-family: 'Open Sans', sans-serif;
+}
+button {
+  font-family: 'Open Sans', sans-serif;
+  margin: 20px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #fff7ce;
+
+}
+
+.hidden {
+  display: none;
+}
+
+.guess {
+  font-family: 'Open Sans', sans-serif;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 0px;
+  background-color: #fff7ce;
+}
+.section, .book, .chapter, .verse {
+  margin: 10px;
+  padding: 8px;
+  background-color: #e0fff9;
+  border: 1px solid #2e3534;
 }
 
 #randomVerse, #precedingVerse, #succeedingVerse {
@@ -39,25 +63,4 @@ p {
   margin: auto 0;
   width: 10%;
   text-align: center;
-}
-button {
-  font-family: 'Open Sans', sans-serif;
-  margin: 20px;
-  padding: 10px;
-  font-size: 16px;
-  background-color: #fff7ce;
-
-}
-.guess {
-  font-family: 'Open Sans', sans-serif;
-  padding: 10px;
-  font-size: 16px;
-  border-radius: 0px;
-  background-color: #fff7ce;
-}
-.section, .book, .chapter, .verse {
-  margin: 10px;
-  padding: 8px;
-  background-color: #e0fff9;
-  border: 1px solid #2e3534;
 }
