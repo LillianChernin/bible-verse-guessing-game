@@ -9,9 +9,10 @@ let lastChapter = "";
 let lastVerse = "";
 let userScore = 0;
 let roundNumber = 1;
-let versesAnswered = 0;
-let versesAnsweredCorrectly = 0;
-
+let roundVersesAnswered = 0;
+let roundVersesAnsweredCorrectly = 0;
+let totalVersesAnswered = 0;
+let totalVersesAnsweredCorrectly = 0;
 
 let userSectionChoice = "";
 let userBookChoice = "";
@@ -95,11 +96,11 @@ const getHint = () => {
 
 
 const updateRandomVerse = () => {
+  guessChoices = [];
+  randomVerseGenerator();
   if (currentGameDifficulty !== "expert") {
-    guessChoices = [];
     randomGuessesGenerator();
   }
-  randomVerseGenerator();
   $('#randomVerse').text(currentRandomVerse.verseText);
   $('#precedingVerse').text(precedingVerse.verseText);
   $('#succeedingVerse').text(succeedingVerse.verseText);
@@ -255,6 +256,8 @@ const randomGuessesGenerator = () => {
   shuffleGuesses();
   for (let i = 0; i < guessChoices.length; i++) {
     let domID = "guessChoice" + (i + 1);
+    console.log(domID);
+    console.log(guessChoices.length);
     let guessValue = guessChoices[i].bookName + " " + guessChoices[i].chapterNumber + ":" + guessChoices[i].verseNumber;
     $("#" + domID).attr("value", guessValue);
     $("#" + domID).text(guessValue);
@@ -274,7 +277,6 @@ const revealGameBoard = () => {
 $('.difficultyButton').click((event) => {
   let currentDifficultyButtonIdAsArr = (event.target.id).split('-');
   currentGameDifficulty = currentDifficultyButtonIdAsArr[0];
-  console.log(currentGameDifficulty);
   updateRandomVerse();
   revealGameBoard();
   if (currentGameDifficulty === "expert") {
@@ -346,73 +348,84 @@ const bibleVersesIndexesOrganizedByTheme = [
 
 const checkGuess = () => {
   $('.guess').click((event) => {
+    $('#submitGuessDisplay').addClass('hidden');
     let correctAnswer = $('#' + currentRandomVerseButtonId).val();
     if (roundNumber === 10) {
       $('#nextVerse').addClass('hidden');
       $('#playAgain').removeClass('hidden');
     }
-    roundNumber++;
+    roundVersesAnswered++;
+    totalVersesAnswered++;
     if (event.target.id === currentRandomVerseButtonId) {
-      $('.guess').addClass("hidden");
       $('#resultMessage').text("You selected the correct verse, " + correctAnswer + ".  Good job!");
       $('#resultScreen').removeClass('hidden');
       userScore+= 10;
       $('#score').text("Current Score: " + userScore);
+      roundVersesAnsweredCorrectly++;
+      totalVersesAnsweredCorrectly++;
     } else {
-      $('.guess').addClass("hidden");
       $('#resultScreen').css("background-color", "#ff5959");
       $('#resultMessage').text("The correct answer was " + correctAnswer);
       $('#resultScreen').removeClass('hidden');
     }
+    $('#totalCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(totalVersesAnsweredCorrectly, totalVersesAnswered) + " Overall Guess Accuracy");
+    $('#totalCorrectlyGuessedPercentage').removeClass('hidden');
+    $('#roundCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(roundVersesAnsweredCorrectly, roundVersesAnswered) + " Guess Accuracy For This Round");
+    $('#roundCorrectlyGuessedPercentage').removeClass('hidden');
   })
 }
 
-const calculatePercentageCorrectlyAnswered = () => {
-  return Math.round((versesAnsweredCorrectly / versesAnswered) * 100 * 100) / 100;
+const calculatePercentageCorrectlyAnswered = (correctlyAnswered, answered) => {
+  return Math.round((correctlyAnswered / answered) * 100 * 100) / 100;
 }
 
 const submitGuess = () => {
   $('#submitGuess').click(() => {
+    versesAnswered++;
     if (roundNumber === 10) {
       $('#nextVerse').addClass('hidden');
       $('#playAgain').removeClass('hidden');
     }
-    versesAnswered++;
     $('#resultScreen').removeClass('hidden');
     if (userSectionChoice === currentRandomVerse.section && userBookChoice === currentRandomVerse.bookName && userChapterChoice === currentRandomVerse.chapterNumber && userVerseChoice === currentRandomVerse.verseNumber) {
       $('#resultMessage').text("You guessed the verse correctly down to the right verse number! AMAZING JOB!!!");
       userScore = userScore + 100;
-      versesAnsweredCorrectly++;
+      roundVersesAnsweredCorrectly++;
+      totalVersesAnsweredCorrectly++;
     } else if (userSectionChoice === currentRandomVerse.section && userBookChoice === currentRandomVerse.bookName && userChapterChoice === currentRandomVerse.chapterNumber) {
       $('#resultMessage').text("You guessed everything right except for the verse number!  Excellent Job!! The correct verse was " + currentRandomVerseShortDescription);
       userScore = userScore + 60;
-      versesAnsweredCorrectly+=.75;
+      roundVersesAnsweredCorrectly+=.75;
+      totalVersesAnsweredCorrectly+=.75;
     } else if (userSectionChoice === currentRandomVerse.section && userBookChoice === currentRandomVerse.bookName) {
       $('#resultMessage').text("You guessed the section and book correctly!  Great job! The correct verse was " + currentRandomVerseShortDescription);
       userScore = userScore + 30;
-      versesAnsweredCorrectly+=.50;
+      roundVersesAnsweredCorrectly+=.50;
+      totalVersesAnsweredCorrectly+=.50;
     } else if (userSectionChoice === currentRandomVerse.section) {
       $('#resultMessage').text("You guessed the section correctly!  Good job!  The correct verse was " + currentRandomVerseShortDescription);
       userScore = userScore + 10;
-      versesAnsweredCorrectly+=.25;
+      roundVersesAnsweredCorrectly+=.25;
+      totalVersesAnsweredCorrectly+=.25;
     } else {
       $('#resultScreen').css("background-color", "#ff5959");
       $('#resultMessage').text("Good attempt!  The correct verse was " + currentRandomVerseShortDescription + " in the " + currentRandomVerse.section);
     }
-    if (roundNumber !== 10) {
-      roundNumber++;
-      $('#versesGuessed').text("Verse: " + roundNumber + "/10")
-    }
-    $('#correctlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered() + " Guess Accuracy");
-    $('#correctlyGuessedPercentage').removeClass('hidden');
+    $('#totalCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(totalVersesAnsweredCorrectly, totalVersesAnswered) + " Overall Guess Accuracy");
+    $('#totalCorrectlyGuessedPercentage').removeClass('hidden');
+    $('#roundCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(roundVersesAnsweredCorrectly, roundVersesAnswered) + " Guess Accuracy For This Round");
+    $('#roundCorrectlyGuessedPercentage').removeClass('hidden');
     $('#score').text("Current Score: " + userScore);
     $('#expertModeSubmitGuessDisplay').addClass('hidden');
+
   });
 }
 
 $('#nextVerse').click(() => {
   if (currentGameDifficulty !== "expert") {
-    $('.guess').removeClass("hidden");
+    $('#submitGuessDisplay').removeClass('hidden');
+  } else {
+    resetGuess();
   }
   $('#resultScreen').addClass('hidden');
   $('#resultScreen').css("background-color", "#6add6a");
@@ -423,14 +436,23 @@ $('#nextVerse').click(() => {
   if (succeedingVerse !== undefined) {
     $('#succeedingVerse').addClass("hidden");
   }
-  resetGuess();
+  if (roundNumber !== 10) {
+    roundNumber++;
+    $('#versesGuessed').text("Verse: " + roundNumber + "/10")
+  }
 })
 
 
 $('#playAgain').click(() => {
-  $('.guess').removeClass("hidden");
+  if (currentGameDifficulty !== "expert") {
+    $('#submitGuessDisplay').removeClass('hidden');
+  }
   $('#resultScreen').addClass('hidden');
   $('#resultScreen').css("background-color", "#6add6a");
+  roundNumber = 1;
+  $('#versesGuessed').text("Verse: " + roundNumber + "/10");
+  roundVersesAnswered = 0;
+  roundVersesAnsweredCorrectly = 0;
   updateRandomVerse();
   if (precedingVerse !== undefined) {
     $('#precedingVerse').addClass("hidden");
@@ -438,6 +460,9 @@ $('#playAgain').click(() => {
   if (succeedingVerse !== undefined) {
     $('#succeedingVerse').addClass("hidden");
   }
+  $('#playAgain').addClass('hidden');
+  $('#nextVerse').removeClass('hidden');
+  $('#roundCorrectlyGuessedPercentage').addClass('hidden');
 })
 
 
