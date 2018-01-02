@@ -411,15 +411,19 @@ const checkGuess = () => {
       $('#resultMessage').text("The correct answer was " + correctAnswer);
       $('#resultScreen').removeClass('hidden');
     }
-    $('#totalCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(totalVersesAnsweredCorrectly, totalVersesAnswered) + " Overall Guess Accuracy");
-    $('#totalCorrectlyGuessedPercentage').removeClass('hidden');
-    $('#roundCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(roundVersesAnsweredCorrectly, roundVersesAnswered) + " Guess Accuracy For This Round");
-    $('#roundCorrectlyGuessedPercentage').removeClass('hidden');
+    updatePercentageCorrectlyAnswered();
   })
 }
 
 const calculatePercentageCorrectlyAnswered = (correctlyAnswered, answered) => {
   return Math.round((correctlyAnswered / answered) * 100 * 100) / 100;
+}
+
+const updatePercentageCorrectlyAnswered = () => {
+  $('#totalCorrectlyGuessedPercentage').text("Overall Guess Accuracy: %" + calculatePercentageCorrectlyAnswered(totalVersesAnsweredCorrectly, totalVersesAnswered));
+  $('#totalCorrectlyGuessedPercentage').removeClass('hidden');
+  $('#roundCorrectlyGuessedPercentage').text("Guess Accuracy For This Round: %" + calculatePercentageCorrectlyAnswered(roundVersesAnsweredCorrectly, roundVersesAnswered));
+  $('#roundCorrectlyGuessedPercentage').removeClass('hidden');
 }
 
 const submitGuess = () => {
@@ -455,10 +459,7 @@ const submitGuess = () => {
       $('#resultScreen').css("background-color", "#ff5959");
       $('#resultMessage').text("Good attempt!  The correct verse was " + currentRandomVerseShortDescription + " in the " + currentRandomVerse.section);
     }
-    $('#totalCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(totalVersesAnsweredCorrectly, totalVersesAnswered) + " Overall Guess Accuracy");
-    $('#totalCorrectlyGuessedPercentage').removeClass('hidden');
-    $('#roundCorrectlyGuessedPercentage').text("%" + calculatePercentageCorrectlyAnswered(roundVersesAnsweredCorrectly, roundVersesAnswered) + " Guess Accuracy For This Round");
-    $('#roundCorrectlyGuessedPercentage').removeClass('hidden');
+    updatePercentageCorrectlyAnswered();
     $('#score').text("Current Score: " + userScore);
     $('#expertModeSubmitGuessDisplay').addClass('hidden');
 
