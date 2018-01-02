@@ -2,9 +2,10 @@
 let precedingVerse = {};
 let currentRandomVerse = {};
 let currentRandomVerseShortDescription = "";
+let currentRandomVerseBookIndex = "";
+let currentRandomVerseThemeIndex = "";
+let currentRandomVerseButtonId = "";
 let succeedingVerse = {};
-let currentSection = "";
-let currentBook = "";
 let lastChapter = "";
 let lastVerse = "";
 let userScore = 0;
@@ -25,15 +26,61 @@ let userVerseChoiceId = "";
 let currentGameDifficulty = "";
 
 let guessChoices = [];
-let currentRandomVerseButtonId = "";
+
+const bibleVersesIndexesOrganizedByTheme = [
+  [0, 1, 2, 3, 4],
+  [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+  [17, 18, 19, 20, 21],
+  [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 65],
+  [39, 40, 41, 42, 43],
+  [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64]
+]
 
 
-
-const randomBookSelector = () => {
-  let randomBookIndex = Math.floor(Math.random() * bibleVerses.length);
-  currentBook = bibleVerses[randomBookIndex][0][0].bookName;
-  currentSection = bibleVerses[randomBookIndex][0][0].section;
-  return bibleVerses[randomBookIndex];
+const randomBookSelector = (identifier) => {
+  if (identifier === "mainRandomVerse") {
+    currentRandomVerseBookIndex = Math.floor(Math.random() * bibleVerses.length);
+    for (let i = 0; i < bibleVersesIndexesOrganizedByTheme.length; i++) {
+      for (let j = 0; j < bibleVersesIndexesOrganizedByTheme[i].length; j++) {
+        if (bibleVersesIndexesOrganizedByTheme[i][j] === currentRandomVerseBookIndex) {
+          currentRandomVerseThemeIndex = i;
+        }
+      }
+    }
+    return bibleVerses[currentRandomVerseBookIndex];
+  } else if (identifier === "guess") {
+    if (currentGameDifficulty === "easy") {
+      let randomGuessThemeIndex = "";
+      let randomGuessBookIndex = Math.floor(Math.random() * bibleVerses.length);
+      for (let i = 0; i < bibleVersesIndexesOrganizedByTheme.length; i++) {
+        for (let j = 0; j < bibleVersesIndexesOrganizedByTheme[i].length; j++) {
+          if (bibleVersesIndexesOrganizedByTheme[i][j] === randomGuessBookIndex) {
+            randomGuessThemeIndex = i;
+          }
+        }
+      }
+      while (randomGuessThemeIndex === currentRandomVerseThemeIndex) {
+        randomGuessBookIndex = Math.floor(Math.random() * bibleVerses.length);
+        for (let i = 0; i < bibleVersesIndexesOrganizedByTheme.length; i++) {
+          for (let j = 0; j < bibleVersesIndexesOrganizedByTheme[i].length; j++) {
+            if (bibleVersesIndexesOrganizedByTheme[i][j] === randomGuessBookIndex) {
+              randomGuessThemeIndex = i;
+            }
+          }
+        }
+      }
+      return bibleVerses[randomGuessBookIndex];
+    } else if (currentGameDifficulty === "challenge") {
+      let randomGuessBookIndex = Math.floor(Math.random() * bibleVersesIndexesOrganizedByTheme[currentRandomVerseThemeIndex].length);
+        return bibleVerses[bibleVersesIndexesOrganizedByTheme[currentRandomVerseThemeIndex][randomGuessBookIndex]];
+    } else {
+      let randomBookIndex = Math.floor(Math.random() * bibleVerses.length);
+      while (randomBookIndex === currentRandomVerseBookIndex) {
+        randomBookIndex = Math.floor(Math.random() * bibleVerses.length);
+      }
+      return bibleVerses[randomBookIndex];
+    }
+  }
 }
 
 const randomChapterSelector = (array) => {
@@ -66,7 +113,7 @@ const randomVerseSelector = (array) => {
 
 
 const randomVerseGenerator = () => {
-  randomVerseSelector(randomChapterSelector(randomBookSelector()))
+  randomVerseSelector(randomChapterSelector(randomBookSelector("mainRandomVerse")))
 }
 
 
@@ -222,11 +269,11 @@ const randomGuessSelector = (array) => {
   let randomVerseIndex = Math.floor(Math.random() * array.length);
   for (let i = 0; i < guessChoices.length; i++) {
     if (array[randomVerseIndex].verseText === guessChoices[i].verseText) {
-      let newArray = randomChapterSelector(randomBookSelector());
+      let newArray = randomChapterSelector(randomBookSelector("guess"));
       let newRandomVerse = Math.floor(Math.random() * newArray.length);
       for (let j = 0; j < guessChoices.length; j++) {
         if (newArray[newRandomVerse].verseText === guessChoices[j].verseText) {
-          let lastArray = randomChapterSelector(randomBookSelector());
+          let lastArray = randomChapterSelector(randomBookSelector("guess"));
           let lastRandomVerse = Math.floor(Math.random() * lastArray.length);
           guessChoices.push(lastArray[lastRandomVerse])
           return lastArray[lastRandomVerse];
@@ -243,14 +290,17 @@ const randomGuessSelector = (array) => {
 
 
 
+
+
+
 const randomGuessesGenerator = () => {
   if (currentGameDifficulty === "easy") {
     for (let i = 0; i < 3; i++) {
-      randomGuessSelector(randomChapterSelector(randomBookSelector()));
+      randomGuessSelector(randomChapterSelector(randomBookSelector("guess")));
     }
   } else {
     for (let i = 0; i < 5; i++) {
-      randomGuessSelector(randomChapterSelector(randomBookSelector()));
+      randomGuessSelector(randomChapterSelector(randomBookSelector("guess")));
     }
   }
   shuffleGuesses();
@@ -336,14 +386,7 @@ $('#resetGuess').click(() => {
   resetGuess();
 })
 
-const bibleVersesIndexesOrganizedByTheme = [
-  [0, 1, 2, 3, 4],
-  [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
-  [17, 18, 19, 20, 21],
-  [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 65],
-  [39, 40, 41, 42, 43],
-  [44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64]
-]
+
 
 
 const checkGuess = () => {
@@ -381,7 +424,8 @@ const calculatePercentageCorrectlyAnswered = (correctlyAnswered, answered) => {
 
 const submitGuess = () => {
   $('#submitGuess').click(() => {
-    versesAnswered++;
+    roundVersesAnswered++;
+    totalVersesAnswered++;
     if (roundNumber === 10) {
       $('#nextVerse').addClass('hidden');
       $('#playAgain').removeClass('hidden');
@@ -446,6 +490,8 @@ $('#nextVerse').click(() => {
 $('#playAgain').click(() => {
   if (currentGameDifficulty !== "expert") {
     $('#submitGuessDisplay').removeClass('hidden');
+  } else {
+    resetGuess();
   }
   $('#resultScreen').addClass('hidden');
   $('#resultScreen').css("background-color", "#6add6a");
