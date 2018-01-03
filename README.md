@@ -6,6 +6,10 @@
 Earn points by correctly guessing the section and book or chapter or verse of a random
 bible verse.
 
+## Play the Game Here:
+
+http://alpha-bible-verse-game.surge.sh/
+
 ## Motivation
 
 Create a game that encourages the user to learn more about the bible and increase

@@ -92,6 +92,7 @@ header {
   margin: 0 auto;
   width: 50%;
   padding: 20px;
+  text-align: center;
 }
 #result {
   text-align: center;
@@ -118,8 +119,6 @@ header {
 #nextVerse, #playAgain {
   margin: 0 auto;
 }
-
-
 
 .hidden {
   display: none;
