@@ -50,14 +50,25 @@ header {
   margin: 10px;
   padding: 8px;
   background-color: #e0fff9;
-  border: 1px solid #2e3534;
+  border: 1px solid #afd3cc;
 }
 
 #displayExpertModeGuess {
   background-color: #b2f7e9;
+  border: 2px solid #8ffcf1;
   margin: 15px auto;
   padding: 8px;
-  font-size: 20px;
+  font-size: 18px;
+  width: 40%;
+  text-align: center;
+}
+
+#correctAnswerDisplay {
+  background-color: #ffe14c;
+  border: 3px solid #fff763;
+  margin: 15px auto;
+  padding: 8px;
+  font-size: 18px;
   width: 40%;
   text-align: center;
 }
@@ -76,9 +87,10 @@ header {
 }
 #resultScreen {
   background-color: #6add6a;
+  border: 1px solid #f2ee76;
   z-index: 1;
   margin: 0 auto;
-  width: 40%;
+  width: 50%;
   padding: 20px;
 }
 #result {
@@ -87,6 +99,10 @@ header {
 }
 #playAgain {
   font-family: 'Open Sans', sans-serif;
+}
+#resultMessage, #finalGameMessage{
+  font-family: 'Cutive Mono', monospace;
+  font-size: 18px;
 }
 
 #score {
@@ -102,6 +118,8 @@ header {
 #nextVerse, #playAgain {
   margin: 0 auto;
 }
+
+
 
 .hidden {
   display: none;
