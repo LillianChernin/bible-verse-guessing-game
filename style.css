@@ -1,12 +1,9 @@
 
-h1, h2 {
-  font-family: 'Cutive Mono', monospace;
-}
-h3, h4 {
+body {
   font-family: 'Cutive Mono', monospace;
 }
 
-p {
+p, li {
   font-family: 'Open Sans', sans-serif;
 }
 button {
@@ -18,8 +15,9 @@ button {
 
 }
 
-.hidden {
-  display: none;
+#changeDifficulty, #hint, #changeVerse {
+  font-size: 15px;
+  padding: 7px;
 }
 
 .guess {
@@ -34,6 +32,15 @@ button {
   padding: 8px;
   background-color: #e0fff9;
   border: 1px solid #2e3534;
+}
+
+#displayExpertModeGuess {
+  background-color: #e0fff9;
+  border: 1px solid #2e3534;
+  margin: 10px;
+  padding: 8px;
+  font-size: 20px;
+  width: 30%;
 }
 
 #randomVerse, #precedingVerse, #succeedingVerse {
@@ -63,4 +70,8 @@ button {
   margin: auto 0;
   width: 10%;
   text-align: center;
+}
+
+.hidden {
+  display: none;
 }

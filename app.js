@@ -20,6 +20,7 @@ let userBookChoice = "";
 let userChapterChoice = "";
 let userVerseChoice = "";
 let userBookChoiceIndex = "";
+let userSectionChoiceId = "";
 let userBookChoiceId = "";
 let userChapterChoiceId = "";
 let userVerseChoiceId = "";
@@ -156,6 +157,7 @@ const updateRandomVerse = () => {
 const selectSectionListener = () => {
   $('#sectionChoice1').click((event) => {
     userSectionChoice = event.target.value;
+    userSectionChoiceId = event.target.id;
     for (let i = 1; i <= 39; i++) {
       let currentSearch = '#' + 'bookChoice' + i;
       $(currentSearch).removeClass('hidden');
@@ -171,6 +173,7 @@ const selectSectionListener = () => {
   })
   $('#sectionChoice2').click((event) => {
     userSectionChoice = event.target.value;
+    userSectionChoiceId = event.target.id;
     for (let i = 1; i <= 39; i++) {
       let currentSearch = '#' + 'bookChoice' + i;
       $(currentSearch).addClass('hidden');
@@ -333,12 +336,9 @@ const resetGuess = () => {
 
 const checkGuess = () => {
   $('.guess').click((event) => {
+    $('#finalGameMessage').addClass('hidden');
     $('#submitGuessDisplay').addClass('hidden');
     let correctAnswer = $('#' + currentRandomVerseButtonId).val();
-    if (roundNumber === 10) {
-      $('#nextVerse').addClass('hidden');
-      $('#playAgain').removeClass('hidden');
-    }
     roundVersesAnswered++;
     totalVersesAnswered++;
     if (event.target.id === currentRandomVerseButtonId) {
@@ -359,6 +359,12 @@ const checkGuess = () => {
       $('#resultMessage').text("The correct answer was " + correctAnswer);
       $('#resultScreen').removeClass('hidden');
     }
+    if (roundNumber === 10) {
+      $('#nextVerse').addClass('hidden');
+      $('#playAgain').removeClass('hidden');
+      $('#finalGameMessage').text(generateGameEndMessage);
+      $('#finalGameMessage').removeClass('hidden');
+    }
     updatePercentageCorrectlyAnswered();
   })
 }
@@ -374,14 +380,37 @@ const updatePercentageCorrectlyAnswered = () => {
   $('#roundCorrectlyGuessedPercentage').removeClass('hidden');
 }
 
+const generateGameEndMessage = () => {
+  let endRoundPercentage = calculatePercentageCorrectlyAnswered(roundVersesAnsweredCorrectly, roundVersesAnswered);
+  if (endRoundPercentage === 100) {
+    return "AMAZING JOB!! You had a perfect game!";
+  } else if (endRoundPercentage > 90) {
+    return "Excellent job!! You were " + endRoundPercentage + "% accurate this game!";
+  } else if (endRoundPercentage > 50) {
+    return "Great job!! You were " + endRoundPercentage + "% accurate this game!";
+  } else if (endRoundPercentage > 40) {
+    return "Good job! You were " + endRoundPercentage + "% accurate this game!";
+  } else {
+    return "Great effort! You were " + endRoundPercentage + "% accurate this game!";
+  }
+}
+
+const hideUsersSelectedButtons = () => {
+  $('#' + userSectionChoiceId).addClass('hidden');
+  $('#' + userBookChoiceId).addClass('hidden');
+  $('#' + userChapterChoiceId).addClass('hidden');
+  $('#' + userVerseChoiceId).addClass('hidden');
+}
+
 const submitGuess = () => {
   $('#submitGuess').click(() => {
+    $('#finalGameMessage').addClass('hidden');
+    $('#displayExpertModeGuess').text("Your guess is " + userBookChoice + " " + userChapterChoice + ":" + userVerseChoice + " in the " + userSectionChoice);
+    $('#displayExpertModeGuess').removeClass('hidden');
+    $('#changeVerse').addClass('hidden');
+    hideUsersSelectedButtons();
     roundVersesAnswered++;
     totalVersesAnswered++;
-    if (roundNumber === 10) {
-      $('#nextVerse').addClass('hidden');
-      $('#playAgain').removeClass('hidden');
-    }
     $('#resultScreen').removeClass('hidden');
     if (userSectionChoice === currentRandomVerse.section && userBookChoice === currentRandomVerse.bookName && userChapterChoice === currentRandomVerse.chapterNumber && userVerseChoice === currentRandomVerse.verseNumber) {
       $('#resultMessage').text("You guessed the verse correctly down to the right verse number! AMAZING JOB!!!");
@@ -406,6 +435,12 @@ const submitGuess = () => {
     } else {
       $('#resultScreen').css("background-color", "#ff5959");
       $('#resultMessage').text("Good attempt!  The correct verse was " + currentRandomVerseShortDescription + " in the " + currentRandomVerse.section);
+    }
+    if (roundNumber === 10) {
+      $('#nextVerse').addClass('hidden');
+      $('#playAgain').removeClass('hidden');
+      $('#finalGameMessage').text(generateGameEndMessage);
+      $('#finalGameMessage').removeClass('hidden');
     }
     updatePercentageCorrectlyAnswered();
     $('#score').text("Current Score: " + userScore);
@@ -485,7 +520,9 @@ $('#nextVerse').click(() => {
   } else {
     resetGuess();
   }
+  $('#changeVerse').removeClass('hidden');
   $('#resultScreen').addClass('hidden');
+  $('#displayExpertModeGuess').addClass('hidden');
   $('#resultScreen').css("background-color", "#6add6a");
   updateRandomVerse();
   if (precedingVerse !== undefined) {
@@ -496,7 +533,7 @@ $('#nextVerse').click(() => {
   }
   if (roundNumber !== 10) {
     roundNumber++;
-    $('#versesGuessed').text("Verse: " + roundNumber + "/10")
+    $('#versesGuessed').text("Verse: " + roundNumber + "/10");
   }
 })
 
@@ -507,7 +544,9 @@ $('#playAgain').click(() => {
   } else {
     resetGuess();
   }
+  $('#changeVerse').removeClass('hidden');
   $('#resultScreen').addClass('hidden');
+  $('#displayExpertModeGuess').addClass('hidden');
   $('#resultScreen').css("background-color", "#6add6a");
   roundNumber = 1;
   $('#versesGuessed').text("Verse: " + roundNumber + "/10");
