@@ -331,7 +331,7 @@ const resetGuess = () => {
   $('#selectBook').addClass('hidden');
   $('#selectChapter').addClass('hidden');
   $('#selectVerse').addClass('hidden');
-  $('#expertModeSubmitGuessDisplay').removeClass('hidden');
+  $('#expertModeSubmitGuessDisplay').addClass('hidden');
 }
 
 const checkGuess = () => {
@@ -569,6 +569,41 @@ $('#changeDifficulty').click(() => {
   $('#selectDifficulty').removeClass('hidden');
 })
 
+const updateStylingForScreenSize = () => {
+  if (window.screen.width < 500) {
+    $('header').css('width', '95%');
+    $('h1').css('font-size', '48px');
+    $('h2').css('font-size', '36px');
+    $('h3').css('font-size', '36px');
+    $('h4').css('font-size', '36px');
+    $('#randomVerseDisplay').css('width', '95%');
+    $('#submitGuessDisplay').css('width', '95%');
+    $('#expertModePickGuess').css('width', '95%');
+    $('#resultScreen').css('width', '95%');
+    $('#displayExpertModeGuess').css('width', '95%');
+    $('#displayExpertModeGuess').css('font-size', '24px');
+    $('button').css('font-size', '36px');
+    $('p').css('font-size','24px');
+    $('#score').css('font-size','36px');
+    $('#score').css('width', '75%')
+  } else if (window.screen.width < 960) {
+    $('header').css('width', '90%');
+    $('h1').css('font-size', '48px');
+    $('h2').css('font-size', '24px');
+    $('h3').css('font-size', '24px');
+    $('h4').css('font-size', '24px');
+    $('#randomVerseDisplay').css('width', '90%');
+    $('#submitGuessDisplay').css('width', '90%');
+    $('#expertModePickGuess').css('width', '90%');
+    $('#resultScreen').css('width', '90%');
+    $('#displayExpertModeGuess').css('width', '90%');
+    $('#displayExpertModeGuess').css('font-size', '24px');
+    $('button').css('font-size', '24px');
+    $('p').css('font-size','24px');
+    $('#score').css('font-size','24px');
+    $('#score').css('width', '60%')
+  }
+}
 
 selectSectionListener();
 selectBookListener();
@@ -577,3 +612,4 @@ selectVerseListener();
 getHint();
 submitGuess();
 checkGuess();
+updateStylingForScreenSize();

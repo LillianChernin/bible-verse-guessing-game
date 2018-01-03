@@ -2,6 +2,11 @@
 body {
   font-family: 'Cutive Mono', monospace;
 }
+h1 {
+  text-align: center;
+  border-bottom: 2px solid black;
+  padding-bottom: 10px;
+}
 
 p, li {
   font-family: 'Open Sans', sans-serif;
@@ -12,7 +17,21 @@ button {
   padding: 10px;
   font-size: 16px;
   background-color: #fff7ce;
+}
 
+header {
+  width: 60%;
+  margin: 0 auto;
+}
+
+#randomVerseDisplay, #expertModePickGuess {
+  width: 60%;
+  margin: 0 auto;
+}
+
+#submitGuessDisplay, #expertModeSubmitGuessDisplay {
+  width: 60%;
+  margin: 0 auto;
 }
 
 #changeDifficulty, #hint, #changeVerse {
@@ -37,23 +56,29 @@ button {
 #displayExpertModeGuess {
   background-color: #e0fff9;
   border: 1px solid #2e3534;
-  margin: 10px;
+  margin: 0 auto;
   padding: 8px;
   font-size: 20px;
-  width: 30%;
+  width: 40%;
+}
+
+#selectDifficulty {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 #randomVerse, #precedingVerse, #succeedingVerse {
   background-color: rgba(135, 181, 255, .8);
   padding: 20px;
-  margin: auto 0;
-  width: 30%;
+  margin: 0 auto;
+  width: 80%;
 }
 #resultScreen {
   background-color: #6add6a;
   z-index: 1;
   margin: 0 auto;
-  width: 30%;
+  width: 40%;
   padding: 20px;
 }
 #result {
@@ -66,10 +91,16 @@ button {
 
 #score {
   background-color: #ffe763;
-  padding: 15px;
-  margin: auto 0;
-  width: 10%;
+  padding: 12px;
+  margin: 0 auto;
+  width: 40%;
   text-align: center;
+}
+#versesGuessed {
+  text-align: center;
+}
+#nextVerse, #playAgain {
+  margin: 0 auto;
 }
 
 .hidden {
